@@ -5,9 +5,9 @@ public class HeadlessEngine {
         System.out.println("=== STARTING SMART CITY BACKEND ENGINE ===\n");
 
         // 1. Build the Graph Nodes (Intersections)
-        Intersection nodeA = new Intersection("A");
-        Intersection nodeB = new Intersection("B");
-        Intersection nodeC = new Intersection("C");
+        Intersection nodeA = new Intersection("A", 0, 0);
+        Intersection nodeB = new Intersection("B", 10, 0);
+        Intersection nodeC = new Intersection("C", 10, 10);
 
         // 2. Build the Graph Edges (Roads)
         Road roadAB = new Road(nodeA, nodeB, 5.0);
@@ -22,7 +22,11 @@ public class HeadlessEngine {
 
         // 4. Spawn a Vehicle using Dijkstra Strategy
         RoutingStrategy dijkstra = new DijkstraRouting();
-        Vehicle car1 = new Vehicle("V-001", nodeA, nodeC, dijkstra, cityGraph);
+        RoutingStrategy aStar = new AStarRouting();
+        RoutingStrategy bellman = new BellmanFordRouting();
+        Vehicle car1 = new Vehicle("V-Dijkstra", nodeA, nodeC, dijkstra, cityGraph);
+        Vehicle car2 = new Vehicle("V-AStar", nodeA, nodeC, aStar, cityGraph);
+        Vehicle car3 = new Vehicle("V-Bellman", nodeA, nodeC, bellman, cityGraph);
 
         System.out.println("\n--- SIMULATION STARTED ---");
 
