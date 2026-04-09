@@ -1,6 +1,6 @@
 public class Intersection {
     private String name;
-    private int x, y; // Added for A* Heuristic
+    private int x, y; 
     private String lightState;
     private int timer;
 
@@ -20,11 +20,21 @@ public class Intersection {
         }
     }
 
-    public String getName() { return name; }
-    public int getX() { return x; }
-    public int getY() { return y; }
-    public String getLightState() { return lightState; }
+    public String getName() { 
+        return name;
+    }
+    public int getX() {
+        return x; 
+    }
+    public int getY() {
+        return y;
+    }
+    public String getLightState() { 
+        return lightState;
+    }
     
-    @Override
-    public String toString() { return name; }
+    
+    public String toString() { 
+        return name;
+    }
 }
