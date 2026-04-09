@@ -35,8 +35,6 @@ public class Road {
         if (this.trafficDensity > 0)
             this.trafficDensity--;
     }
-
-    @Override
     public String toString() {
         return startNode.getName() + "->" + endNode.getName();
     }
