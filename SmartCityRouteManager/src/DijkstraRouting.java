@@ -16,7 +16,6 @@ public class DijkstraRouting implements RoutingStrategy {
         }
     }
 
-    @Override
     public List<Road> calculateRoute(Intersection start, Intersection target, Map<Intersection, List<Road>> graph) {
         PriorityQueue<NodeRecord> pq = new PriorityQueue<>();
         Map<Intersection, Double> distances = new HashMap<>();
