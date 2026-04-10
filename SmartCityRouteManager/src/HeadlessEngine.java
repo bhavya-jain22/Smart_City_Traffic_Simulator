@@ -43,6 +43,51 @@ public class HeadlessEngine {
             if (!car1.hasArrived()) {
                 car1.moveStep();
             } else {
+                System.out.println("\n=== ARRIVED ===");
+                break; // Stop simulation if car arrived
+            }
+
+            // Slow down the console output so you can read it
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+            }
+        }
+        for (int tick = 1; tick <= 10; tick++) {
+            System.out.println("\n[Tick " + tick + "]");
+
+            // Update environment
+            nodeA.updateLight();
+            nodeB.updateLight();
+            nodeC.updateLight();
+
+            // Move cars
+            if (!car2.hasArrived()) {
+                car2.moveStep();
+            } else {
+                System.out.println("\n=== ARRIVED ===");
+                break; // Stop simulation if car arrived
+            }
+
+            // Slow down the console output so you can read it
+            try {
+                Thread.sleep(1000);
+            } catch (InterruptedException e) {
+            }
+        }
+        for (int tick = 1; tick <= 10; tick++) {
+            System.out.println("\n[Tick " + tick + "]");
+
+            // Update environment
+            nodeA.updateLight();
+            nodeB.updateLight();
+            nodeC.updateLight();
+
+            // Move cars
+            if (!car3.hasArrived()) {
+                car3.moveStep();
+            } else {
+                System.out.println("\n=== ARRIVED ===");
                 break; // Stop simulation if car arrived
             }
 

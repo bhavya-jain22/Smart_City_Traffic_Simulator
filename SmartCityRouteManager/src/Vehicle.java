@@ -16,14 +16,14 @@ public class Vehicle {
         this.routeIndex = 0;
 
         System.out.println(
-                "🚗 Vehicle " + id + " spawned at " + start.getName() + " heading to " + destination.getName());
+                " Vehicle " + id + " spawned at " + start.getName() + " heading to " + destination.getName());
         this.currentRoute = router.calculateRoute(start, destination, graph);
         System.out.println("   -> Route planned: " + currentRoute);
     }
 
     public void moveStep() {
         if (routeIndex >= currentRoute.size()) {
-            System.out.println("🏁 Vehicle " + id + " has reached its destination (" + destination.getName() + ")!");
+            System.out.println("Vehicle " + id + " has reached its destination (" + destination.getName() + ")!");
             return;
         }
 
@@ -31,10 +31,10 @@ public class Vehicle {
         Intersection upcomingIntersection = currentRoad.getEndNode();
 
         if (upcomingIntersection.getLightState().equals("RED") && upcomingIntersection != destination) {
-            System.out.println("🛑 Vehicle " + id + " is waiting at a RED light at " + upcomingIntersection.getName());
+            System.out.println("Vehicle " + id + " is waiting at a RED light at " + upcomingIntersection.getName());
         } else {
             System.out.println(
-                    "💨 Vehicle " + id + " drives along road " + currentRoad.toString() + " past Green light.");
+                    " Vehicle " + id + " drives along road " + currentRoad.toString() + " past Green light.");
             routeIndex++; // Move to the next road in the list
         }
     }
