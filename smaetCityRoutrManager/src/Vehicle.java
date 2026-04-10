@@ -19,10 +19,9 @@ public class Vehicle {
 
         Road nextRoad = currentPath.get(0);
 
-        // VIVA FLEX: DYNAMIC REROUTING. If road is 70% full, abandon path and
-        // recalculate!
+        //If road is 70% full, abandon path and recalculate.
         if (nextRoad.getTrafficDensity() >= 0.7) {
-            System.out.println("⚠️ Traffic Jam Avoided by Vehicle! Recalculating...");
+            System.out.println("Traffic Jam Avoided by Vehicle! Recalculating...");
             this.currentPath = routingBrain.calculateRoute(currentLocation, targetDestination, this);
             if (currentPath.isEmpty())
                 return;
@@ -46,10 +45,9 @@ public class Vehicle {
     }
 }
 
-// --- INHERITANCE: The Premium Taxi ---
 class Taxi extends Vehicle {
     private double distanceTraveledMeters = 0.0;
-    private final double RATE_PER_KM = 15.0; // Rs. 15 per km
+    private final double RATE_PER_KM = 15.0; 
 
     public Taxi(Intersection start, Intersection target, RoutingStrategy brain) {
         super(start, target, brain);
@@ -59,17 +57,15 @@ class Taxi extends Vehicle {
     public void moveNextTick() {
         if (currentPath == null || currentPath.isEmpty()) {
             if (distanceTraveledMeters > 0) {
-                // Convert meters to actual kilometers!
                 double distanceInKm = distanceTraveledMeters / 1000.0;
 
                 // Calculate realistic fare
                 double fare = distanceInKm * RATE_PER_KM;
 
-                // Format to 2 decimal places so it looks like real money
-                System.out.println(String.format("🚖 TAXI ARRIVED! Distance: %.2f km | Fare Collected: Rs. %.2f",
+                System.out.println(String.format("TAXI ARRIVED! Distance: %.2f km | Fare Collected: Rs. %.2f",
                         distanceInKm, fare));
 
-                distanceTraveledMeters = 0; // Prevent infinite charging
+                distanceTraveledMeters = 0;
             }
             return;
         }

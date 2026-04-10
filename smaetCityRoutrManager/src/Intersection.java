@@ -4,7 +4,7 @@ import java.util.List;
 public class Intersection {
     private int id;
     private String name;
-    private int x, y; // VIVA FLEX: Coordinates needed for A* Euclidean Heuristic
+    private int x, y;
     private List<Road> connectedRoads;
 
     public Intersection(int id, String name, int x, int y) {

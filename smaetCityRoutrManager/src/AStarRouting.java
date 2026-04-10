@@ -24,19 +24,17 @@ public class AStarRouting implements RoutingStrategy {
         while (!frontier.isEmpty()) {
             Intersection current = frontier.poll().node;
 
-            if (current.equals(target)) break; // Path found!
+            if (current.equals(target)) break; // Path found
 
             for (Road edge : current.getConnectedRoads()) {
                 
-                // 1. HARD CONSTRAINT
                 if (edge.isUnderConstruction()) continue; 
 
-                // 2. SOFT CONSTRAINT & TRAFFIC
                 double potholePenalty = edge.getPotholeCount() * 50.0;
                 double trafficPenalty = edge.getTrafficDensity() * 1000.0;
                 double weatherPenalty = edge.getLength() * HeadLessEngine.weatherMultiplier;
 
-                // VIVA FLEX: The Core A* Math
+                // A* Math
                 double tentativeGCost = gCosts.get(current) + weatherPenalty + potholePenalty + trafficPenalty;
 
                 if (tentativeGCost < gCosts.getOrDefault(edge.getEnd(), Double.MAX_VALUE)) {
@@ -52,13 +50,13 @@ public class AStarRouting implements RoutingStrategy {
             }
         }
 
-        // Backtrack to build the final list of roads
+        // final list of roads
         LinkedList<Road> path = new LinkedList<>();
         Intersection curr = target;
         while (cameFrom.containsKey(curr)) {
             Road r = cameFrom.get(curr);
             path.addFirst(r);
-            curr = r.getStart(); // <--- THIS FIXES THE INFINITE LOOP!
+            curr = r.getStart();
         }
         
         return path;

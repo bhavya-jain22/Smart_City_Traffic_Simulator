@@ -5,11 +5,8 @@ public class Road {
     private double length;
     private int capacity;
 
-    // VIVA FLEX: Thread-safe variable to prevent JVM crashes when 100 cars move at
-    // once
+    // variable to prevent crash when 100 cars move at once
     private AtomicInteger currentCars;
-
-    // Hazards
     private boolean isUnderConstruction;
     private int potholeCount;
 
@@ -24,7 +21,6 @@ public class Road {
         this.potholeCount = potholes;
     }
 
-    // --- SYNCHRONIZED TRAFFIC LOGIC ---
     public synchronized void enterRoad() {
         currentCars.incrementAndGet();
     }
@@ -37,7 +33,6 @@ public class Road {
         return (double) currentCars.get() / capacity;
     }
 
-    // Getters
     public Intersection getEnd() {
         return end;
     }

@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class HeadLessEngine {
-    // VIVA FLEX: Global State Variable to mutate all edge weights at once
+    // Global State Variable to mutate all edge weights at once
     public static double weatherMultiplier = 1.0;
 
     public static void main(String[] args) throws InterruptedException {
@@ -9,14 +9,13 @@ public class HeadLessEngine {
 
         // 1. Load the Map
         Map<Integer, Intersection> cityGraph = MapLoader.loadMap("dehradun_map.txt");
-        System.out.println("✅ Map Loaded Successfully.");
+        System.out.println("Map Loaded Successfully.");
 
-        // 2. Setup Routing and Vehicles
        // 2. Setup Routing and Vehicles
         RoutingStrategy aStar = new AStarRouting();
         List<Vehicle> activeVehicles = new ArrayList<>();
         
-        System.out.println("🚗🚦 INITIATING RUSH HOUR TRAFFIC...");
+        System.out.println("INITIATING RUSH HOUR TRAFFIC...");
         
         // Spawn multiple vehicles with overlapping routes to force traffic!
         activeVehicles.add(new Vehicle(cityGraph.get(1), cityGraph.get(8), aStar)); // GEU to Clock Tower
@@ -25,10 +24,9 @@ public class HeadLessEngine {
         activeVehicles.add(new Vehicle(cityGraph.get(5), cityGraph.get(8), aStar)); // Prem Nagar to Clock Tower
         activeVehicles.add(new Taxi(cityGraph.get(1), cityGraph.get(6), aStar));    // GEU to Shimla Bypass
         activeVehicles.add(new Vehicle(cityGraph.get(2), cityGraph.get(8), aStar)); // Clement Town to Clock Tower
-        System.out.println("🚗 Spawned Regular Vehicle (Route: 1 -> 8)");
-        System.out.println("🚖 Spawned Premium Taxi (Route: 2 -> 11)");
+        System.out.println("Spawned Regular Vehicle (Route: 1 -> 8)");
+        System.out.println("Spawned Premium Taxi (Route: 2 -> 11)");
 
-        // 3. The Main Simulation Tick Loop
         // 3. The Main Simulation Tick Loop
         int tick = 0;
         while (tick < 30) { 
@@ -36,7 +34,7 @@ public class HeadLessEngine {
 
             // GLOBAL EVENT TRIGGER
             if (tick == 3) {
-                System.out.println("🚨 STORM INCOMING! Weather Multiplier is now 2.5 🚨");
+                System.out.println("STORM INCOMING! Weather Multiplier is now 2.5");
                 weatherMultiplier = 2.5;
             }
 
@@ -58,9 +56,9 @@ public class HeadLessEngine {
                 }
             }
 
-            // VIVA FLEX: Auto-Shutdown Logic
+            // Auto-Shutdown Logic
             if (allFinished) {
-                System.out.println("\n🏁 All vehicles have reached their destinations. Shutting down engine.");
+                System.out.println("\nAll vehicles have reached their destinations. Shutting down engine.");
                 break; // This stops the empty ticks!
             }
 

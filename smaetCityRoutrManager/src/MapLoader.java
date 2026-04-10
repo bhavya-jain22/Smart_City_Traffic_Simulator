@@ -4,7 +4,6 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class MapLoader {
-    // VIVA FLEX: Using BufferedReader for memory-efficient I/O parsing
     public static Map<Integer, Intersection> loadMap(String filename) {
         Map<Integer, Intersection> cityGraph = new HashMap<>();
 
