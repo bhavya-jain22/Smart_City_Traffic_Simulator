@@ -1,0 +1,19 @@
+NODE,1,Graphic Era Univ,2,2
+NODE,2,Clement Town,10,4
+NODE,3,Transport Nagar,15,8
+NODE,4,ISBT Hub,25,10
+NODE,5,Prem Nagar,5,15
+NODE,6,Shimla Bypass,35,12
+NODE,7,Vasant Vihar,40,15
+NODE,8,Clock Tower,48,18
+
+EDGE,1,2,500,10,false,0
+EDGE,2,3,400,15,false,1
+EDGE,3,4,600,20,false,0
+EDGE,1,5,800,10,false,3
+EDGE,5,4,700,12,false,0
+EDGE,4,6,300,25,false,0
+EDGE,4,7,500,15,true,0
+EDGE,6,7,400,15,false,0
+EDGE,7,8,600,20,false,0
+EDGE,4,8,1200,30,false,2
