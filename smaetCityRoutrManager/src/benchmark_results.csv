@@ -1,0 +1,3601 @@
+Algorithm,StartNode,EndNode,IsAmbulance,TicksAlive,TotalDistance,Status
+A* (A-Star) (Visual),Unknown,Node_9,false,715,6535.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,540,5536.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,307,2918.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,90,732.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,417,5385.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,568,5961.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,419,4189.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_78,false,84,788.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_21,false,566,6088.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,162,2338.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,225,2508.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_90,false,387,3657.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_140,false,435,4476.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,795,8339.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_105,false,378,4498.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,90,1335.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,427,3649.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,186,1863.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,301,3523.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,771,7215.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,452,4244.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,639,5930.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,345,3085.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_102,false,447,4241.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,345,2961.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_46,false,420,4405.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,true,207,6010.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_14,false,366,4185.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,377,4819.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,402,3639.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_97,false,522,5002.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,443,4295.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,814,8060.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,232,2196.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,509,4222.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,473,4878.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,665,6363.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,408,4810.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,245,2067.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,449,5527.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,35,521.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,515,4555.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,150,1346.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_36,false,814,6990.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,179,2042.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,710,7179.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,444,4915.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_98,false,746,6612.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_5,false,760,7212.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,416,4016.00,Arrived
+A* (A-Star) (Visual),Unknown,Prem Nagar,false,752,6994.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_31,false,441,5217.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,true,15,434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,262,2906.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,529,5830.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,646,7418.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,511,4525.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,425,4596.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,216,2473.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,53,740.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,534,6714.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,396,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_57,false,667,6906.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,185,1858.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,344,4465.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,667,7668.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,290,3014.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_67,false,247,2122.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,601,5454.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,415,4309.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,220,3207.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_132,false,145,1414.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,478,5467.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,312,3327.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_34,true,256,7401.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,168,1569.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,196,2236.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,620,6591.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,86,1265.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,580,5437.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_24,false,782,8102.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,985,9320.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,243,2974.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,433,4720.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,258,3518.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_128,false,350,3457.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,898,7750.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,490,5432.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,654,6539.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,false,274,3526.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,535,5223.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,206,2790.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,623,5134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,217,1989.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,142,1108.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,668,6110.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,477,5801.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,true,294,8502.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,330,4143.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,346,3908.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,344,4030.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,330,3703.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,385,3303.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_64,false,465,4041.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,437,4007.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,155,1432.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,327,2870.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,187,2021.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,true,229,6604.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,384,2909.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,641,6325.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,321,2938.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,524,6129.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,267,2600.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_73,false,125,1773.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_141,false,366,3261.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,682,6758.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,true,148,4268.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,424,4348.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,479,5023.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,408,4537.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,407,4489.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,112,875.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,false,147,1647.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,194,2218.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_140,false,565,6388.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_45,false,595,6809.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_75,false,648,5792.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,547,5715.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_49,false,311,3177.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,526,4945.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,true,118,3420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,273,2884.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,474,5364.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_6,false,551,5142.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,881,8100.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,44,650.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_107,false,173,1726.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,34,392.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,false,585,5532.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,131,1147.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,707,8530.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,559,5987.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,377,3830.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,355,4484.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,448,4811.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,556,4974.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,137,1179.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_115,false,199,2445.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,274,3529.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,439,4463.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,30,442.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,622,6945.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_12,false,381,3519.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,229,2120.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,619,5672.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,551,6345.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,160,1516.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,527,5016.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,181,1701.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,306,3747.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,466,5778.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,72,1075.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,345,3135.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,240,2772.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,383,4292.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,498,5909.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,503,4845.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_105,true,123,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_23,false,452,5111.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,296,3814.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,211,3124.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_127,false,497,5406.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,471,5930.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,126,1692.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,224,1685.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_9,false,403,3483.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,true,143,4121.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,258,3188.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,495,4362.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,598,6771.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,290,3099.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,418,4772.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,218,2449.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_75,false,80,1075.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,373,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,505,5290.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_33,false,297,2537.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,416,4213.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_56,false,150,1380.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,386,3208.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,408,4554.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,696,6338.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,656,6439.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,426,4226.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_67,false,298,3343.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,592,6243.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,true,205,5932.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,522,5101.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_74,false,569,6615.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,452,4282.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,88,1306.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_15,false,393,4318.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,106,1041.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,468,4407.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,744,7044.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,683,6793.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,287,3282.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,364,4511.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_38,false,442,5264.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,260,2771.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,false,564,5371.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,635,5740.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,547,5574.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,false,445,4021.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,249,2904.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,672,6869.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,327,3236.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,902,6875.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,119,1420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,119,1564.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_74,false,606,6738.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,true,153,4434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,false,511,4951.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,668,6664.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,276,2890.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_70,false,739,8073.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,181,1907.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,103,1533.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,251,2539.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,false,229,2605.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,45,673.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,false,559,5779.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_69,false,250,2247.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_57,false,290,3269.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,873,8000.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_127,false,643,5488.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,true,133,3870.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,188,2227.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_128,false,124,1834.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,229,2559.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,59,474.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,509,5847.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,221,2880.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_18,false,29,434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,405,3277.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,290,3397.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,569,5642.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,234,3310.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,536,5120.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,661,6436.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_46,false,343,3523.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_36,false,735,7863.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,363,4073.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,249,2937.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,603,6447.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,596,6151.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,true,164,4720.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,398,4721.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,false,320,3030.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,294,3736.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,112,1367.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,664,7345.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,825,8386.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,515,6134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,168,1454.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,593,6469.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_98,false,378,4418.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,614,6280.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,144,1719.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,355,4086.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_23,false,525,6054.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_26,false,416,4134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,212,2253.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,true,164,4758.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,427,4660.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,322,3145.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,510,5237.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,664,6815.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,498,4445.00,Arrived
+A* (A-Star) (Visual),Unknown,Rajpur Road,true,147,4272.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,273,2837.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,608,5601.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_76,false,326,3683.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_115,false,496,5569.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,false,244,2483.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_19,false,104,1534.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,194,1867.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,734,7349.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_97,false,316,2566.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,553,5066.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,275,2634.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,634,6508.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,240,1992.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_95,false,910,8418.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,100,1231.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_38,false,158,1587.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,537,5728.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,527,4218.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,504,4932.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,925,8000.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_87,false,349,3090.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_108,false,108,1591.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,836,7958.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,812,7570.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_33,false,464,5068.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,276,3318.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,275,3205.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_64,false,299,2929.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,454,5292.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,151,1792.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,334,3825.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,422,4472.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,458,5741.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_1,false,872,8311.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,93,1369.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_69,false,439,4422.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,100,860.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,552,5510.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,67,404.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_78,false,425,4011.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_92,false,373,4033.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,185,1527.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,583,5079.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,393,3858.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,343,3111.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_119,false,512,5466.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_70,false,657,6751.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,455,5148.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,431,3868.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,443,5465.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,115,1015.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,586,5899.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,226,1903.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,348,4012.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,630,6321.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,349,4023.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,285,3168.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_132,false,572,5997.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,258,2786.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,false,380,4186.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_28,false,610,6658.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,481,4367.00,Arrived
+A* (A-Star) (Visual),Unknown,Clock Tower,false,445,5087.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,354,3879.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,375,3653.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_133,false,621,6183.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,539,4988.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,false,536,6020.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,true,179,5180.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_34,false,328,4244.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,39,571.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,443,4258.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,570,6356.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,195,1844.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,454,4133.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_45,false,309,3648.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_95,false,632,5582.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_89,false,388,3527.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_55,false,149,2055.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,380,3226.00,Arrived
+A* (A-Star) (Visual),Unknown,Rajpur Road,false,65,533.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_107,false,215,2708.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,382,4311.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,151,787.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,775,7509.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_73,false,220,2006.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,289,2653.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_76,false,359,2801.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_18,false,658,5937.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,240,3032.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,839,7463.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,554,5967.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,286,2885.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,false,284,2620.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,61,890.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,286,2514.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_89,false,342,3061.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,715,6237.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,138,1287.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,249,2544.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_87,false,640,6051.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,false,168,2053.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,438,4493.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,353,4774.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,327,4176.00,Arrived
+A* (A-Star) (Visual),Unknown,Prem Nagar,false,404,4420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,383,4356.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,156,1453.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,348,4569.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,true,114,3309.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,true,138,3983.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,449,4705.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,459,4954.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_24,false,337,2908.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_20,false,300,2605.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_31,false,477,5146.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_108,false,282,3461.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,524,5459.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_1,false,326,3089.00,Arrived
+A*,Node_128,Node_9,false,49999,0.00,Stuck
+A*,Node_117,Node_40,false,49984,0.00,Stuck
+A*,Node_7,Node_54,false,49984,509.00,Stuck
+A*,Node_20,Node_8,false,49982,0.00,Stuck
+A*,Node_115,Node_40,false,49981,791.00,Stuck
+A*,Node_46,Node_13,false,49976,555.00,Stuck
+A*,Node_51,Node_86,false,49974,2575.00,Stuck
+A*,Node_66,Node_78,false,49972,0.00,Stuck
+A*,Node_102,Node_21,false,49968,1261.00,Stuck
+A*,Node_52,Node_66,false,49959,691.00,Stuck
+A*,Node_45,Node_82,false,49950,413.00,Stuck
+A*,Node_117,Node_90,false,49939,747.00,Stuck
+A*,Node_76,Node_140,false,49930,0.00,Stuck
+A*,Node_132,Node_17,false,49925,0.00,Stuck
+A*,Node_24,Node_105,false,49924,0.00,Stuck
+A*,Node_42,Node_32,false,49911,0.00,Stuck
+A*,Node_34,Node_96,false,49899,318.00,Stuck
+A*,Node_129,Node_104,false,49893,0.00,Stuck
+A*,Node_114,Node_94,false,49891,0.00,Stuck
+A*,Node_139,Node_86,false,49891,2821.00,Stuck
+A*,Node_69,Node_16,false,49888,0.00,Stuck
+A*,Pacific Mall,Node_125,false,49881,327.00,Stuck
+A*,Node_16,Paltan Bazaar,false,49880,0.00,Stuck
+A*,Node_49,Node_102,false,49879,0.00,Stuck
+A*,Node_126,Node_66,false,49873,0.00,Stuck
+A*,Node_77,Node_46,false,49868,0.00,Stuck
+A*,Unknown,Node_135,true,207,6010.00,Arrived
+A*,Node_54,Node_14,false,49850,938.00,Stuck
+A*,Node_103,Node_118,false,49848,2164.00,Stuck
+A*,Node_62,Node_135,false,49833,0.00,Stuck
+A*,Rajpur Road,Node_97,false,49820,533.00,Stuck
+A*,Node_68,Node_118,false,49818,875.00,Stuck
+A*,Node_126,Node_62,false,49816,4192.00,Stuck
+A*,Node_75,Node_40,false,49815,451.00,Stuck
+A*,Graphic Era Univ,Node_101,false,49814,434.00,Stuck
+A*,Rajpur Road,Node_88,false,49814,2574.00,Stuck
+A*,Node_115,Node_4,false,49802,791.00,Stuck
+A*,Node_91,Node_48,false,49784,0.00,Stuck
+A*,Node_74,Node_110,false,49780,451.00,Stuck
+A*,Node_80,Node_16,false,49765,1328.00,Stuck
+A*,Unknown,Node_10,false,35,521.00,Arrived
+A*,Node_80,Node_144,false,49752,0.00,Stuck
+A*,Node_99,Node_86,false,49750,327.00,Stuck
+A*,Node_114,Node_36,false,49746,0.00,Stuck
+A*,Node_21,Node_11,false,49746,602.00,Stuck
+A*,Node_47,Node_136,false,49730,0.00,Stuck
+A*,Node_49,Node_136,false,49723,0.00,Stuck
+A*,Node_29,Node_98,false,49720,2649.00,Stuck
+A*,Node_141,Node_5,false,49714,0.00,Stuck
+A*,Node_105,Node_43,false,49705,0.00,Stuck
+A*,Node_36,Prem Nagar,false,49701,0.00,Stuck
+A*,Node_115,Node_31,false,49683,791.00,Stuck
+A*,Unknown,Node_30,true,15,434.00,Arrived
+A*,Node_49,Node_110,false,49677,0.00,Stuck
+A*,Pacific Mall,Node_99,false,49668,0.00,Stuck
+A*,Node_97,Node_72,false,49665,0.00,Stuck
+A*,Node_25,Node_122,false,49662,0.00,Stuck
+A*,Node_114,Node_32,false,49648,0.00,Stuck
+A*,Node_87,Node_126,false,49644,0.00,Stuck
+A*,Unknown,Node_41,false,50,740.00,Arrived
+A*,Node_135,Node_106,false,49642,1303.00,Stuck
+A*,Clock Tower,Node_82,false,49641,0.00,Stuck
+A*,Node_135,Node_57,false,49634,0.00,Stuck
+A*,Unknown,Node_110,false,126,1858.00,Arrived
+A*,Node_66,Node_37,false,49632,423.00,Stuck
+A*,Clock Tower,Node_29,false,49629,0.00,Stuck
+A*,Graphic Era Univ,Node_65,false,49627,434.00,Stuck
+A*,Node_18,Node_67,false,49619,0.00,Stuck
+A*,Node_3,Node_121,false,49619,0.00,Stuck
+A*,Clock Tower,Node_47,false,49615,0.00,Stuck
+A*,Node_50,Node_4,false,49614,506.00,Stuck
+A*,Unknown,Node_132,false,96,1414.00,Arrived
+A*,Node_86,Node_32,false,49613,521.00,Stuck
+A*,Pacific Mall,Node_104,false,49601,327.00,Stuck
+A*,Unknown,Node_34,true,256,7401.00,Arrived
+A*,Node_89,Node_53,false,49600,0.00,Stuck
+A*,Graphic Era Univ,Node_54,false,49593,0.00,Stuck
+A*,Node_70,Node_85,false,49585,0.00,Stuck
+A*,Node_30,Node_66,false,49580,0.00,Stuck
+A*,Node_106,Node_135,false,49569,0.00,Stuck
+A*,Node_126,Node_24,false,49568,0.00,Stuck
+A*,Node_12,Node_137,false,49567,0.00,Stuck
+A*,Node_87,Node_29,false,49558,0.00,Stuck
+A*,Node_68,Node_142,false,49549,452.00,Stuck
+A*,Node_33,Node_104,false,49547,0.00,Stuck
+A*,Node_82,Node_128,false,49546,713.00,Stuck
+A*,Node_57,Node_144,false,49535,2981.00,Stuck
+A*,Node_7,Node_13,false,49534,509.00,Stuck
+A*,Unknown,Node_144,false,442,6539.00,Arrived
+A*,Node_103,Node_30,false,49527,0.00,Stuck
+A*,Node_76,Node_118,false,49526,0.00,Stuck
+A*,Node_89,Node_52,false,49514,532.00,Stuck
+A*,Node_81,ISBT Hub,false,49513,0.00,Stuck
+A*,Paltan Bazaar,Node_8,false,49509,0.00,Stuck
+A*,Node_70,Node_59,false,49505,0.00,Stuck
+A*,Node_20,Node_111,false,49488,0.00,Stuck
+A*,ISBT Hub,Node_4,false,49483,459.00,Stuck
+A*,Unknown,Node_25,true,292,8451.00,Arrived
+A*,Node_66,Node_7,false,49473,1248.00,Stuck
+A*,Node_19,Node_82,false,49471,0.00,Stuck
+A*,Node_86,Node_17,false,49468,0.00,Stuck
+A*,Node_75,Node_43,false,49466,451.00,Stuck
+A*,Node_37,Node_99,false,49458,0.00,Stuck
+A*,Node_30,Node_64,false,49458,1251.00,Stuck
+A*,Node_117,Node_72,false,49456,715.00,Stuck
+A*,Node_81,Node_106,false,49454,0.00,Stuck
+A*,Unknown,Node_10,false,194,2870.00,Arrived
+A*,Prem Nagar,Node_137,false,49446,0.00,Stuck
+A*,Unknown,Node_2,true,229,6604.00,Arrived
+A*,Node_5,Node_66,false,49431,358.00,Stuck
+A*,Node_134,Node_17,false,49430,0.00,Stuck
+A*,Node_117,Node_80,false,49429,747.00,Stuck
+A*,Node_141,Node_72,false,49423,1694.00,Stuck
+A*,Node_12,Node_72,false,49420,0.00,Stuck
+A*,Node_38,Node_73,false,49413,0.00,Stuck
+A*,Node_57,Node_141,false,49395,0.00,Stuck
+A*,Node_23,Node_126,false,49390,0.00,Stuck
+A*,Unknown,Node_142,true,148,4268.00,Arrived
+A*,Node_114,Node_29,false,49381,0.00,Stuck
+A*,Node_15,Node_91,false,49367,0.00,Stuck
+A*,Node_57,Node_126,false,49364,0.00,Stuck
+A*,Node_17,Node_86,false,49362,459.00,Stuck
+A*,Unknown,Node_3,false,59,875.00,Arrived
+A*,Node_48,Node_83,false,49346,0.00,Stuck
+A*,Node_65,Node_113,false,49343,0.00,Stuck
+A*,Node_49,Node_140,false,49340,0.00,Stuck
+A*,Node_137,Node_45,false,49339,0.00,Stuck
+A*,Node_51,Node_75,false,49336,5006.00,Stuck
+A*,Node_1,Node_7,false,49330,0.00,Stuck
+A*,Node_88,Node_49,false,49326,357.00,Stuck
+A*,Node_16,Node_122,false,49317,0.00,Stuck
+A*,Unknown,Node_83,true,118,3420.00,Arrived
+A*,Node_94,Node_142,false,49316,749.00,Stuck
+A*,Node_66,Node_47,false,49310,1981.00,Stuck
+A*,Node_83,Node_6,false,49305,0.00,Stuck
+A*,Node_111,Node_10,false,49298,0.00,Stuck
+A*,Node_25,Node_37,false,49297,0.00,Stuck
+A*,Node_84,Node_107,false,49293,0.00,Stuck
+A*,Unknown,Node_59,false,27,392.00,Arrived
+A*,Node_29,Node_138,false,49279,0.00,Stuck
+A*,Node_54,Node_42,false,49267,633.00,Stuck
+A*,Node_16,Node_120,false,49264,1071.00,Stuck
+A*,Node_30,Node_113,false,49264,1884.00,Stuck
+A*,Unknown,Node_25,false,259,3830.00,Arrived
+A*,Node_29,Node_63,false,49261,2334.00,Stuck
+A*,Node_9,Node_104,false,49257,452.00,Stuck
+A*,Node_5,Node_80,false,49252,875.00,Stuck
+A*,Node_105,Node_118,false,49248,0.00,Stuck
+A*,Node_137,Node_115,false,49234,0.00,Stuck
+A*,Node_98,Node_41,false,49230,0.00,Stuck
+A*,Node_38,Node_135,false,49223,0.00,Stuck
+A*,Node_66,Node_54,false,49216,0.00,Stuck
+A*,Node_1,Node_135,false,49213,0.00,Stuck
+A*,Node_69,Node_12,false,49209,0.00,Stuck
+A*,Node_33,Node_7,false,49205,318.00,Stuck
+A*,Node_33,Node_113,false,49204,318.00,Stuck
+A*,Node_134,Node_17,false,49195,0.00,Stuck
+A*,Node_17,Node_41,false,49189,459.00,Stuck
+A*,Clock Tower,Node_136,false,49187,782.00,Stuck
+A*,Node_143,Node_130,false,49179,651.00,Stuck
+A*,Node_23,Node_96,false,49178,0.00,Stuck
+A*,Node_135,Node_54,false,49177,566.00,Stuck
+A*,Node_19,Node_32,false,49175,0.00,Stuck
+A*,Node_86,Node_65,false,49169,521.00,Stuck
+A*,Node_77,Node_42,false,49167,718.00,Stuck
+A*,Node_96,Node_11,false,49163,0.00,Stuck
+A*,Rajpur Road,Node_134,false,49162,533.00,Stuck
+A*,Node_15,Node_113,false,49161,481.00,Stuck
+A*,Unknown,Node_105,true,123,3576.00,Arrived
+A*,Clement Town,Node_23,false,49149,4463.00,Stuck
+A*,Node_140,Node_117,false,49145,2027.00,Stuck
+A*,Node_126,Node_91,false,49144,946.00,Stuck
+A*,Node_21,Node_127,false,49143,0.00,Stuck
+A*,Node_115,Node_8,false,49124,0.00,Stuck
+A*,Node_103,Node_126,false,49113,0.00,Stuck
+A*,Node_110,Node_121,false,49092,544.00,Stuck
+A*,Node_83,Node_9,false,49087,0.00,Stuck
+A*,Unknown,Node_72,true,143,4121.00,Arrived
+A*,Node_142,Node_120,false,49084,1126.00,Stuck
+A*,Node_74,Node_137,false,49077,513.00,Stuck
+A*,Node_42,Node_120,false,49054,740.00,Stuck
+A*,Node_114,Node_103,false,49052,1858.00,Stuck
+A*,Prem Nagar,Node_129,false,49046,989.00,Stuck
+A*,Node_101,Node_110,false,49043,503.00,Stuck
+A*,Node_63,Node_75,false,49038,733.00,Stuck
+A*,Clock Tower,Node_82,false,49018,0.00,Stuck
+A*,Node_5,Node_103,false,49018,358.00,Stuck
+A*,Node_5,Node_33,false,49013,0.00,Stuck
+A*,Node_80,Node_130,false,49011,1080.00,Stuck
+A*,Node_66,Node_56,false,49007,0.00,Stuck
+A*,Node_39,Node_25,false,49003,1847.00,Stuck
+A*,Node_116,Node_110,false,49002,715.00,Stuck
+A*,Node_60,Node_112,false,48994,0.00,Stuck
+A*,Node_9,Node_129,false,48994,1659.00,Stuck
+A*,Node_4,Node_13,false,48994,1048.00,Stuck
+A*,Node_7,Node_67,false,48991,0.00,Stuck
+A*,Node_30,Node_124,false,48989,1251.00,Stuck
+A*,Unknown,Node_136,true,205,5932.00,Arrived
+A*,Node_16,Node_60,false,48979,0.00,Stuck
+A*,Node_9,Node_74,false,48979,521.00,Stuck
+A*,Node_126,Node_50,false,48976,0.00,Stuck
+A*,Node_56,Node_80,false,48967,0.00,Stuck
+A*,Node_99,Node_15,false,48950,1085.00,Stuck
+A*,Node_106,Node_130,false,48941,0.00,Stuck
+A*,Node_122,Node_53,false,48940,0.00,Stuck
+A*,Node_23,Node_101,false,48940,745.00,Stuck
+A*,Node_75,Node_60,false,48939,964.00,Stuck
+A*,Node_21,Node_7,false,48934,1822.00,Stuck
+A*,Node_102,Node_51,false,48932,1331.00,Stuck
+A*,Node_92,Node_38,false,48931,0.00,Stuck
+A*,Node_113,Node_65,false,48923,442.00,Stuck
+A*,Node_63,Node_83,false,48921,0.00,Stuck
+A*,Node_139,Node_52,false,48907,381.00,Stuck
+A*,Node_126,Node_63,false,48905,2046.00,Stuck
+A*,Node_141,Pacific Mall,false,48900,0.00,Stuck
+A*,Node_116,Node_125,false,48891,715.00,Stuck
+A*,Node_139,Node_22,false,48889,0.00,Stuck
+A*,Node_46,Node_117,false,48884,0.00,Stuck
+A*,Node_30,Node_111,false,48882,1884.00,Stuck
+A*,Unknown,Node_51,false,96,1420.00,Arrived
+A*,Node_122,Node_109,false,48870,465.00,Stuck
+A*,Node_102,Node_74,false,48869,3893.00,Stuck
+A*,Unknown,Node_138,true,153,4434.00,Arrived
+A*,Paltan Bazaar,Node_114,false,48847,413.00,Stuck
+A*,Node_42,Node_96,false,48847,1480.00,Stuck
+A*,Node_26,Node_50,false,48841,2059.00,Stuck
+A*,Node_135,Node_70,false,48836,1303.00,Stuck
+A*,Node_73,Node_37,false,48827,513.00,Stuck
+A*,Node_92,Node_103,false,48826,0.00,Stuck
+A*,Node_63,ISBT Hub,false,48825,0.00,Stuck
+A*,Unknown,Node_114,false,176,2605.00,Arrived
+A*,Pacific Mall,Node_59,false,48818,0.00,Stuck
+A*,Node_84,Node_138,false,48809,0.00,Stuck
+A*,Node_9,Node_69,false,48799,0.00,Stuck
+A*,Node_91,Node_57,false,48798,0.00,Stuck
+A*,Node_139,Node_62,false,48795,2821.00,Stuck
+A*,Node_49,Node_127,false,48794,0.00,Stuck
+A*,Unknown,Pacific Mall,true,133,3870.00,Arrived
+A*,Node_41,Node_16,false,48784,1107.00,Stuck
+A*,Node_140,Node_128,false,48778,1126.00,Stuck
+A*,Node_99,Node_134,false,48777,327.00,Stuck
+A*,Node_130,Node_142,false,48768,0.00,Stuck
+A*,Node_19,Node_130,false,48744,0.00,Stuck
+A*,Node_91,Node_43,false,48742,0.00,Stuck
+A*,Node_30,Node_18,false,48739,0.00,Stuck
+A*,Node_70,Node_43,false,48734,470.00,Stuck
+A*,Node_65,Node_112,false,48728,960.00,Stuck
+A*,Node_1,Node_7,false,48723,0.00,Stuck
+A*,Node_13,Node_3,false,48720,0.00,Stuck
+A*,Node_53,Node_88,false,48713,3194.00,Stuck
+A*,Pacific Mall,ISBT Hub,false,48711,0.00,Stuck
+A*,Rajpur Road,Node_46,false,48711,0.00,Stuck
+A*,Node_140,Node_36,false,48707,1050.00,Stuck
+A*,Node_55,Node_139,false,48705,0.00,Stuck
+A*,Node_77,ISBT Hub,false,48703,0.00,Stuck
+A*,Node_126,Node_22,false,48700,0.00,Stuck
+A*,Node_105,Node_134,false,48685,793.00,Stuck
+A*,Unknown,Node_41,true,164,4720.00,Arrived
+A*,Node_66,Node_124,false,48675,875.00,Stuck
+A*,Node_99,Graphic Era Univ,false,48673,327.00,Stuck
+A*,Node_29,Node_39,false,48672,2649.00,Stuck
+A*,Node_18,Node_42,false,48672,459.00,Stuck
+A*,Node_99,Node_11,false,48671,0.00,Stuck
+A*,Node_105,Node_13,false,48669,793.00,Stuck
+A*,Node_12,Node_116,false,48664,0.00,Stuck
+A*,Node_29,Node_43,false,48654,0.00,Stuck
+A*,Node_33,Node_118,false,48648,2424.00,Stuck
+A*,Node_139,Node_98,false,48632,381.00,Stuck
+A*,Node_75,Node_60,false,48630,451.00,Stuck
+A*,Node_132,Node_118,false,48624,0.00,Stuck
+A*,Node_45,Node_116,false,48624,413.00,Stuck
+A*,Node_119,Node_23,false,48622,657.00,Stuck
+A*,Node_99,Node_26,false,48621,1085.00,Stuck
+A*,Node_97,Node_112,false,48617,0.00,Stuck
+A*,Unknown,Node_101,true,164,4758.00,Arrived
+A*,Node_18,Node_126,false,48610,0.00,Stuck
+A*,Node_75,Node_4,false,48608,0.00,Stuck
+A*,Node_15,Node_80,false,48606,481.00,Stuck
+A*,Node_141,Node_11,false,48604,0.00,Stuck
+A*,Node_21,Node_129,false,48596,0.00,Stuck
+A*,Unknown,Rajpur Road,true,147,4272.00,Arrived
+A*,Node_61,Node_122,false,48584,0.00,Stuck
+A*,Node_126,Paltan Bazaar,false,48583,572.00,Stuck
+A*,Node_30,Node_76,false,48581,473.00,Stuck
+A*,Node_9,Node_115,false,48580,0.00,Stuck
+A*,Node_17,Node_2,false,48575,459.00,Stuck
+A*,Node_5,Node_19,false,48564,0.00,Stuck
+A*,Node_99,Node_85,false,48559,327.00,Stuck
+A*,Node_9,Node_125,false,48556,521.00,Stuck
+A*,Node_37,Node_97,false,48550,0.00,Stuck
+A*,Paltan Bazaar,Node_139,false,48535,0.00,Stuck
+A*,Node_10,Node_48,false,48533,0.00,Stuck
+A*,Node_80,Node_25,false,48531,1328.00,Stuck
+A*,Node_88,Node_62,false,48522,0.00,Stuck
+A*,Node_1,Node_95,false,48519,0.00,Stuck
+A*,Node_59,Node_48,false,48516,560.00,Stuck
+A*,Node_2,Node_38,false,48516,0.00,Stuck
+A*,Node_108,Node_42,false,48504,0.00,Stuck
+A*,Node_63,Node_134,false,48499,733.00,Stuck
+A*,Node_118,Node_137,false,48495,1202.00,Stuck
+A*,Node_139,Node_62,false,48487,2821.00,Stuck
+A*,Node_53,Node_87,false,48483,522.00,Stuck
+A*,Node_94,Node_108,false,48479,0.00,Stuck
+A*,Node_135,Node_58,false,48478,566.00,Stuck
+A*,Node_97,Node_60,false,48468,0.00,Stuck
+A*,Node_61,Node_33,false,48460,0.00,Stuck
+A*,Node_66,Node_7,false,48459,423.00,Stuck
+A*,Node_29,Node_39,false,48453,2016.00,Stuck
+A*,Node_113,Node_64,false,48452,0.00,Stuck
+A*,Node_115,Node_47,false,48450,0.00,Stuck
+A*,Node_52,Node_39,false,48449,729.00,Stuck
+A*,Node_97,Node_91,false,48447,0.00,Stuck
+A*,Node_41,Node_48,false,48440,400.00,Stuck
+A*,Node_126,Paltan Bazaar,false,48433,572.00,Stuck
+A*,Node_105,Node_1,false,48428,0.00,Stuck
+A*,Node_94,Node_106,false,48426,749.00,Stuck
+A*,Node_66,Node_69,false,48425,1981.00,Stuck
+A*,Node_142,Node_118,false,48423,0.00,Stuck
+A*,Node_68,Node_96,false,48422,1412.00,Stuck
+A*,Node_121,Node_109,false,48421,0.00,Stuck
+A*,Node_92,Node_78,false,48406,749.00,Stuck
+A*,Node_9,Node_92,false,48403,452.00,Stuck
+A*,ISBT Hub,Node_111,false,48399,833.00,Stuck
+A*,Node_29,Node_85,false,48389,1238.00,Stuck
+A*,Node_104,Node_53,false,48385,0.00,Stuck
+A*,Node_33,Node_94,false,48374,390.00,Stuck
+A*,Node_9,Node_119,false,48367,0.00,Stuck
+A*,Node_128,Node_70,false,48365,2658.00,Stuck
+A*,Node_29,Node_124,false,48357,0.00,Stuck
+A*,Node_126,Node_62,false,48353,0.00,Stuck
+A*,Node_126,Node_112,false,48351,4192.00,Stuck
+A*,Node_63,Node_51,false,48346,571.00,Stuck
+A*,Node_92,Node_50,false,48343,749.00,Stuck
+A*,Node_63,Node_86,false,48341,733.00,Stuck
+A*,Paltan Bazaar,Node_63,false,48339,0.00,Stuck
+A*,Pacific Mall,Node_99,false,48329,327.00,Stuck
+A*,Node_6,Node_80,false,48325,0.00,Stuck
+A*,Node_18,Node_58,false,48325,0.00,Stuck
+A*,Node_114,Node_132,false,48317,1314.00,Stuck
+A*,Node_45,Node_94,false,48310,413.00,Stuck
+A*,Node_18,Pacific Mall,false,48309,0.00,Stuck
+A*,Node_129,Node_28,false,48303,0.00,Stuck
+A*,Node_66,Node_136,false,48301,0.00,Stuck
+A*,Node_90,Clock Tower,false,48295,532.00,Stuck
+A*,Node_117,Node_58,false,48294,747.00,Stuck
+A*,Node_133,Node_88,false,48293,0.00,Stuck
+A*,Node_139,Node_133,false,48292,1507.00,Stuck
+A*,Node_15,Node_135,false,48290,0.00,Stuck
+A*,Node_133,Node_2,false,48280,0.00,Stuck
+A*,Unknown,Node_4,true,179,5180.00,Arrived
+A*,Node_91,Node_34,false,48267,0.00,Stuck
+A*,Unknown,Node_62,false,39,571.00,Arrived
+A*,Node_92,Node_88,false,48260,749.00,Stuck
+A*,Node_47,Node_125,false,48252,0.00,Stuck
+A*,Node_16,Node_29,false,48248,1071.00,Stuck
+A*,ISBT Hub,Node_52,false,48248,459.00,Stuck
+A*,Node_93,Node_45,false,48242,0.00,Stuck
+A*,Node_9,Node_95,false,48241,1659.00,Stuck
+A*,Node_139,Node_89,false,48240,381.00,Stuck
+A*,Node_18,Node_55,false,48238,0.00,Stuck
+A*,Node_125,Node_65,false,48232,374.00,Stuck
+A*,Unknown,Rajpur Road,false,36,533.00,Arrived
+A*,Unknown,Node_107,false,183,2708.00,Arrived
+A*,Node_34,Node_96,false,48201,708.00,Stuck
+A*,Node_21,Node_8,false,48201,0.00,Stuck
+A*,Node_22,Node_111,false,48197,0.00,Stuck
+A*,Node_121,Node_73,false,48189,0.00,Stuck
+A*,Node_76,Node_103,false,48177,0.00,Stuck
+A*,Node_122,Node_76,false,48173,0.00,Stuck
+A*,Node_129,Node_18,false,48170,0.00,Stuck
+A*,Node_68,Node_82,false,48165,875.00,Stuck
+A*,Node_53,Node_110,false,48163,3586.00,Stuck
+A*,Node_11,Node_50,false,48159,0.00,Stuck
+A*,Node_49,Node_109,false,48158,506.00,Stuck
+A*,Node_65,Graphic Era Univ,false,48157,0.00,Stuck
+A*,Node_74,Node_86,false,48150,513.00,Stuck
+A*,Node_95,Node_58,false,48150,735.00,Stuck
+A*,Node_139,Node_89,false,48147,0.00,Stuck
+A*,Node_92,Node_3,false,48137,384.00,Stuck
+A*,Node_54,Node_42,false,48131,938.00,Stuck
+A*,Node_142,Node_120,false,48129,482.00,Stuck
+A*,Node_4,Node_87,false,48125,2255.00,Stuck
+A*,Node_78,Node_30,false,48103,0.00,Stuck
+A*,Node_90,Node_59,false,48095,0.00,Stuck
+A*,Node_135,Node_116,false,48084,1303.00,Stuck
+A*,Node_101,Node_121,false,48081,1079.00,Stuck
+A*,Node_17,Prem Nagar,false,48079,0.00,Stuck
+A*,Unknown,Node_124,false,294,4356.00,Arrived
+A*,Node_116,Node_139,false,48078,0.00,Stuck
+A*,Node_53,Node_117,false,48065,0.00,Stuck
+A*,Unknown,Node_114,true,114,3309.00,Arrived
+A*,Unknown,Graphic Era Univ,true,138,3983.00,Arrived
+A*,Node_30,Node_101,false,48045,1251.00,Stuck
+A*,Node_108,Node_22,false,48044,609.00,Stuck
+A*,Node_70,Node_24,false,48043,0.00,Stuck
+A*,Node_32,Node_20,false,48042,2034.00,Stuck
+A*,Node_117,Node_31,false,48039,0.00,Stuck
+A*,Clement Town,Node_108,false,48038,0.00,Stuck
+A*,Node_9,Node_13,false,48012,0.00,Stuck
+A*,Node_39,Node_1,false,48006,0.00,Stuck
+Dijkstra,Node_128,Node_9,false,49999,0.00,Stuck
+Dijkstra,Node_117,Node_40,false,49984,0.00,Stuck
+Dijkstra,Node_7,Node_54,false,49984,509.00,Stuck
+Dijkstra,Node_20,Node_8,false,49982,0.00,Stuck
+Dijkstra,Node_115,Node_40,false,49981,791.00,Stuck
+Dijkstra,Node_46,Node_13,false,49976,555.00,Stuck
+Dijkstra,Node_51,Node_86,false,49974,2575.00,Stuck
+Dijkstra,Node_66,Node_78,false,49972,0.00,Stuck
+Dijkstra,Node_102,Node_21,false,49968,1261.00,Stuck
+Dijkstra,Node_52,Node_66,false,49959,691.00,Stuck
+Dijkstra,Node_45,Node_82,false,49950,413.00,Stuck
+Dijkstra,Node_117,Node_90,false,49939,747.00,Stuck
+Dijkstra,Node_76,Node_140,false,49930,0.00,Stuck
+Dijkstra,Node_132,Node_17,false,49925,0.00,Stuck
+Dijkstra,Node_24,Node_105,false,49924,0.00,Stuck
+Dijkstra,Node_42,Node_32,false,49911,0.00,Stuck
+Dijkstra,Node_34,Node_96,false,49899,318.00,Stuck
+Dijkstra,Node_129,Node_104,false,49893,0.00,Stuck
+Dijkstra,Node_114,Node_94,false,49891,0.00,Stuck
+Dijkstra,Node_139,Node_86,false,49891,2821.00,Stuck
+Dijkstra,Node_69,Node_16,false,49888,0.00,Stuck
+Dijkstra,Pacific Mall,Node_125,false,49881,327.00,Stuck
+Dijkstra,Node_16,Paltan Bazaar,false,49880,0.00,Stuck
+Dijkstra,Node_49,Node_102,false,49879,0.00,Stuck
+Dijkstra,Node_126,Node_66,false,49873,0.00,Stuck
+Dijkstra,Node_77,Node_46,false,49868,0.00,Stuck
+Dijkstra,Unknown,Node_135,true,207,6010.00,Arrived
+Dijkstra,Node_54,Node_14,false,49850,938.00,Stuck
+Dijkstra,Node_103,Node_118,false,49848,2164.00,Stuck
+Dijkstra,Node_62,Node_135,false,49833,0.00,Stuck
+Dijkstra,Rajpur Road,Node_97,false,49820,533.00,Stuck
+Dijkstra,Node_68,Node_118,false,49818,875.00,Stuck
+Dijkstra,Node_126,Node_62,false,49816,4192.00,Stuck
+Dijkstra,Node_75,Node_40,false,49815,451.00,Stuck
+Dijkstra,Graphic Era Univ,Node_101,false,49814,434.00,Stuck
+Dijkstra,Rajpur Road,Node_88,false,49814,2574.00,Stuck
+Dijkstra,Node_115,Node_4,false,49802,791.00,Stuck
+Dijkstra,Node_91,Node_48,false,49784,0.00,Stuck
+Dijkstra,Node_74,Node_110,false,49780,451.00,Stuck
+Dijkstra,Node_80,Node_16,false,49765,1328.00,Stuck
+Dijkstra,Unknown,Node_10,false,35,521.00,Arrived
+Dijkstra,Node_80,Node_144,false,49752,0.00,Stuck
+Dijkstra,Node_99,Node_86,false,49750,327.00,Stuck
+Dijkstra,Node_114,Node_36,false,49746,0.00,Stuck
+Dijkstra,Node_21,Node_11,false,49746,602.00,Stuck
+Dijkstra,Node_47,Node_136,false,49730,0.00,Stuck
+Dijkstra,Node_49,Node_136,false,49723,0.00,Stuck
+Dijkstra,Node_29,Node_98,false,49720,2649.00,Stuck
+Dijkstra,Node_141,Node_5,false,49714,0.00,Stuck
+Dijkstra,Node_105,Node_43,false,49705,0.00,Stuck
+Dijkstra,Node_36,Prem Nagar,false,49701,0.00,Stuck
+Dijkstra,Node_115,Node_31,false,49683,791.00,Stuck
+Dijkstra,Unknown,Node_30,true,15,434.00,Arrived
+Dijkstra,Node_49,Node_110,false,49677,0.00,Stuck
+Dijkstra,Pacific Mall,Node_99,false,49668,0.00,Stuck
+Dijkstra,Node_97,Node_72,false,49665,0.00,Stuck
+Dijkstra,Node_25,Node_122,false,49662,0.00,Stuck
+Dijkstra,Node_114,Node_32,false,49648,0.00,Stuck
+Dijkstra,Node_87,Node_126,false,49644,0.00,Stuck
+Dijkstra,Unknown,Node_41,false,50,740.00,Arrived
+Dijkstra,Node_135,Node_106,false,49642,1303.00,Stuck
+Dijkstra,Clock Tower,Node_82,false,49641,0.00,Stuck
+Dijkstra,Node_135,Node_57,false,49634,0.00,Stuck
+Dijkstra,Unknown,Node_110,false,126,1858.00,Arrived
+Dijkstra,Node_66,Node_37,false,49632,423.00,Stuck
+Dijkstra,Clock Tower,Node_29,false,49629,0.00,Stuck
+Dijkstra,Graphic Era Univ,Node_65,false,49627,434.00,Stuck
+Dijkstra,Node_18,Node_67,false,49619,0.00,Stuck
+Dijkstra,Node_3,Node_121,false,49619,0.00,Stuck
+Dijkstra,Clock Tower,Node_47,false,49615,0.00,Stuck
+Dijkstra,Node_50,Node_4,false,49614,506.00,Stuck
+Dijkstra,Unknown,Node_132,false,96,1414.00,Arrived
+Dijkstra,Node_86,Node_32,false,49613,521.00,Stuck
+Dijkstra,Pacific Mall,Node_104,false,49601,327.00,Stuck
+Dijkstra,Unknown,Node_34,true,256,7401.00,Arrived
+Dijkstra,Node_89,Node_53,false,49600,0.00,Stuck
+Dijkstra,Graphic Era Univ,Node_54,false,49593,0.00,Stuck
+Dijkstra,Node_70,Node_85,false,49585,0.00,Stuck
+Dijkstra,Node_30,Node_66,false,49580,0.00,Stuck
+Dijkstra,Node_106,Node_135,false,49569,0.00,Stuck
+Dijkstra,Node_126,Node_24,false,49568,0.00,Stuck
+Dijkstra,Node_12,Node_137,false,49567,0.00,Stuck
+Dijkstra,Node_87,Node_29,false,49558,0.00,Stuck
+Dijkstra,Node_68,Node_142,false,49549,452.00,Stuck
+Dijkstra,Node_33,Node_104,false,49547,0.00,Stuck
+Dijkstra,Node_82,Node_128,false,49546,713.00,Stuck
+Dijkstra,Node_57,Node_144,false,49535,2981.00,Stuck
+Dijkstra,Node_7,Node_13,false,49534,509.00,Stuck
+Dijkstra,Unknown,Node_144,false,442,6539.00,Arrived
+Dijkstra,Node_103,Node_30,false,49527,0.00,Stuck
+Dijkstra,Node_76,Node_118,false,49526,0.00,Stuck
+Dijkstra,Node_89,Node_52,false,49514,532.00,Stuck
+Dijkstra,Node_81,ISBT Hub,false,49513,0.00,Stuck
+Dijkstra,Paltan Bazaar,Node_8,false,49509,0.00,Stuck
+Dijkstra,Node_70,Node_59,false,49505,0.00,Stuck
+Dijkstra,Node_20,Node_111,false,49488,0.00,Stuck
+Dijkstra,ISBT Hub,Node_4,false,49483,459.00,Stuck
+Dijkstra,Unknown,Node_25,true,292,8451.00,Arrived
+Dijkstra,Node_66,Node_7,false,49473,1248.00,Stuck
+Dijkstra,Node_19,Node_82,false,49471,0.00,Stuck
+Dijkstra,Node_86,Node_17,false,49468,0.00,Stuck
+Dijkstra,Node_75,Node_43,false,49466,451.00,Stuck
+Dijkstra,Node_37,Node_99,false,49458,0.00,Stuck
+Dijkstra,Node_30,Node_64,false,49458,1251.00,Stuck
+Dijkstra,Node_117,Node_72,false,49456,715.00,Stuck
+Dijkstra,Node_81,Node_106,false,49454,0.00,Stuck
+Dijkstra,Unknown,Node_10,false,194,2870.00,Arrived
+Dijkstra,Prem Nagar,Node_137,false,49446,0.00,Stuck
+Dijkstra,Unknown,Node_2,true,229,6604.00,Arrived
+Dijkstra,Node_5,Node_66,false,49431,358.00,Stuck
+Dijkstra,Node_134,Node_17,false,49430,0.00,Stuck
+Dijkstra,Node_117,Node_80,false,49429,747.00,Stuck
+Dijkstra,Node_141,Node_72,false,49423,1694.00,Stuck
+Dijkstra,Node_12,Node_72,false,49420,0.00,Stuck
+Dijkstra,Node_38,Node_73,false,49413,0.00,Stuck
+Dijkstra,Node_57,Node_141,false,49395,0.00,Stuck
+Dijkstra,Node_23,Node_126,false,49390,0.00,Stuck
+Dijkstra,Unknown,Node_142,true,148,4268.00,Arrived
+Dijkstra,Node_114,Node_29,false,49381,0.00,Stuck
+Dijkstra,Node_15,Node_91,false,49367,0.00,Stuck
+Dijkstra,Node_57,Node_126,false,49364,0.00,Stuck
+Dijkstra,Node_17,Node_86,false,49362,459.00,Stuck
+Dijkstra,Unknown,Node_3,false,59,875.00,Arrived
+Dijkstra,Node_48,Node_83,false,49346,0.00,Stuck
+Dijkstra,Node_65,Node_113,false,49343,0.00,Stuck
+Dijkstra,Node_49,Node_140,false,49340,0.00,Stuck
+Dijkstra,Node_137,Node_45,false,49339,0.00,Stuck
+Dijkstra,Node_51,Node_75,false,49336,5006.00,Stuck
+Dijkstra,Node_1,Node_7,false,49330,0.00,Stuck
+Dijkstra,Node_88,Node_49,false,49326,357.00,Stuck
+Dijkstra,Node_16,Node_122,false,49317,0.00,Stuck
+Dijkstra,Unknown,Node_83,true,118,3420.00,Arrived
+Dijkstra,Node_94,Node_142,false,49316,749.00,Stuck
+Dijkstra,Node_66,Node_47,false,49310,1981.00,Stuck
+Dijkstra,Node_83,Node_6,false,49305,0.00,Stuck
+Dijkstra,Node_111,Node_10,false,49298,0.00,Stuck
+Dijkstra,Node_25,Node_37,false,49297,0.00,Stuck
+Dijkstra,Node_84,Node_107,false,49293,0.00,Stuck
+Dijkstra,Unknown,Node_59,false,27,392.00,Arrived
+Dijkstra,Node_29,Node_138,false,49279,0.00,Stuck
+Dijkstra,Node_54,Node_42,false,49267,633.00,Stuck
+Dijkstra,Node_16,Node_120,false,49264,1071.00,Stuck
+Dijkstra,Node_30,Node_113,false,49264,1884.00,Stuck
+Dijkstra,Unknown,Node_25,false,259,3830.00,Arrived
+Dijkstra,Node_29,Node_63,false,49261,2334.00,Stuck
+Dijkstra,Node_9,Node_104,false,49257,452.00,Stuck
+Dijkstra,Node_5,Node_80,false,49252,875.00,Stuck
+Dijkstra,Node_105,Node_118,false,49248,0.00,Stuck
+Dijkstra,Node_137,Node_115,false,49234,0.00,Stuck
+Dijkstra,Node_98,Node_41,false,49230,0.00,Stuck
+Dijkstra,Node_38,Node_135,false,49223,0.00,Stuck
+Dijkstra,Node_66,Node_54,false,49216,0.00,Stuck
+Dijkstra,Node_1,Node_135,false,49213,0.00,Stuck
+Dijkstra,Node_69,Node_12,false,49209,0.00,Stuck
+Dijkstra,Node_33,Node_7,false,49205,318.00,Stuck
+Dijkstra,Node_33,Node_113,false,49204,318.00,Stuck
+Dijkstra,Node_134,Node_17,false,49195,0.00,Stuck
+Dijkstra,Node_17,Node_41,false,49189,459.00,Stuck
+Dijkstra,Clock Tower,Node_136,false,49187,782.00,Stuck
+Dijkstra,Node_143,Node_130,false,49179,651.00,Stuck
+Dijkstra,Node_23,Node_96,false,49178,0.00,Stuck
+Dijkstra,Node_135,Node_54,false,49177,566.00,Stuck
+Dijkstra,Node_19,Node_32,false,49175,0.00,Stuck
+Dijkstra,Node_86,Node_65,false,49169,521.00,Stuck
+Dijkstra,Node_77,Node_42,false,49167,718.00,Stuck
+Dijkstra,Node_96,Node_11,false,49163,0.00,Stuck
+Dijkstra,Rajpur Road,Node_134,false,49162,533.00,Stuck
+Dijkstra,Node_15,Node_113,false,49161,481.00,Stuck
+Dijkstra,Unknown,Node_105,true,123,3576.00,Arrived
+Dijkstra,Clement Town,Node_23,false,49149,4463.00,Stuck
+Dijkstra,Node_140,Node_117,false,49145,2027.00,Stuck
+Dijkstra,Node_126,Node_91,false,49144,946.00,Stuck
+Dijkstra,Node_21,Node_127,false,49143,0.00,Stuck
+Dijkstra,Node_115,Node_8,false,49124,0.00,Stuck
+Dijkstra,Node_103,Node_126,false,49113,0.00,Stuck
+Dijkstra,Node_110,Node_121,false,49092,544.00,Stuck
+Dijkstra,Node_83,Node_9,false,49087,0.00,Stuck
+Dijkstra,Unknown,Node_72,true,143,4121.00,Arrived
+Dijkstra,Node_142,Node_120,false,49084,1126.00,Stuck
+Dijkstra,Node_74,Node_137,false,49077,513.00,Stuck
+Dijkstra,Node_42,Node_120,false,49054,740.00,Stuck
+Dijkstra,Node_114,Node_103,false,49052,1858.00,Stuck
+Dijkstra,Prem Nagar,Node_129,false,49046,989.00,Stuck
+Dijkstra,Node_101,Node_110,false,49043,503.00,Stuck
+Dijkstra,Node_63,Node_75,false,49038,733.00,Stuck
+Dijkstra,Clock Tower,Node_82,false,49018,0.00,Stuck
+Dijkstra,Node_5,Node_103,false,49018,358.00,Stuck
+Dijkstra,Node_5,Node_33,false,49013,0.00,Stuck
+Dijkstra,Node_80,Node_130,false,49011,1080.00,Stuck
+Dijkstra,Node_66,Node_56,false,49007,0.00,Stuck
+Dijkstra,Node_39,Node_25,false,49003,1847.00,Stuck
+Dijkstra,Node_116,Node_110,false,49002,715.00,Stuck
+Dijkstra,Node_60,Node_112,false,48994,0.00,Stuck
+Dijkstra,Node_9,Node_129,false,48994,1659.00,Stuck
+Dijkstra,Node_4,Node_13,false,48994,1048.00,Stuck
+Dijkstra,Node_7,Node_67,false,48991,0.00,Stuck
+Dijkstra,Node_30,Node_124,false,48989,1251.00,Stuck
+Dijkstra,Unknown,Node_136,true,205,5932.00,Arrived
+Dijkstra,Node_16,Node_60,false,48979,0.00,Stuck
+Dijkstra,Node_9,Node_74,false,48979,521.00,Stuck
+Dijkstra,Node_126,Node_50,false,48976,0.00,Stuck
+Dijkstra,Node_56,Node_80,false,48967,0.00,Stuck
+Dijkstra,Node_99,Node_15,false,48950,1085.00,Stuck
+Dijkstra,Node_106,Node_130,false,48941,0.00,Stuck
+Dijkstra,Node_122,Node_53,false,48940,0.00,Stuck
+Dijkstra,Node_23,Node_101,false,48940,745.00,Stuck
+Dijkstra,Node_75,Node_60,false,48939,964.00,Stuck
+Dijkstra,Node_21,Node_7,false,48934,1822.00,Stuck
+Dijkstra,Node_102,Node_51,false,48932,1331.00,Stuck
+Dijkstra,Node_92,Node_38,false,48931,0.00,Stuck
+Dijkstra,Node_113,Node_65,false,48923,442.00,Stuck
+Dijkstra,Node_63,Node_83,false,48921,0.00,Stuck
+Dijkstra,Node_139,Node_52,false,48907,381.00,Stuck
+Dijkstra,Node_126,Node_63,false,48905,2046.00,Stuck
+Dijkstra,Node_141,Pacific Mall,false,48900,0.00,Stuck
+Dijkstra,Node_116,Node_125,false,48891,715.00,Stuck
+Dijkstra,Node_139,Node_22,false,48889,0.00,Stuck
+Dijkstra,Node_46,Node_117,false,48884,0.00,Stuck
+Dijkstra,Node_30,Node_111,false,48882,1884.00,Stuck
+Dijkstra,Unknown,Node_51,false,96,1420.00,Arrived
+Dijkstra,Node_122,Node_109,false,48870,465.00,Stuck
+Dijkstra,Node_102,Node_74,false,48869,3893.00,Stuck
+Dijkstra,Unknown,Node_138,true,153,4434.00,Arrived
+Dijkstra,Paltan Bazaar,Node_114,false,48847,413.00,Stuck
+Dijkstra,Node_42,Node_96,false,48847,1480.00,Stuck
+Dijkstra,Node_26,Node_50,false,48841,2059.00,Stuck
+Dijkstra,Node_135,Node_70,false,48836,1303.00,Stuck
+Dijkstra,Node_73,Node_37,false,48827,513.00,Stuck
+Dijkstra,Node_92,Node_103,false,48826,0.00,Stuck
+Dijkstra,Node_63,ISBT Hub,false,48825,0.00,Stuck
+Dijkstra,Unknown,Node_114,false,176,2605.00,Arrived
+Dijkstra,Pacific Mall,Node_59,false,48818,0.00,Stuck
+Dijkstra,Node_84,Node_138,false,48809,0.00,Stuck
+Dijkstra,Node_9,Node_69,false,48799,0.00,Stuck
+Dijkstra,Node_91,Node_57,false,48798,0.00,Stuck
+Dijkstra,Node_139,Node_62,false,48795,2821.00,Stuck
+Dijkstra,Node_49,Node_127,false,48794,0.00,Stuck
+Dijkstra,Unknown,Pacific Mall,true,133,3870.00,Arrived
+Dijkstra,Node_41,Node_16,false,48784,1107.00,Stuck
+Dijkstra,Node_140,Node_128,false,48778,1126.00,Stuck
+Dijkstra,Node_99,Node_134,false,48777,327.00,Stuck
+Dijkstra,Node_130,Node_142,false,48768,0.00,Stuck
+Dijkstra,Node_19,Node_130,false,48744,0.00,Stuck
+Dijkstra,Node_91,Node_43,false,48742,0.00,Stuck
+Dijkstra,Node_30,Node_18,false,48739,0.00,Stuck
+Dijkstra,Node_70,Node_43,false,48734,470.00,Stuck
+Dijkstra,Node_65,Node_112,false,48728,960.00,Stuck
+Dijkstra,Node_1,Node_7,false,48723,0.00,Stuck
+Dijkstra,Node_13,Node_3,false,48720,0.00,Stuck
+Dijkstra,Node_53,Node_88,false,48713,3194.00,Stuck
+Dijkstra,Pacific Mall,ISBT Hub,false,48711,0.00,Stuck
+Dijkstra,Rajpur Road,Node_46,false,48711,0.00,Stuck
+Dijkstra,Node_140,Node_36,false,48707,1050.00,Stuck
+Dijkstra,Node_55,Node_139,false,48705,0.00,Stuck
+Dijkstra,Node_77,ISBT Hub,false,48703,0.00,Stuck
+Dijkstra,Node_126,Node_22,false,48700,0.00,Stuck
+Dijkstra,Node_105,Node_134,false,48685,793.00,Stuck
+Dijkstra,Unknown,Node_41,true,164,4720.00,Arrived
+Dijkstra,Node_66,Node_124,false,48675,875.00,Stuck
+Dijkstra,Node_99,Graphic Era Univ,false,48673,327.00,Stuck
+Dijkstra,Node_29,Node_39,false,48672,2649.00,Stuck
+Dijkstra,Node_18,Node_42,false,48672,459.00,Stuck
+Dijkstra,Node_99,Node_11,false,48671,0.00,Stuck
+Dijkstra,Node_105,Node_13,false,48669,793.00,Stuck
+Dijkstra,Node_12,Node_116,false,48664,0.00,Stuck
+Dijkstra,Node_29,Node_43,false,48654,0.00,Stuck
+Dijkstra,Node_33,Node_118,false,48648,2424.00,Stuck
+Dijkstra,Node_139,Node_98,false,48632,381.00,Stuck
+Dijkstra,Node_75,Node_60,false,48630,451.00,Stuck
+Dijkstra,Node_132,Node_118,false,48624,0.00,Stuck
+Dijkstra,Node_45,Node_116,false,48624,413.00,Stuck
+Dijkstra,Node_119,Node_23,false,48622,657.00,Stuck
+Dijkstra,Node_99,Node_26,false,48621,1085.00,Stuck
+Dijkstra,Node_97,Node_112,false,48617,0.00,Stuck
+Dijkstra,Unknown,Node_101,true,164,4758.00,Arrived
+Dijkstra,Node_18,Node_126,false,48610,0.00,Stuck
+Dijkstra,Node_75,Node_4,false,48608,0.00,Stuck
+Dijkstra,Node_15,Node_80,false,48606,481.00,Stuck
+Dijkstra,Node_141,Node_11,false,48604,0.00,Stuck
+Dijkstra,Node_21,Node_129,false,48596,0.00,Stuck
+Dijkstra,Unknown,Rajpur Road,true,147,4272.00,Arrived
+Dijkstra,Node_61,Node_122,false,48584,0.00,Stuck
+Dijkstra,Node_126,Paltan Bazaar,false,48583,572.00,Stuck
+Dijkstra,Node_30,Node_76,false,48581,473.00,Stuck
+Dijkstra,Node_9,Node_115,false,48580,0.00,Stuck
+Dijkstra,Node_17,Node_2,false,48575,459.00,Stuck
+Dijkstra,Node_5,Node_19,false,48564,0.00,Stuck
+Dijkstra,Node_99,Node_85,false,48559,327.00,Stuck
+Dijkstra,Node_9,Node_125,false,48556,521.00,Stuck
+Dijkstra,Node_37,Node_97,false,48550,0.00,Stuck
+Dijkstra,Paltan Bazaar,Node_139,false,48535,0.00,Stuck
+Dijkstra,Node_10,Node_48,false,48533,0.00,Stuck
+Dijkstra,Node_80,Node_25,false,48531,1328.00,Stuck
+Dijkstra,Node_88,Node_62,false,48522,0.00,Stuck
+Dijkstra,Node_1,Node_95,false,48519,0.00,Stuck
+Dijkstra,Node_59,Node_48,false,48516,560.00,Stuck
+Dijkstra,Node_2,Node_38,false,48516,0.00,Stuck
+Dijkstra,Node_108,Node_42,false,48504,0.00,Stuck
+Dijkstra,Node_63,Node_134,false,48499,733.00,Stuck
+Dijkstra,Node_118,Node_137,false,48495,1202.00,Stuck
+Dijkstra,Node_139,Node_62,false,48487,2821.00,Stuck
+Dijkstra,Node_53,Node_87,false,48483,522.00,Stuck
+Dijkstra,Node_94,Node_108,false,48479,0.00,Stuck
+Dijkstra,Node_135,Node_58,false,48478,566.00,Stuck
+Dijkstra,Node_97,Node_60,false,48468,0.00,Stuck
+Dijkstra,Node_61,Node_33,false,48460,0.00,Stuck
+Dijkstra,Node_66,Node_7,false,48459,423.00,Stuck
+Dijkstra,Node_29,Node_39,false,48453,2016.00,Stuck
+Dijkstra,Node_113,Node_64,false,48452,0.00,Stuck
+Dijkstra,Node_115,Node_47,false,48450,0.00,Stuck
+Dijkstra,Node_52,Node_39,false,48449,729.00,Stuck
+Dijkstra,Node_97,Node_91,false,48447,0.00,Stuck
+Dijkstra,Node_41,Node_48,false,48440,400.00,Stuck
+Dijkstra,Node_126,Paltan Bazaar,false,48433,572.00,Stuck
+Dijkstra,Node_105,Node_1,false,48428,0.00,Stuck
+Dijkstra,Node_94,Node_106,false,48426,749.00,Stuck
+Dijkstra,Node_66,Node_69,false,48425,1981.00,Stuck
+Dijkstra,Node_142,Node_118,false,48423,0.00,Stuck
+Dijkstra,Node_68,Node_96,false,48422,1412.00,Stuck
+Dijkstra,Node_121,Node_109,false,48421,0.00,Stuck
+Dijkstra,Node_92,Node_78,false,48406,749.00,Stuck
+Dijkstra,Node_9,Node_92,false,48403,452.00,Stuck
+Dijkstra,ISBT Hub,Node_111,false,48399,833.00,Stuck
+Dijkstra,Node_29,Node_85,false,48389,1238.00,Stuck
+Dijkstra,Node_104,Node_53,false,48385,0.00,Stuck
+Dijkstra,Node_33,Node_94,false,48374,390.00,Stuck
+Dijkstra,Node_9,Node_119,false,48367,0.00,Stuck
+Dijkstra,Node_128,Node_70,false,48365,2658.00,Stuck
+Dijkstra,Node_29,Node_124,false,48357,0.00,Stuck
+Dijkstra,Node_126,Node_62,false,48353,0.00,Stuck
+Dijkstra,Node_126,Node_112,false,48351,4192.00,Stuck
+Dijkstra,Node_63,Node_51,false,48346,571.00,Stuck
+Dijkstra,Node_92,Node_50,false,48343,749.00,Stuck
+Dijkstra,Node_63,Node_86,false,48341,733.00,Stuck
+Dijkstra,Paltan Bazaar,Node_63,false,48339,0.00,Stuck
+Dijkstra,Pacific Mall,Node_99,false,48329,327.00,Stuck
+Dijkstra,Node_6,Node_80,false,48325,0.00,Stuck
+Dijkstra,Node_18,Node_58,false,48325,0.00,Stuck
+Dijkstra,Node_114,Node_132,false,48317,1314.00,Stuck
+Dijkstra,Node_45,Node_94,false,48310,413.00,Stuck
+Dijkstra,Node_18,Pacific Mall,false,48309,0.00,Stuck
+Dijkstra,Node_129,Node_28,false,48303,0.00,Stuck
+Dijkstra,Node_66,Node_136,false,48301,0.00,Stuck
+Dijkstra,Node_90,Clock Tower,false,48295,532.00,Stuck
+Dijkstra,Node_117,Node_58,false,48294,747.00,Stuck
+Dijkstra,Node_133,Node_88,false,48293,0.00,Stuck
+Dijkstra,Node_139,Node_133,false,48292,1507.00,Stuck
+Dijkstra,Node_15,Node_135,false,48290,0.00,Stuck
+Dijkstra,Node_133,Node_2,false,48280,0.00,Stuck
+Dijkstra,Unknown,Node_4,true,179,5180.00,Arrived
+Dijkstra,Node_91,Node_34,false,48267,0.00,Stuck
+Dijkstra,Unknown,Node_62,false,39,571.00,Arrived
+Dijkstra,Node_92,Node_88,false,48260,749.00,Stuck
+Dijkstra,Node_47,Node_125,false,48252,0.00,Stuck
+Dijkstra,Node_16,Node_29,false,48248,1071.00,Stuck
+Dijkstra,ISBT Hub,Node_52,false,48248,459.00,Stuck
+Dijkstra,Node_93,Node_45,false,48242,0.00,Stuck
+Dijkstra,Node_9,Node_95,false,48241,1659.00,Stuck
+Dijkstra,Node_139,Node_89,false,48240,381.00,Stuck
+Dijkstra,Node_18,Node_55,false,48238,0.00,Stuck
+Dijkstra,Node_125,Node_65,false,48232,374.00,Stuck
+Dijkstra,Unknown,Rajpur Road,false,36,533.00,Arrived
+Dijkstra,Unknown,Node_107,false,183,2708.00,Arrived
+Dijkstra,Node_34,Node_96,false,48201,708.00,Stuck
+Dijkstra,Node_21,Node_8,false,48201,0.00,Stuck
+Dijkstra,Node_22,Node_111,false,48197,0.00,Stuck
+Dijkstra,Node_121,Node_73,false,48189,0.00,Stuck
+Dijkstra,Node_76,Node_103,false,48177,0.00,Stuck
+Dijkstra,Node_122,Node_76,false,48173,0.00,Stuck
+Dijkstra,Node_129,Node_18,false,48170,0.00,Stuck
+Dijkstra,Node_68,Node_82,false,48165,875.00,Stuck
+Dijkstra,Node_53,Node_110,false,48163,3586.00,Stuck
+Dijkstra,Node_11,Node_50,false,48159,0.00,Stuck
+Dijkstra,Node_49,Node_109,false,48158,506.00,Stuck
+Dijkstra,Node_65,Graphic Era Univ,false,48157,0.00,Stuck
+Dijkstra,Node_74,Node_86,false,48150,513.00,Stuck
+Dijkstra,Node_95,Node_58,false,48150,735.00,Stuck
+Dijkstra,Node_139,Node_89,false,48147,0.00,Stuck
+Dijkstra,Node_92,Node_3,false,48137,384.00,Stuck
+Dijkstra,Node_54,Node_42,false,48131,938.00,Stuck
+Dijkstra,Node_142,Node_120,false,48129,482.00,Stuck
+Dijkstra,Node_4,Node_87,false,48125,2255.00,Stuck
+Dijkstra,Node_78,Node_30,false,48103,0.00,Stuck
+Dijkstra,Node_90,Node_59,false,48095,0.00,Stuck
+Dijkstra,Node_135,Node_116,false,48084,1303.00,Stuck
+Dijkstra,Node_101,Node_121,false,48081,1079.00,Stuck
+Dijkstra,Node_17,Prem Nagar,false,48079,0.00,Stuck
+Dijkstra,Unknown,Node_124,false,294,4356.00,Arrived
+Dijkstra,Node_116,Node_139,false,48078,0.00,Stuck
+Dijkstra,Node_53,Node_117,false,48065,0.00,Stuck
+Dijkstra,Unknown,Node_114,true,114,3309.00,Arrived
+Dijkstra,Unknown,Graphic Era Univ,true,138,3983.00,Arrived
+Dijkstra,Node_30,Node_101,false,48045,1251.00,Stuck
+Dijkstra,Node_108,Node_22,false,48044,609.00,Stuck
+Dijkstra,Node_70,Node_24,false,48043,0.00,Stuck
+Dijkstra,Node_32,Node_20,false,48042,2034.00,Stuck
+Dijkstra,Node_117,Node_31,false,48039,0.00,Stuck
+Dijkstra,Clement Town,Node_108,false,48038,0.00,Stuck
+Dijkstra,Node_9,Node_13,false,48012,0.00,Stuck
+Dijkstra,Node_39,Node_1,false,48006,0.00,Stuck
+Greedy,Node_128,Node_9,false,49999,0.00,Stuck
+Greedy,Node_117,Node_40,false,49984,0.00,Stuck
+Greedy,Node_8,Node_54,false,49984,0.00,Stuck
+Greedy,Node_20,Node_8,false,49982,0.00,Stuck
+Greedy,Node_115,Node_40,false,49981,791.00,Stuck
+Greedy,Paltan Bazaar,Node_13,false,49976,1629.00,Stuck
+Greedy,Node_52,Node_86,false,49974,1884.00,Stuck
+Greedy,Node_66,Node_78,false,49972,0.00,Stuck
+Greedy,Node_101,Node_21,false,49968,758.00,Stuck
+Greedy,Node_54,Node_66,false,49959,1942.00,Stuck
+Greedy,Paltan Bazaar,Node_82,false,49950,0.00,Stuck
+Greedy,Node_115,Node_90,false,49939,2253.00,Stuck
+Greedy,Node_76,Node_140,false,49930,0.00,Stuck
+Greedy,Node_132,Node_17,false,49925,0.00,Stuck
+Greedy,Node_24,Node_105,false,49924,0.00,Stuck
+Greedy,Node_43,Node_32,false,49911,367.00,Stuck
+Greedy,Node_33,Node_96,false,49899,0.00,Stuck
+Greedy,Node_129,Node_104,false,49893,0.00,Stuck
+Greedy,Node_114,Node_94,false,49891,0.00,Stuck
+Greedy,Node_138,Node_86,false,49891,3490.00,Stuck
+Greedy,Node_69,Node_16,false,49888,0.00,Stuck
+Greedy,Node_70,Node_125,false,49881,797.00,Stuck
+Greedy,Node_19,Paltan Bazaar,false,49880,1900.00,Stuck
+Greedy,Node_51,Node_102,false,49879,1047.00,Stuck
+Greedy,Node_126,Node_66,false,49873,0.00,Stuck
+Greedy,Rajpur Road,Node_46,false,49868,1335.00,Stuck
+Greedy,Unknown,Node_135,true,217,6344.00,Arrived
+Greedy,Node_52,Node_14,false,49850,2189.00,Stuck
+Greedy,Node_106,Node_118,false,49848,4510.00,Stuck
+Greedy,Node_62,Node_135,false,49833,0.00,Stuck
+Greedy,Rajpur Road,Node_97,false,49820,533.00,Stuck
+Greedy,Node_67,Node_118,false,49818,423.00,Stuck
+Greedy,Node_127,Node_62,false,49816,3454.00,Stuck
+Greedy,Node_74,Node_40,false,49815,0.00,Stuck
+Greedy,Node_26,Node_101,false,49814,0.00,Stuck
+Greedy,Rajpur Road,Node_88,false,49814,2574.00,Stuck
+Greedy,Node_115,Node_4,false,49802,791.00,Stuck
+Greedy,Node_91,Node_48,false,49784,0.00,Stuck
+Greedy,Node_75,Node_110,false,49780,0.00,Stuck
+Greedy,Node_82,Node_16,false,49765,0.00,Stuck
+Greedy,Unknown,Node_10,false,35,521.00,Arrived
+Greedy,Node_80,Node_144,false,49752,0.00,Stuck
+Greedy,Node_99,Node_86,false,49750,327.00,Stuck
+Greedy,Node_114,Node_36,false,49746,0.00,Stuck
+Greedy,Node_22,Node_11,false,49746,1215.00,Stuck
+Greedy,Node_47,Node_136,false,49730,0.00,Stuck
+Greedy,Node_49,Node_136,false,49723,0.00,Stuck
+Greedy,Node_31,Node_98,false,49720,1411.00,Stuck
+Greedy,Node_141,Node_5,false,49714,0.00,Stuck
+Greedy,Node_105,Node_43,false,49705,0.00,Stuck
+Greedy,Node_36,Prem Nagar,false,49701,0.00,Stuck
+Greedy,Node_115,Node_31,false,49683,791.00,Stuck
+Greedy,Unknown,Node_30,true,15,434.00,Arrived
+Greedy,Node_49,Node_110,false,49677,0.00,Stuck
+Greedy,Node_70,Node_99,false,49668,470.00,Stuck
+Greedy,Node_97,Node_72,false,49665,0.00,Stuck
+Greedy,Node_25,Node_122,false,49662,0.00,Stuck
+Greedy,Node_114,Node_32,false,49648,0.00,Stuck
+Greedy,Node_88,Node_126,false,49644,642.00,Stuck
+Greedy,Unknown,Node_41,false,50,740.00,Arrived
+Greedy,Node_139,Node_106,false,49642,3718.00,Stuck
+Greedy,Clock Tower,Node_82,false,49641,0.00,Stuck
+Greedy,Node_135,Node_57,false,49634,0.00,Stuck
+Greedy,Unknown,Node_110,false,126,1858.00,Arrived
+Greedy,Node_63,Node_37,false,49632,2404.00,Stuck
+Greedy,Clock Tower,Node_29,false,49629,0.00,Stuck
+Greedy,Graphic Era Univ,Node_65,false,49627,434.00,Stuck
+Greedy,Node_18,Node_67,false,49619,0.00,Stuck
+Greedy,Node_3,Node_121,false,49619,0.00,Stuck
+Greedy,Clock Tower,Node_47,false,49615,0.00,Stuck
+Greedy,Node_49,Node_4,false,49614,0.00,Stuck
+Greedy,Unknown,Node_132,false,96,1414.00,Arrived
+Greedy,Node_87,Node_32,false,49613,1131.00,Stuck
+Greedy,Node_70,Node_104,false,49601,797.00,Stuck
+Greedy,Unknown,Node_34,true,313,9123.00,Arrived
+Greedy,Node_89,Node_53,false,49600,0.00,Stuck
+Greedy,Node_29,Node_54,false,49593,860.00,Stuck
+Greedy,Node_70,Node_85,false,49585,0.00,Stuck
+Greedy,Node_30,Node_66,false,49580,0.00,Stuck
+Greedy,Node_101,Node_135,false,49569,3425.00,Stuck
+Greedy,Node_126,Node_24,false,49568,0.00,Stuck
+Greedy,Node_12,Node_137,false,49567,0.00,Stuck
+Greedy,Node_87,Node_29,false,49558,0.00,Stuck
+Greedy,Node_67,Node_142,false,49549,0.00,Stuck
+Greedy,Node_33,Node_104,false,49547,0.00,Stuck
+Greedy,Node_83,Node_128,false,49546,0.00,Stuck
+Greedy,Node_54,Node_144,false,49535,1251.00,Stuck
+Greedy,Node_2,Node_13,false,49534,3528.00,Stuck
+Greedy,Unknown,Node_144,false,442,6539.00,Arrived
+Greedy,Node_103,Node_30,false,49527,0.00,Stuck
+Greedy,Node_80,Node_118,false,49526,2586.00,Stuck
+Greedy,Node_90,Node_52,false,49514,0.00,Stuck
+Greedy,Rajpur Road,ISBT Hub,false,49513,1327.00,Stuck
+Greedy,Paltan Bazaar,Node_8,false,49509,0.00,Stuck
+Greedy,Node_70,Node_59,false,49505,0.00,Stuck
+Greedy,Node_20,Node_111,false,49488,0.00,Stuck
+Greedy,ISBT Hub,Node_4,false,49483,459.00,Stuck
+Greedy,Unknown,Node_25,true,379,11072.00,Arrived
+Greedy,Node_64,Node_7,false,49473,0.00,Stuck
+Greedy,Node_19,Node_82,false,49471,0.00,Stuck
+Greedy,Node_86,Node_17,false,49468,0.00,Stuck
+Greedy,Node_77,Node_43,false,49466,1571.00,Stuck
+Greedy,Node_37,Node_99,false,49458,0.00,Stuck
+Greedy,Node_30,Node_64,false,49458,1251.00,Stuck
+Greedy,Node_117,Node_72,false,49456,715.00,Stuck
+Greedy,Node_81,Node_106,false,49454,0.00,Stuck
+Greedy,Unknown,Node_10,false,194,2870.00,Arrived
+Greedy,Prem Nagar,Node_137,false,49446,0.00,Stuck
+Greedy,Unknown,Node_2,true,251,7278.00,Arrived
+Greedy,Node_4,Node_66,false,49431,0.00,Stuck
+Greedy,Node_134,Node_17,false,49430,0.00,Stuck
+Greedy,Node_118,Node_80,false,49429,0.00,Stuck
+Greedy,Node_138,Node_72,false,49423,0.00,Stuck
+Greedy,Node_12,Node_72,false,49420,0.00,Stuck
+Greedy,Node_38,Node_73,false,49413,0.00,Stuck
+Greedy,Node_57,Node_141,false,49395,0.00,Stuck
+Greedy,Node_23,Node_126,false,49390,0.00,Stuck
+Greedy,Unknown,Node_142,true,179,5243.00,Arrived
+Greedy,Node_114,Node_29,false,49381,0.00,Stuck
+Greedy,Node_15,Node_91,false,49367,0.00,Stuck
+Greedy,Node_57,Node_126,false,49364,0.00,Stuck
+Greedy,Node_18,Node_86,false,49362,0.00,Stuck
+Greedy,Unknown,Node_3,false,59,875.00,Arrived
+Greedy,Node_48,Node_83,false,49346,0.00,Stuck
+Greedy,Node_65,Node_113,false,49343,0.00,Stuck
+Greedy,Node_50,Node_140,false,49340,506.00,Stuck
+Greedy,Node_137,Node_45,false,49339,0.00,Stuck
+Greedy,Node_52,Node_75,false,49336,4315.00,Stuck
+Greedy,Node_1,Node_7,false,49330,0.00,Stuck
+Greedy,Node_88,Node_49,false,49326,357.00,Stuck
+Greedy,Node_16,Node_122,false,49317,0.00,Stuck
+Greedy,Unknown,Node_83,true,145,4275.00,Arrived
+Greedy,Node_92,Node_142,false,49316,0.00,Stuck
+Greedy,Node_68,Node_47,false,49310,2856.00,Stuck
+Greedy,Node_83,Node_6,false,49305,0.00,Stuck
+Greedy,Node_111,Node_10,false,49298,0.00,Stuck
+Greedy,Node_25,Node_37,false,49297,0.00,Stuck
+Greedy,Node_84,Node_107,false,49293,0.00,Stuck
+Greedy,Unknown,Node_59,false,27,392.00,Arrived
+Greedy,Node_29,Node_138,false,49279,0.00,Stuck
+Greedy,Node_55,Node_42,false,49267,0.00,Stuck
+Greedy,Node_17,Node_120,false,49264,1830.00,Stuck
+Greedy,Clement Town,Node_113,false,49264,0.00,Stuck
+Greedy,Unknown,Node_25,false,259,3830.00,Arrived
+Greedy,Node_29,Node_63,false,49261,2334.00,Stuck
+Greedy,Node_8,Node_104,false,49257,0.00,Stuck
+Greedy,Node_3,Node_80,false,49252,0.00,Stuck
+Greedy,Node_106,Node_118,false,49248,793.00,Stuck
+Greedy,Node_137,Node_115,false,49234,0.00,Stuck
+Greedy,Node_98,Node_41,false,49230,0.00,Stuck
+Greedy,Node_38,Node_135,false,49223,0.00,Stuck
+Greedy,Node_66,Node_54,false,49216,0.00,Stuck
+Greedy,Node_1,Node_135,false,49213,0.00,Stuck
+Greedy,Node_69,Node_12,false,49209,0.00,Stuck
+Greedy,Node_33,Node_7,false,49205,318.00,Stuck
+Greedy,Node_34,Node_113,false,49204,0.00,Stuck
+Greedy,Node_134,Node_17,false,49195,0.00,Stuck
+Greedy,Node_18,Node_41,false,49189,0.00,Stuck
+Greedy,Node_124,Node_136,false,49187,5138.00,Stuck
+Greedy,Node_143,Node_130,false,49179,651.00,Stuck
+Greedy,Node_23,Node_96,false,49178,0.00,Stuck
+Greedy,Node_134,Node_54,false,49177,0.00,Stuck
+Greedy,Node_20,Node_32,false,49175,738.00,Stuck
+Greedy,Node_87,Node_65,false,49169,1131.00,Stuck
+Greedy,Node_77,Node_42,false,49167,718.00,Stuck
+Greedy,Node_96,Node_11,false,49163,0.00,Stuck
+Greedy,Rajpur Road,Node_134,false,49162,533.00,Stuck
+Greedy,Node_14,Node_113,false,49161,0.00,Stuck
+Greedy,Unknown,Node_105,true,123,3576.00,Arrived
+Greedy,Node_34,Node_23,false,49149,4148.00,Stuck
+Greedy,Node_139,Node_117,false,49145,1646.00,Stuck
+Greedy,Node_125,Node_91,false,49144,374.00,Stuck
+Greedy,Node_21,Node_127,false,49143,0.00,Stuck
+Greedy,Node_115,Node_8,false,49124,0.00,Stuck
+Greedy,Node_103,Node_126,false,49113,0.00,Stuck
+Greedy,Node_109,Node_121,false,49092,1291.00,Stuck
+Greedy,Node_83,Node_9,false,49087,0.00,Stuck
+Greedy,Unknown,Node_72,true,171,4964.00,Arrived
+Greedy,Node_142,Node_120,false,49084,1126.00,Stuck
+Greedy,Node_73,Node_137,false,49077,0.00,Stuck
+Greedy,Node_43,Node_120,false,49054,1107.00,Stuck
+Greedy,Node_114,Node_103,false,49052,1858.00,Stuck
+Greedy,Node_105,Node_129,false,49046,4379.00,Stuck
+Greedy,Node_98,Node_110,false,49043,2250.00,Stuck
+Greedy,Node_63,Node_75,false,49038,733.00,Stuck
+Greedy,Clock Tower,Node_82,false,49018,0.00,Stuck
+Greedy,Node_4,Node_103,false,49018,0.00,Stuck
+Greedy,Node_8,Node_33,false,49013,1897.00,Stuck
+Greedy,Rajpur Road,Node_130,false,49011,547.00,Stuck
+Greedy,Node_67,Node_56,false,49007,423.00,Stuck
+Greedy,Node_38,Node_25,false,49003,2569.00,Stuck
+Greedy,Node_115,Node_110,false,49002,1506.00,Stuck
+Greedy,Node_56,Node_112,false,48994,2126.00,Stuck
+Greedy,Node_6,Node_129,false,48994,0.00,Stuck
+Greedy,Node_2,Node_13,false,48994,2321.00,Stuck
+Greedy,Node_7,Node_67,false,48991,0.00,Stuck
+Greedy,Node_33,Node_124,false,48989,0.00,Stuck
+Greedy,Unknown,Node_136,true,250,7282.00,Arrived
+Greedy,Node_22,Node_60,false,48979,3853.00,Stuck
+Greedy,Node_7,Node_74,false,48979,1482.00,Stuck
+Greedy,Node_126,Node_50,false,48976,0.00,Stuck
+Greedy,Node_56,Node_80,false,48967,0.00,Stuck
+Greedy,Node_101,Node_15,false,48950,0.00,Stuck
+Greedy,Node_106,Node_130,false,48941,0.00,Stuck
+Greedy,Node_122,Node_53,false,48940,0.00,Stuck
+Greedy,Node_23,Node_101,false,48940,745.00,Stuck
+Greedy,Node_82,Node_60,false,48939,5280.00,Stuck
+Greedy,Node_20,Node_7,false,48934,2424.00,Stuck
+Greedy,Node_103,Node_51,false,48932,755.00,Stuck
+Greedy,Node_92,Node_38,false,48931,0.00,Stuck
+Greedy,Node_114,Node_65,false,48923,0.00,Stuck
+Greedy,Node_68,Node_83,false,48921,2856.00,Stuck
+Greedy,Node_140,Node_52,false,48907,0.00,Stuck
+Greedy,Node_128,Node_63,false,48905,793.00,Stuck
+Greedy,Node_141,Pacific Mall,false,48900,0.00,Stuck
+Greedy,Node_115,Node_125,false,48891,1506.00,Stuck
+Greedy,Node_139,Node_22,false,48889,0.00,Stuck
+Greedy,Node_46,Node_117,false,48884,0.00,Stuck
+Greedy,Node_33,Node_111,false,48882,633.00,Stuck
+Greedy,Unknown,Node_51,false,96,1420.00,Arrived
+Greedy,Node_122,Node_109,false,48870,465.00,Stuck
+Greedy,Node_99,Node_74,false,48869,5481.00,Stuck
+Greedy,Unknown,Node_138,true,163,4707.00,Arrived
+Greedy,Node_45,Node_114,false,48847,0.00,Stuck
+Greedy,Node_43,Node_96,false,48847,1847.00,Stuck
+Greedy,Graphic Era Univ,Node_50,false,48841,1625.00,Stuck
+Greedy,Node_136,Node_70,false,48836,2072.00,Stuck
+Greedy,Node_74,Node_37,false,48827,0.00,Stuck
+Greedy,Node_92,Node_103,false,48826,0.00,Stuck
+Greedy,Node_63,ISBT Hub,false,48825,0.00,Stuck
+Greedy,Unknown,Node_114,false,176,2605.00,Arrived
+Greedy,Pacific Mall,Node_59,false,48818,0.00,Stuck
+Greedy,Node_84,Node_138,false,48809,0.00,Stuck
+Greedy,Node_9,Node_69,false,48799,0.00,Stuck
+Greedy,Node_91,Node_57,false,48798,0.00,Stuck
+Greedy,Node_140,Node_62,false,48795,2440.00,Stuck
+Greedy,Node_50,Node_127,false,48794,506.00,Stuck
+Greedy,Unknown,Pacific Mall,true,135,3914.00,Arrived
+Greedy,Node_42,Node_16,false,48784,367.00,Stuck
+Greedy,Node_141,Node_128,false,48778,482.00,Stuck
+Greedy,Prem Nagar,Node_134,false,48777,0.00,Stuck
+Greedy,Node_130,Node_142,false,48768,0.00,Stuck
+Greedy,Node_19,Node_130,false,48744,0.00,Stuck
+Greedy,Node_91,Node_43,false,48742,0.00,Stuck
+Greedy,Node_30,Node_18,false,48739,0.00,Stuck
+Greedy,Node_70,Node_43,false,48734,470.00,Stuck
+Greedy,Node_67,Node_112,false,48728,0.00,Stuck
+Greedy,Node_1,Node_7,false,48723,0.00,Stuck
+Greedy,Node_13,Node_3,false,48720,0.00,Stuck
+Greedy,Node_54,Node_88,false,48713,2672.00,Stuck
+Greedy,Node_70,ISBT Hub,false,48711,470.00,Stuck
+Greedy,Rajpur Road,Node_46,false,48711,0.00,Stuck
+Greedy,Node_138,Node_36,false,48707,0.00,Stuck
+Greedy,Node_55,Node_139,false,48705,0.00,Stuck
+Greedy,Node_77,ISBT Hub,false,48703,0.00,Stuck
+Greedy,Node_126,Node_22,false,48700,0.00,Stuck
+Greedy,Prem Nagar,Node_134,false,48685,4183.00,Stuck
+Greedy,Unknown,Node_41,true,212,6105.00,Arrived
+Greedy,Node_68,Node_124,false,48675,0.00,Stuck
+Greedy,Node_99,Graphic Era Univ,false,48673,327.00,Stuck
+Greedy,Graphic Era Univ,Node_39,false,48672,3509.00,Stuck
+Greedy,Node_17,Node_42,false,48672,0.00,Stuck
+Greedy,Node_99,Node_11,false,48671,0.00,Stuck
+Greedy,Node_104,Node_13,false,48669,1591.00,Stuck
+Greedy,Node_12,Node_116,false,48664,0.00,Stuck
+Greedy,Node_31,Node_43,false,48654,1238.00,Stuck
+Greedy,Node_28,Node_118,false,48648,0.00,Stuck
+Greedy,Node_137,Node_98,false,48632,1715.00,Stuck
+Greedy,Node_82,Node_60,false,48630,4767.00,Stuck
+Greedy,Clock Tower,Node_118,false,48624,782.00,Stuck
+Greedy,Paltan Bazaar,Node_116,false,48624,0.00,Stuck
+Greedy,Node_119,Node_23,false,48622,657.00,Stuck
+Greedy,Node_101,Node_26,false,48621,0.00,Stuck
+Greedy,Node_97,Node_112,false,48617,0.00,Stuck
+Greedy,Unknown,Node_101,true,182,5303.00,Arrived
+Greedy,Node_18,Node_126,false,48610,0.00,Stuck
+Greedy,Node_75,Node_4,false,48608,0.00,Stuck
+Greedy,Node_16,Node_80,false,48606,1071.00,Stuck
+Greedy,Node_141,Node_11,false,48604,0.00,Stuck
+Greedy,Node_21,Node_129,false,48596,0.00,Stuck
+Greedy,Unknown,Rajpur Road,true,143,4164.00,Arrived
+Greedy,Node_61,Node_122,false,48584,0.00,Stuck
+Greedy,Node_125,Paltan Bazaar,false,48583,0.00,Stuck
+Greedy,Node_31,Node_76,false,48581,0.00,Stuck
+Greedy,Node_9,Node_115,false,48580,0.00,Stuck
+Greedy,Node_14,Node_2,false,48575,2289.00,Stuck
+Greedy,Node_7,Node_19,false,48564,1388.00,Stuck
+Greedy,Node_98,Node_85,false,48559,989.00,Stuck
+Greedy,Node_10,Node_125,false,48556,0.00,Stuck
+Greedy,Node_37,Node_97,false,48550,0.00,Stuck
+Greedy,Paltan Bazaar,Node_139,false,48535,0.00,Stuck
+Greedy,Node_10,Node_48,false,48533,0.00,Stuck
+Greedy,Rajpur Road,Node_25,false,48531,1861.00,Stuck
+Greedy,Node_88,Node_62,false,48522,0.00,Stuck
+Greedy,Node_1,Node_95,false,48519,0.00,Stuck
+Greedy,Node_59,Node_48,false,48516,560.00,Stuck
+Greedy,Node_2,Node_38,false,48516,0.00,Stuck
+Greedy,Node_105,Node_42,false,48504,1764.00,Stuck
+Greedy,Node_63,Node_134,false,48499,733.00,Stuck
+Greedy,Node_115,Node_137,false,48495,3455.00,Stuck
+Greedy,Node_140,Node_62,false,48487,2440.00,Stuck
+Greedy,Node_53,Node_87,false,48483,522.00,Stuck
+Greedy,Node_94,Node_108,false,48479,0.00,Stuck
+Greedy,Node_135,Node_58,false,48478,566.00,Stuck
+Greedy,Node_97,Node_60,false,48468,0.00,Stuck
+Greedy,Node_66,Node_33,false,48460,3133.00,Stuck
+Greedy,Node_67,Node_7,false,48459,0.00,Stuck
+Greedy,Node_28,Node_39,false,48453,2424.00,Stuck
+Greedy,Node_113,Node_64,false,48452,0.00,Stuck
+Greedy,Node_115,Node_47,false,48450,0.00,Stuck
+Greedy,Node_52,Node_39,false,48449,729.00,Stuck
+Greedy,Node_97,Node_91,false,48447,0.00,Stuck
+Greedy,Node_43,Node_48,false,48440,1507.00,Stuck
+Greedy,Node_125,Paltan Bazaar,false,48433,0.00,Stuck
+Greedy,Node_105,Node_1,false,48428,0.00,Stuck
+Greedy,Node_94,Node_106,false,48426,749.00,Stuck
+Greedy,Node_68,Node_69,false,48425,2856.00,Stuck
+Greedy,Node_142,Node_118,false,48423,0.00,Stuck
+Greedy,Node_68,Node_96,false,48422,1412.00,Stuck
+Greedy,Node_121,Node_109,false,48421,0.00,Stuck
+Greedy,Node_92,Node_78,false,48406,749.00,Stuck
+Greedy,Node_8,Node_92,false,48403,0.00,Stuck
+Greedy,ISBT Hub,Node_111,false,48399,833.00,Stuck
+Greedy,Node_31,Node_85,false,48389,0.00,Stuck
+Greedy,Node_104,Node_53,false,48385,0.00,Stuck
+Greedy,Node_32,Node_94,false,48374,0.00,Stuck
+Greedy,Node_9,Node_119,false,48367,0.00,Stuck
+Greedy,Node_125,Node_70,false,48365,833.00,Stuck
+Greedy,Node_29,Node_124,false,48357,0.00,Stuck
+Greedy,Node_126,Node_62,false,48353,0.00,Stuck
+Greedy,Node_125,Node_112,false,48351,4764.00,Stuck
+Greedy,Node_62,Node_51,false,48346,0.00,Stuck
+Greedy,Node_92,Node_50,false,48343,749.00,Stuck
+Greedy,Node_63,Node_86,false,48341,733.00,Stuck
+Greedy,Paltan Bazaar,Node_63,false,48339,0.00,Stuck
+Greedy,Node_70,Node_99,false,48329,797.00,Stuck
+Greedy,Node_6,Node_80,false,48325,0.00,Stuck
+Greedy,Node_20,Node_58,false,48325,1420.00,Stuck
+Greedy,Node_114,Node_132,false,48317,1314.00,Stuck
+Greedy,Paltan Bazaar,Node_94,false,48310,0.00,Stuck
+Greedy,Node_18,Pacific Mall,false,48309,0.00,Stuck
+Greedy,Node_129,Node_28,false,48303,0.00,Stuck
+Greedy,Node_66,Node_136,false,48301,0.00,Stuck
+Greedy,Node_91,Clock Tower,false,48295,1303.00,Stuck
+Greedy,Node_118,Node_58,false,48294,0.00,Stuck
+Greedy,Node_133,Node_88,false,48293,0.00,Stuck
+Greedy,Node_135,Node_133,false,48292,3922.00,Stuck
+Greedy,Node_15,Node_135,false,48290,0.00,Stuck
+Greedy,Node_133,Node_2,false,48280,0.00,Stuck
+Greedy,Unknown,Node_4,true,202,5908.00,Arrived
+Greedy,Node_91,Node_34,false,48267,0.00,Stuck
+Greedy,Unknown,Node_62,false,39,571.00,Arrived
+Greedy,Node_92,Node_88,false,48260,749.00,Stuck
+Greedy,Node_47,Node_125,false,48252,0.00,Stuck
+Greedy,Node_17,Node_29,false,48248,1830.00,Stuck
+Greedy,ISBT Hub,Node_52,false,48248,459.00,Stuck
+Greedy,Node_93,Node_45,false,48242,0.00,Stuck
+Greedy,Node_6,Node_95,false,48241,0.00,Stuck
+Greedy,Node_140,Node_89,false,48240,0.00,Stuck
+Greedy,Node_18,Node_55,false,48238,0.00,Stuck
+Greedy,Node_125,Node_65,false,48232,374.00,Stuck
+Greedy,Unknown,Rajpur Road,false,36,533.00,Arrived
+Greedy,Unknown,Node_107,false,183,2708.00,Arrived
+Greedy,Node_32,Node_96,false,48201,0.00,Stuck
+Greedy,Node_21,Node_8,false,48201,0.00,Stuck
+Greedy,Node_22,Node_111,false,48197,0.00,Stuck
+Greedy,Node_121,Node_73,false,48189,0.00,Stuck
+Greedy,Node_78,Node_103,false,48177,1506.00,Stuck
+Greedy,Node_122,Node_76,false,48173,0.00,Stuck
+Greedy,Node_129,Node_18,false,48170,0.00,Stuck
+Greedy,Node_68,Node_82,false,48165,875.00,Stuck
+Greedy,Node_54,Node_110,false,48163,3064.00,Stuck
+Greedy,Node_5,Node_50,false,48159,3454.00,Stuck
+Greedy,Node_50,Node_109,false,48158,0.00,Stuck
+Greedy,Node_65,Graphic Era Univ,false,48157,0.00,Stuck
+Greedy,Node_74,Node_86,false,48150,513.00,Stuck
+Greedy,Node_96,Node_58,false,48150,0.00,Stuck
+Greedy,Node_139,Node_89,false,48147,0.00,Stuck
+Greedy,Node_93,Node_3,false,48137,0.00,Stuck
+Greedy,Node_55,Node_42,false,48131,305.00,Stuck
+Greedy,Node_142,Node_120,false,48129,482.00,Stuck
+Greedy,Node_8,Node_87,false,48125,0.00,Stuck
+Greedy,Node_78,Node_30,false,48103,0.00,Stuck
+Greedy,Node_91,Node_59,false,48095,771.00,Stuck
+Greedy,Node_138,Node_116,false,48084,3049.00,Stuck
+Greedy,Node_98,Node_121,false,48081,2826.00,Stuck
+Greedy,Node_17,Prem Nagar,false,48079,0.00,Stuck
+Greedy,Unknown,Node_124,false,294,4356.00,Arrived
+Greedy,Node_116,Node_139,false,48078,0.00,Stuck
+Greedy,Node_53,Node_117,false,48065,0.00,Stuck
+Greedy,Unknown,Node_114,true,123,3578.00,Arrived
+Greedy,Unknown,Graphic Era Univ,true,152,4392.00,Arrived
+Greedy,Node_33,Node_101,false,48045,0.00,Stuck
+Greedy,Node_105,Node_22,false,48044,1155.00,Stuck
+Greedy,Node_70,Node_24,false,48043,0.00,Stuck
+Greedy,Node_31,Node_20,false,48042,1646.00,Stuck
+Greedy,Node_117,Node_31,false,48039,0.00,Stuck
+Greedy,Clement Town,Node_108,false,48038,0.00,Stuck
+Greedy,Node_2,Node_13,false,48012,3980.00,Stuck
+Greedy,Node_39,Node_1,false,48006,0.00,Stuck
+A* (A-Star) (Visual),Unknown,Node_9,false,936,6535.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,748,5536.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,375,2918.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,123,732.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,745,5385.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,770,5961.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,555,4189.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_78,false,119,788.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_21,false,804,6088.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,262,2338.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,280,2508.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_90,false,543,3657.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_140,false,576,4476.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,1097,8339.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_105,false,691,4498.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,194,1335.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,522,3649.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,221,1863.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,531,3523.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,1038,7215.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,480,4244.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,804,5930.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,496,3085.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_102,false,626,4234.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,383,2961.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_46,false,661,4405.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,true,339,6010.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_14,false,623,4185.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,770,4819.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,542,3639.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_97,false,763,5002.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,670,4295.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,1199,8060.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,341,2196.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,543,4222.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,813,4878.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,921,6363.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,664,4810.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,275,2067.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,722,5527.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,58,521.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,691,4555.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,177,1346.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_36,false,971,6990.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,228,2042.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,1084,7179.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,747,4915.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_98,false,921,6525.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_5,false,930,7346.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,571,4016.00,Arrived
+A* (A-Star) (Visual),Unknown,Prem Nagar,false,1012,7086.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_31,false,780,5217.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,true,25,434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,412,2906.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,685,5830.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,1141,7414.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,721,4525.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,584,4596.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,278,2473.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,86,740.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,938,6714.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,588,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_57,false,965,6906.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,293,1858.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,600,4465.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,1099,7128.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,426,3014.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_67,false,294,2122.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,803,5454.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,573,4309.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,462,3207.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_132,false,179,1414.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,669,5467.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,529,3481.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_34,true,419,7401.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,194,1569.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,314,2236.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,842,6737.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,169,1265.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,769,5437.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_24,false,1103,7503.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,1141,9320.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,408,2974.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,682,4854.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,533,3518.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_128,false,486,3457.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,1074,7684.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,761,5432.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,931,6539.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,false,518,3526.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,688,5223.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,358,2790.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,685,5134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,370,1989.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,168,1108.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,816,6110.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,852,5904.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,true,477,8451.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,545,4143.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,523,3908.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,566,4030.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,474,3703.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,457,3329.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_64,false,497,4041.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,572,4007.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,221,1504.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,470,2870.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,290,2021.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,true,373,6604.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,419,2909.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,888,6325.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,405,2938.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,899,6129.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,364,2600.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_73,false,232,1773.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_141,false,461,3261.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,946,7071.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,true,242,4268.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,611,4348.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,772,5187.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,584,4537.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,563,4489.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,135,875.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,false,281,1647.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,301,2218.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_140,false,751,6442.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_45,false,841,6417.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_75,false,776,5793.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,733,5642.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_49,false,512,3177.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,746,4925.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,true,193,3420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,431,2884.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,772,5364.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_6,false,759,5142.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,1035,7469.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,73,650.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_107,false,200,1726.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,51,392.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,false,792,5532.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,174,1147.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,1245,8909.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,822,5987.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,569,3830.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,690,4561.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,603,4811.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,706,4974.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,170,1179.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_115,false,337,2445.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,521,3529.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,652,4463.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,50,442.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,1122,6945.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_12,false,445,3519.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,341,2120.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,882,5672.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,930,6525.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,231,1648.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,661,5016.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,209,1701.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,521,3747.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,794,5742.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,178,1075.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,448,3135.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,345,2736.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,603,4292.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,783,5724.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,758,4885.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_105,true,200,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_23,false,732,5111.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,475,3727.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,457,3124.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_127,false,824,5786.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,945,5930.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,201,1692.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,259,1685.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_9,false,441,3483.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,true,234,4121.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,476,3188.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,641,4257.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,1018,6862.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,477,3099.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,632,4772.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,303,2449.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_75,false,121,1075.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,565,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,761,5290.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_33,false,376,2537.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,673,4213.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_56,false,240,1380.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,438,3208.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,661,4554.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,831,6338.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,852,6439.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,581,4226.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_67,false,449,3343.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,950,6731.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,true,335,5932.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,785,5101.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_74,false,978,6824.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,505,4282.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,181,1306.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_15,false,554,4318.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,123,1041.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,587,4602.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,1035,7219.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,1022,6849.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,481,3118.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,641,4511.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_38,false,691,5264.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,310,2660.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,false,800,5570.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,907,5856.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,684,5662.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,false,575,4021.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,394,2904.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,1061,6797.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,431,3236.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,930,6644.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,158,1420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,175,1564.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_74,false,959,6738.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,true,251,4434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,false,708,4951.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,1030,6664.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,378,3012.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_70,false,1152,8445.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,275,1907.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,229,1533.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,402,2539.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,false,468,2605.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,75,673.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,false,846,5779.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_69,false,335,2247.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_57,false,472,3269.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,1138,8051.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_127,false,915,5866.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,true,219,3870.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,324,2227.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_128,false,190,1698.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,398,2616.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,80,474.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,886,5847.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,448,2880.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_18,false,49,434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,440,3277.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,445,3518.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,755,5715.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,371,3310.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,672,5120.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,843,6436.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_46,false,464,3595.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_36,false,1128,7971.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,628,4073.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,475,2959.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,892,6447.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,865,6151.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,true,267,4720.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,756,4907.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,false,458,3030.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,554,3736.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,153,1367.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,1076,7865.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,1032,8640.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,903,6134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,180,1606.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,940,6469.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_98,false,542,4418.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,833,6243.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,244,1719.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,503,4086.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_23,false,817,6054.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_26,false,638,4134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,356,2253.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,true,268,4758.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,646,4660.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,416,3145.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,945,5811.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,1080,7134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,574,4445.00,Arrived
+A* (A-Star) (Visual),Unknown,Rajpur Road,true,242,4272.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,363,2837.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,879,5601.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_76,false,481,3683.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_115,false,774,5569.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,false,339,2483.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_19,false,199,1534.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,296,1867.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,1025,7743.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_97,false,453,2566.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,818,5066.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,493,2634.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,806,6508.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,265,1992.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_95,false,1183,8418.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,138,1231.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_38,false,293,1587.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,812,5862.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,599,4218.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,728,4903.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,1190,8000.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_87,false,394,3090.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_108,false,226,1591.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,1163,7801.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,1031,7570.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_33,false,707,5068.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,491,3318.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,410,3180.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_64,false,451,2929.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,714,5312.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,208,1792.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,572,3825.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,640,4472.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,849,5601.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_1,false,1207,8371.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,153,1369.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_69,false,678,4458.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,138,860.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,672,5301.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,85,404.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_78,false,503,3875.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_92,false,605,4033.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,216,1527.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,608,5079.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,578,4007.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,632,3378.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_119,false,811,5490.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_70,false,945,6321.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,705,5148.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,576,3868.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,838,5465.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,139,1015.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,803,5939.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,242,1903.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,524,4012.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,1005,6321.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,537,4023.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,430,3122.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_132,false,803,5997.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,448,3099.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,false,532,4006.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_28,false,899,6658.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,510,4284.00,Arrived
+A* (A-Star) (Visual),Unknown,Clock Tower,false,675,5087.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,455,3879.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,530,3653.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_133,false,893,6183.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,799,4988.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,false,800,6020.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,true,308,5434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_34,false,582,4172.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,64,571.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,699,4443.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,955,6776.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,333,1844.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,633,4133.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_45,false,464,3648.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_95,false,786,5762.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_89,false,579,3442.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_55,false,260,1890.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,459,3226.00,Arrived
+A* (A-Star) (Visual),Unknown,Rajpur Road,false,89,533.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_107,false,418,2708.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,624,4122.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,171,787.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,1011,7275.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_73,false,299,2006.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,324,2568.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_76,false,417,2801.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_18,false,851,5937.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,384,2876.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,983,7503.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,913,5967.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,356,2885.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,false,322,2620.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,99,890.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,328,2514.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_89,false,486,3061.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,891,6081.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,238,1452.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,361,2544.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_87,false,878,5804.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,false,255,2053.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,600,4633.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,704,4774.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,568,4166.00,Arrived
+A* (A-Star) (Visual),Unknown,Prem Nagar,false,675,4420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,640,4356.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,241,1452.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,692,4563.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,true,194,3442.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,true,225,3983.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,740,4824.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,631,4954.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_24,false,424,2908.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_20,false,362,2605.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_31,false,739,5125.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_108,false,538,3461.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,726,5459.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_1,false,321,2867.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_9,false,715,6535.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,540,5536.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,307,2918.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,90,732.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,417,5385.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,568,5961.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,419,4189.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_78,false,84,788.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_21,false,566,6088.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,162,2338.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,225,2508.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_90,false,387,3657.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_140,false,435,4476.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,795,8339.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_105,false,378,4498.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,90,1335.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,427,3649.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,186,1863.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,301,3523.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,771,7215.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,452,4244.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,639,5930.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,345,3085.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_102,false,447,4241.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,345,2961.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_46,false,420,4405.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,true,207,6010.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_14,false,366,4185.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,377,4819.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,402,3639.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_97,false,522,5002.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,443,4295.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,814,8060.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_40,false,232,2196.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,509,4222.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,473,4878.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,665,6363.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,408,4810.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,245,2067.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,449,5527.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,35,521.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,515,4555.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,150,1346.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_36,false,814,6990.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,179,2042.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,710,7179.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,444,4915.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_98,false,746,6612.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_5,false,760,7212.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,416,4016.00,Arrived
+A* (A-Star) (Visual),Unknown,Prem Nagar,false,752,6994.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_31,false,441,5217.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,true,15,434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,262,2906.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,529,5830.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,646,7418.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,511,4525.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,425,4596.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,216,2473.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,53,740.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,534,6714.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,396,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_57,false,667,6906.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,185,1858.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,344,4465.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,667,7668.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,290,3014.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_67,false,247,2122.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,601,5454.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,415,4309.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,220,3207.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_132,false,145,1414.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,478,5467.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,312,3327.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_34,true,256,7401.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,168,1569.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,196,2236.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,620,6591.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,86,1265.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,580,5437.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_24,false,782,8102.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,985,9320.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,243,2974.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,433,4720.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,258,3518.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_128,false,350,3457.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,898,7750.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,490,5432.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_144,false,654,6539.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,false,274,3526.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,535,5223.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,206,2790.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,623,5134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,217,1989.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,142,1108.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,668,6110.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,477,5801.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,true,294,8502.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,330,4143.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,346,3908.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,344,4030.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,330,3703.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,385,3303.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_64,false,465,4041.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,437,4007.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,155,1432.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,327,2870.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,187,2021.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,true,229,6604.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_66,false,384,2909.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,641,6325.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,321,2938.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,524,6129.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,false,267,2600.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_73,false,125,1773.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_141,false,366,3261.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,682,6758.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,true,148,4268.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,424,4348.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,479,5023.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,408,4537.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,407,4489.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,112,875.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,false,147,1647.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,194,2218.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_140,false,565,6388.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_45,false,595,6809.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_75,false,648,5792.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,547,5715.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_49,false,311,3177.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,526,4945.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,true,118,3420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,273,2884.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,474,5364.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_6,false,551,5142.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_10,false,881,8100.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,44,650.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_107,false,173,1726.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,34,392.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,false,585,5532.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,131,1147.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,707,8530.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,559,5987.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,377,3830.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,355,4484.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_104,false,448,4811.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,556,4974.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,137,1179.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_115,false,199,2445.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,274,3529.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,439,4463.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,30,442.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,622,6945.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_12,false,381,3519.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,229,2120.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,619,5672.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_17,false,551,6345.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,false,160,1516.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,527,5016.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,181,1701.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,306,3747.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_54,false,466,5778.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_32,false,72,1075.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,345,3135.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,240,2772.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,383,4292.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,498,5909.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_113,false,503,4845.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_105,true,123,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_23,false,452,5111.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,296,3814.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,211,3124.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_127,false,497,5406.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,471,5930.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,126,1692.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,224,1685.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_9,false,403,3483.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_72,true,143,4121.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,258,3188.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,495,4362.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,598,6771.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,290,3099.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,418,4772.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,218,2449.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_75,false,80,1075.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,373,3576.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,505,5290.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_33,false,297,2537.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,416,4213.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_56,false,150,1380.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,386,3208.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,408,4554.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,696,6338.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,656,6439.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,426,4226.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_67,false,298,3343.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,592,6243.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,true,205,5932.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,522,5101.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_74,false,569,6615.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,452,4282.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,88,1306.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_15,false,393,4318.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,106,1041.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,468,4407.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,744,7044.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,683,6793.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,287,3282.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,364,4511.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_38,false,442,5264.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,260,2771.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_83,false,564,5371.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,635,5740.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,547,5574.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,false,445,4021.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,249,2904.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,672,6869.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,327,3236.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,902,6875.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,119,1420.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,119,1564.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_74,false,606,6738.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,true,153,4434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,false,511,4951.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,668,6664.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,276,2890.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_70,false,739,8073.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_37,false,181,1907.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,103,1533.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,251,2539.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,false,229,2605.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,45,673.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_138,false,559,5779.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_69,false,250,2247.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_57,false,290,3269.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,873,8000.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_127,false,595,5290.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,true,101,2945.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_16,false,188,2227.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_128,false,124,1834.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,229,2559.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_142,false,59,474.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_130,false,509,5847.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,221,2880.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_18,false,29,434.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,299,3272.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,290,3397.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,329,3449.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,154,1695.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,439,4658.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,541,5670.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_46,false,254,3030.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_36,false,735,6978.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,363,4073.00,Arrived
+A* (A-Star) (Visual),Unknown,ISBT Hub,false,293,2659.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,603,6008.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,642,5977.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_41,true,164,4720.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,447,4442.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,false,320,3030.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,294,3736.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,112,1367.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,805,7621.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,791,7459.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,635,6097.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_43,false,168,1454.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,593,6034.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_98,false,378,4220.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,696,5860.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,144,1719.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,355,4086.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_23,false,525,4685.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_26,false,416,4134.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,267,2191.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,true,145,4251.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_126,false,427,4660.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,false,322,3145.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,510,5148.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_11,false,664,6188.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_129,false,498,4445.00,Arrived
+A* (A-Star) (Visual),Unknown,Rajpur Road,true,142,4111.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_122,false,273,2837.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,576,5426.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_76,false,371,3701.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_115,false,399,4909.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,false,244,2483.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_19,false,104,1534.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,194,1867.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,580,6985.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_97,false,316,2566.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,553,5066.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,275,2634.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_25,false,634,5827.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,240,1992.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_95,false,684,7663.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,100,1231.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_38,false,158,1587.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,537,5066.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_134,false,527,4218.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_137,false,504,4932.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,925,7802.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_87,false,349,3090.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_108,false,108,1591.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,663,6573.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_60,false,774,7072.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_33,false,464,5068.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_7,false,276,3318.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,275,3205.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_64,false,288,2700.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_47,false,454,4214.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_39,false,74,1096.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_91,false,418,3855.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_48,false,422,4237.00,Arrived
+A* (A-Star) (Visual),Unknown,Paltan Bazaar,false,546,5426.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_1,false,736,7472.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_106,false,93,1369.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_69,false,377,3350.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_118,false,100,860.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,483,4536.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,67,404.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_78,false,235,2591.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_92,false,373,4033.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,114,1395.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_85,false,583,5079.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_53,false,339,3980.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,343,3111.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_119,false,512,5466.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_70,false,532,5289.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,489,4050.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,431,3868.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_112,false,443,5233.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_51,false,115,1015.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,539,5340.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,226,1903.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_63,false,390,3645.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_99,false,630,5395.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_80,false,349,4023.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,260,3122.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_132,false,571,5765.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_94,false,313,2858.00,Arrived
+A* (A-Star) (Visual),Unknown,Pacific Mall,false,377,4227.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_28,false,616,6201.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_136,false,481,4367.00,Arrived
+A* (A-Star) (Visual),Unknown,Clock Tower,false,464,4546.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,310,2826.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,424,3683.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_133,false,539,5225.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_135,false,539,4988.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_2,false,536,6020.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_4,true,179,5180.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_34,false,448,3538.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_62,false,39,571.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_88,false,323,2889.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_125,false,536,6048.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_29,false,195,1844.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_52,false,305,3248.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_45,false,173,2008.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_95,false,632,5582.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_89,false,435,3442.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_55,false,200,1890.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_65,false,380,3226.00,Arrived
+A* (A-Star) (Visual),Unknown,Rajpur Road,false,65,533.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_107,false,282,2657.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_96,false,382,4311.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_8,false,151,787.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_111,false,697,6981.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_73,false,220,2006.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_103,false,255,2568.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_76,false,359,2801.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_18,false,658,5601.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_82,false,240,2406.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_110,false,658,6660.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_50,false,554,5967.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_109,false,286,2885.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,false,152,1984.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_86,false,61,890.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_58,false,254,2561.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_89,false,342,3061.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_3,false,578,5895.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_42,false,138,1287.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_120,false,249,2544.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_87,false,609,6271.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_30,false,168,2053.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_59,false,318,4079.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_116,false,416,4752.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_121,false,447,3890.00,Arrived
+A* (A-Star) (Visual),Unknown,Prem Nagar,false,450,3807.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_124,false,383,4356.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_139,false,156,1453.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_117,false,468,4593.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_114,true,114,3309.00,Arrived
+A* (A-Star) (Visual),Unknown,Graphic Era Univ,true,138,3983.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_101,false,569,4843.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_22,false,459,4197.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_24,false,337,2908.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_20,false,300,2605.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_31,false,491,4084.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_108,false,282,3461.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_13,false,490,4919.00,Arrived
+A* (A-Star) (Visual),Unknown,Node_1,false,194,2389.00,Arrived
+A*,Node_128,Node_9,false,49999,0.00,Stuck
+A*,Node_117,Node_40,false,49984,0.00,Stuck
+A*,Node_7,Node_54,false,49984,509.00,Stuck
+A*,Node_20,Node_8,false,49982,0.00,Stuck
+A*,Node_115,Node_40,false,49981,791.00,Stuck
+A*,Node_46,Node_13,false,49976,555.00,Stuck
+A*,Node_51,Node_86,false,49974,2575.00,Stuck
+A*,Node_66,Node_78,false,49972,0.00,Stuck
+A*,Prem Nagar,Node_21,false,49968,0.00,Stuck
+A*,Node_52,Node_66,false,49959,691.00,Stuck
+A*,Node_45,Node_82,false,49950,413.00,Stuck
+A*,Node_118,Node_90,false,49939,0.00,Stuck
+A*,Node_76,Node_140,false,49930,0.00,Stuck
+A*,Node_132,Node_17,false,49925,0.00,Stuck
+A*,Node_24,Node_105,false,49924,0.00,Stuck
+A*,Node_42,Node_32,false,49911,0.00,Stuck
+A*,Node_34,Node_96,false,49899,318.00,Stuck
+A*,Node_128,Node_104,false,49893,793.00,Stuck
+A*,Node_115,Node_94,false,49891,479.00,Stuck
+A*,Node_139,Node_86,false,49891,2821.00,Stuck
+A*,Node_66,Node_16,false,49888,1369.00,Stuck
+A*,Pacific Mall,Node_125,false,49881,327.00,Stuck
+A*,Node_16,Paltan Bazaar,false,49880,0.00,Stuck
+A*,Node_49,Node_102,false,49879,0.00,Stuck
+A*,Node_126,Node_66,false,49873,0.00,Stuck
+A*,Node_77,Node_46,false,49868,0.00,Stuck
+A*,Unknown,Node_135,true,207,6010.00,Arrived
+A*,Node_53,Node_14,false,49850,1460.00,Stuck
+A*,Prem Nagar,Node_118,false,49848,327.00,Stuck
+A*,Node_62,Node_135,false,49833,0.00,Stuck
+A*,Node_74,Node_97,false,49820,3439.00,Stuck
+A*,Node_69,Node_118,false,49818,1369.00,Stuck
+A*,Node_132,Node_62,false,49816,0.00,Stuck
+A*,Node_75,Node_40,false,49815,451.00,Stuck
+A*,Graphic Era Univ,Node_101,false,49814,434.00,Stuck
+A*,Node_82,Node_88,false,49814,713.00,Stuck
+A*,Node_115,Node_4,false,49802,791.00,Stuck
+A*,Node_93,Node_48,false,49784,864.00,Stuck
+A*,Node_74,Node_110,false,49780,451.00,Stuck
+A*,Node_81,Node_16,false,49765,534.00,Stuck
+A*,Unknown,Node_10,false,35,521.00,Arrived
+A*,Node_80,Node_144,false,49752,0.00,Stuck
+A*,Node_99,Node_86,false,49750,327.00,Stuck
+A*,Node_115,Node_36,false,49746,479.00,Stuck
+A*,Node_21,Node_11,false,49746,602.00,Stuck
+A*,Node_47,Node_136,false,49730,0.00,Stuck
+A*,Node_49,Node_136,false,49723,0.00,Stuck
+A*,Node_29,Node_98,false,49720,2649.00,Stuck
+A*,Node_141,Node_5,false,49714,0.00,Stuck
+A*,Node_105,Node_43,false,49705,0.00,Stuck
+A*,Node_30,Prem Nagar,false,49701,2461.00,Stuck
+A*,Node_117,Node_31,false,49683,715.00,Stuck
+A*,Unknown,Node_30,true,15,434.00,Arrived
+A*,Node_49,Node_110,false,49677,0.00,Stuck
+A*,Pacific Mall,Node_99,false,49668,0.00,Stuck
+A*,Prem Nagar,Node_72,false,49665,1727.00,Stuck
+A*,Node_25,Node_122,false,49662,0.00,Stuck
+A*,Node_114,Node_32,false,49648,0.00,Stuck
+A*,Node_87,Node_126,false,49644,0.00,Stuck
+A*,Unknown,Node_41,false,50,740.00,Arrived
+A*,Node_135,Node_106,false,49642,1303.00,Stuck
+A*,Clock Tower,Node_82,false,49641,0.00,Stuck
+A*,Node_135,Node_57,false,49634,0.00,Stuck
+A*,Unknown,Node_110,false,126,1858.00,Arrived
+A*,Node_66,Node_37,false,49632,423.00,Stuck
+A*,Clock Tower,Node_29,false,49629,0.00,Stuck
+A*,Graphic Era Univ,Node_65,false,49627,434.00,Stuck
+A*,Node_18,Node_67,false,49619,0.00,Stuck
+A*,Node_3,Node_121,false,49619,0.00,Stuck
+A*,Clock Tower,Node_47,false,49615,0.00,Stuck
+A*,Node_50,Node_4,false,49614,506.00,Stuck
+A*,Unknown,Node_132,false,96,1414.00,Arrived
+A*,Node_86,Node_32,false,49613,521.00,Stuck
+A*,Pacific Mall,Node_104,false,49601,327.00,Stuck
+A*,Unknown,Node_34,true,269,7849.00,Arrived
+A*,Node_89,Node_53,false,49600,0.00,Stuck
+A*,Graphic Era Univ,Node_54,false,49593,0.00,Stuck
+A*,Node_65,Node_85,false,49585,2526.00,Stuck
+A*,Node_30,Node_66,false,49580,0.00,Stuck
+A*,Node_106,Node_135,false,49569,0.00,Stuck
+A*,Node_126,Node_24,false,49568,0.00,Stuck
+A*,Node_12,Node_137,false,49567,0.00,Stuck
+A*,Node_87,Node_29,false,49558,0.00,Stuck
+A*,Node_69,Node_142,false,49549,946.00,Stuck
+A*,Node_33,Node_104,false,49547,0.00,Stuck
+A*,Node_82,Node_128,false,49546,713.00,Stuck
+A*,Node_52,Node_144,false,49535,0.00,Stuck
+A*,Node_3,Node_13,false,49534,2772.00,Stuck
+A*,Unknown,Node_144,false,442,6539.00,Arrived
+A*,Node_103,Node_30,false,49527,0.00,Stuck
+A*,Node_76,Node_118,false,49526,0.00,Stuck
+A*,Node_88,Node_52,false,49514,889.00,Stuck
+A*,Node_81,ISBT Hub,false,49513,0.00,Stuck
+A*,Paltan Bazaar,Node_8,false,49509,0.00,Stuck
+A*,Node_70,Node_59,false,49505,0.00,Stuck
+A*,Node_20,Node_111,false,49488,0.00,Stuck
+A*,Node_124,Node_4,false,49483,0.00,Stuck
+A*,Unknown,Node_25,true,285,8253.00,Arrived
+A*,Node_66,Node_7,false,49473,1248.00,Stuck
+A*,Node_19,Node_82,false,49471,0.00,Stuck
+A*,Node_86,Node_17,false,49468,0.00,Stuck
+A*,Node_75,Node_43,false,49466,451.00,Stuck
+A*,Node_37,Node_99,false,49458,0.00,Stuck
+A*,Node_30,Node_64,false,49458,1251.00,Stuck
+A*,Node_117,Node_72,false,49456,715.00,Stuck
+A*,Node_81,Node_106,false,49454,0.00,Stuck
+A*,Unknown,Node_10,false,194,2870.00,Arrived
+A*,Prem Nagar,Node_137,false,49446,0.00,Stuck
+A*,Unknown,Node_2,true,229,6604.00,Arrived
+A*,Node_5,Node_66,false,49431,358.00,Stuck
+A*,Node_135,Node_17,false,49430,566.00,Stuck
+A*,Node_118,Node_80,false,49429,0.00,Stuck
+A*,Node_138,Node_72,false,49423,0.00,Stuck
+A*,Node_12,Node_72,false,49420,0.00,Stuck
+A*,Node_38,Node_73,false,49413,0.00,Stuck
+A*,Node_57,Node_141,false,49395,0.00,Stuck
+A*,Node_23,Node_126,false,49390,0.00,Stuck
+A*,Unknown,Node_142,true,136,3932.00,Arrived
+A*,Node_113,Node_29,false,49381,442.00,Stuck
+A*,Node_15,Node_91,false,49367,0.00,Stuck
+A*,Node_57,Node_126,false,49364,0.00,Stuck
+A*,Node_17,Node_86,false,49362,459.00,Stuck
+A*,Unknown,Node_3,false,59,875.00,Arrived
+A*,Node_48,Node_83,false,49346,0.00,Stuck
+A*,Node_65,Node_113,false,49343,0.00,Stuck
+A*,Node_49,Node_140,false,49340,0.00,Stuck
+A*,Node_137,Node_45,false,49339,0.00,Stuck
+A*,Node_57,Node_75,false,49336,1334.00,Stuck
+A*,Unknown,Node_7,false,233,3449.00,Arrived
+A*,Node_88,Node_49,false,49326,357.00,Stuck
+A*,Node_16,Node_122,false,49317,0.00,Stuck
+A*,Unknown,Node_83,true,118,3420.00,Arrived
+A*,Node_94,Node_142,false,49316,749.00,Stuck
+A*,Node_69,Node_47,false,49310,3350.00,Stuck
+A*,Node_83,Node_6,false,49305,0.00,Stuck
+A*,Node_115,Node_10,false,49298,1793.00,Stuck
+A*,Node_25,Node_37,false,49297,0.00,Stuck
+A*,Node_84,Node_107,false,49293,0.00,Stuck
+A*,Unknown,Node_59,false,27,392.00,Arrived
+A*,Node_29,Node_138,false,49279,0.00,Stuck
+A*,Node_54,Node_42,false,49267,633.00,Stuck
+A*,Node_15,Node_120,false,49264,481.00,Stuck
+A*,Node_33,Node_113,false,49264,633.00,Stuck
+A*,Unknown,Node_25,false,259,3830.00,Arrived
+A*,Node_29,Node_63,false,49261,2334.00,Stuck
+A*,Node_9,Node_104,false,49257,452.00,Stuck
+A*,Node_5,Node_80,false,49252,875.00,Stuck
+A*,Node_105,Node_118,false,49248,0.00,Stuck
+A*,Node_137,Node_115,false,49234,0.00,Stuck
+A*,Node_98,Node_41,false,49230,0.00,Stuck
+A*,Node_38,Node_135,false,49223,0.00,Stuck
+A*,Node_66,Node_54,false,49216,0.00,Stuck
+A*,Node_2,Node_135,false,49213,430.00,Stuck
+A*,Node_69,Node_12,false,49209,0.00,Stuck
+A*,Node_33,Node_7,false,49205,318.00,Stuck
+A*,Node_33,Node_113,false,49204,318.00,Stuck
+A*,Node_135,Node_17,false,49195,566.00,Stuck
+A*,Node_17,Node_41,false,49189,459.00,Stuck
+A*,Clock Tower,Node_136,false,49187,782.00,Stuck
+A*,Node_143,Node_130,false,49179,651.00,Stuck
+A*,Node_23,Node_96,false,49178,0.00,Stuck
+A*,Node_135,Node_54,false,49177,566.00,Stuck
+A*,Node_19,Node_32,false,49175,0.00,Stuck
+A*,Node_86,Node_65,false,49169,521.00,Stuck
+A*,Node_76,Node_42,false,49167,0.00,Stuck
+A*,Node_96,Node_11,false,49163,0.00,Stuck
+A*,Rajpur Road,Node_134,false,49162,533.00,Stuck
+A*,Node_15,Node_113,false,49161,481.00,Stuck
+A*,Unknown,Node_105,true,109,3199.00,Arrived
+A*,Clement Town,Node_23,false,49149,4463.00,Stuck
+A*,Node_140,Node_117,false,49145,2027.00,Stuck
+A*,Node_124,Node_91,false,49144,0.00,Stuck
+A*,Node_21,Node_127,false,49143,0.00,Stuck
+A*,Node_115,Node_8,false,49124,0.00,Stuck
+A*,Node_103,Node_126,false,49113,0.00,Stuck
+A*,Node_110,Node_121,false,49092,544.00,Stuck
+A*,Node_83,Node_9,false,49087,0.00,Stuck
+A*,Unknown,Node_72,true,143,4121.00,Arrived
+A*,Node_142,Node_120,false,49084,1126.00,Stuck
+A*,Node_74,Node_137,false,49077,513.00,Stuck
+A*,Node_41,Node_120,false,49054,0.00,Stuck
+A*,Node_115,Node_103,false,49052,2337.00,Stuck
+A*,Prem Nagar,Node_129,false,49046,989.00,Stuck
+A*,Node_101,Node_110,false,49043,503.00,Stuck
+A*,Node_63,Node_75,false,49038,733.00,Stuck
+A*,Clock Tower,Node_82,false,49018,0.00,Stuck
+A*,Node_5,Node_103,false,49018,358.00,Stuck
+A*,Node_5,Node_33,false,49013,0.00,Stuck
+A*,Rajpur Road,Node_130,false,49011,547.00,Stuck
+A*,Node_66,Node_56,false,49007,0.00,Stuck
+A*,Node_39,Node_25,false,49003,1847.00,Stuck
+A*,Unknown,Node_110,false,259,3843.00,Arrived
+A*,Node_60,Node_112,false,48994,0.00,Stuck
+A*,Node_6,Node_129,false,48994,0.00,Stuck
+A*,Node_3,Node_13,false,48994,1565.00,Stuck
+A*,Node_7,Node_67,false,48991,0.00,Stuck
+A*,Node_33,Node_124,false,48989,0.00,Stuck
+A*,Unknown,Node_136,true,185,5417.00,Arrived
+A*,Node_16,Node_60,false,48979,0.00,Stuck
+A*,Node_9,Node_74,false,48979,521.00,Stuck
+A*,Node_126,Node_50,false,48976,0.00,Stuck
+A*,Node_56,Node_80,false,48967,0.00,Stuck
+A*,Node_99,Node_15,false,48950,1085.00,Stuck
+A*,Node_106,Node_130,false,48941,0.00,Stuck
+A*,Node_124,Node_53,false,48940,924.00,Stuck
+A*,Node_24,Node_101,false,48940,0.00,Stuck
+A*,Node_76,Node_60,false,48939,1366.00,Stuck
+A*,Node_21,Node_7,false,48934,1822.00,Stuck
+A*,Node_102,Node_51,false,48932,1331.00,Stuck
+A*,Node_88,Node_38,false,48931,2140.00,Stuck
+A*,Node_113,Node_65,false,48923,442.00,Stuck
+A*,Pacific Mall,Node_83,false,48921,4440.00,Stuck
+A*,Node_139,Node_52,false,48907,381.00,Stuck
+A*,Node_124,Node_63,false,48905,2992.00,Stuck
+A*,Node_141,Pacific Mall,false,48900,0.00,Stuck
+A*,Node_116,Node_125,false,48891,715.00,Stuck
+A*,Node_139,Node_22,false,48889,0.00,Stuck
+A*,Node_46,Node_117,false,48884,0.00,Stuck
+A*,Node_33,Node_111,false,48882,633.00,Stuck
+A*,Unknown,Node_51,false,96,1420.00,Arrived
+A*,Node_122,Node_109,false,48870,465.00,Stuck
+A*,Node_106,Node_74,false,48869,971.00,Stuck
+A*,Unknown,Node_138,true,153,4434.00,Arrived
+A*,Node_45,Node_114,false,48847,0.00,Stuck
+A*,Node_41,Node_96,false,48847,740.00,Stuck
+A*,Node_26,Node_50,false,48841,2059.00,Stuck
+A*,Node_135,Node_70,false,48836,1303.00,Stuck
+A*,Node_73,Node_37,false,48827,513.00,Stuck
+A*,Node_91,Node_103,false,48826,480.00,Stuck
+A*,Node_63,ISBT Hub,false,48825,0.00,Stuck
+A*,Unknown,Node_114,false,176,2605.00,Arrived
+A*,Pacific Mall,Node_59,false,48818,0.00,Stuck
+A*,Node_82,Node_138,false,48809,1250.00,Stuck
+A*,Node_9,Node_69,false,48799,0.00,Stuck
+A*,Node_93,Node_57,false,48798,864.00,Stuck
+A*,Node_139,Node_62,false,48795,2821.00,Stuck
+A*,Node_49,Node_127,false,48794,0.00,Stuck
+A*,Unknown,Pacific Mall,true,101,2945.00,Arrived
+A*,Node_41,Node_16,false,48784,1107.00,Stuck
+A*,Node_140,Node_128,false,48778,1126.00,Stuck
+A*,Node_98,Node_134,false,48777,989.00,Stuck
+A*,Node_130,Node_142,false,48768,0.00,Stuck
+A*,Node_19,Node_130,false,48744,0.00,Stuck
+A*,Node_91,Node_43,false,48742,0.00,Stuck
+A*,Node_30,Node_18,false,48739,0.00,Stuck
+A*,Node_69,Node_43,false,48734,1090.00,Stuck
+A*,Node_65,Node_112,false,48728,960.00,Stuck
+A*,Unknown,Node_7,false,233,3449.00,Arrived
+A*,Node_15,Node_3,false,48720,1158.00,Stuck
+A*,Node_57,Node_88,false,48713,942.00,Stuck
+A*,Pacific Mall,ISBT Hub,false,48711,0.00,Stuck
+A*,Rajpur Road,Node_46,false,48711,0.00,Stuck
+A*,Node_138,Node_36,false,48707,0.00,Stuck
+A*,Node_55,Node_139,false,48705,0.00,Stuck
+A*,Node_77,ISBT Hub,false,48703,0.00,Stuck
+A*,Node_126,Node_22,false,48700,0.00,Stuck
+A*,Node_106,Node_134,false,48685,0.00,Stuck
+A*,Unknown,Node_41,true,164,4720.00,Arrived
+A*,Node_66,Node_124,false,48675,875.00,Stuck
+A*,Node_99,Graphic Era Univ,false,48673,327.00,Stuck
+A*,Node_29,Node_39,false,48672,2649.00,Stuck
+A*,Node_18,Node_42,false,48672,459.00,Stuck
+A*,Prem Nagar,Node_11,false,48671,327.00,Stuck
+A*,Node_106,Node_13,false,48669,0.00,Stuck
+A*,Node_12,Node_116,false,48664,0.00,Stuck
+A*,Node_29,Node_43,false,48654,0.00,Stuck
+A*,Node_29,Node_118,false,48648,408.00,Stuck
+A*,Node_139,Node_98,false,48632,381.00,Stuck
+A*,Node_76,Node_60,false,48630,853.00,Stuck
+A*,Node_132,Node_118,false,48624,0.00,Stuck
+A*,Node_45,Node_116,false,48624,413.00,Stuck
+A*,Node_120,Node_23,false,48622,0.00,Stuck
+A*,Node_99,Node_26,false,48621,1085.00,Stuck
+A*,Prem Nagar,Node_112,false,48617,1727.00,Stuck
+A*,Unknown,Node_101,true,145,4251.00,Arrived
+A*,Node_18,Node_126,false,48610,0.00,Stuck
+A*,Node_75,Node_4,false,48608,0.00,Stuck
+A*,Node_15,Node_80,false,48606,481.00,Stuck
+A*,Node_141,Node_11,false,48604,0.00,Stuck
+A*,Node_21,Node_129,false,48596,0.00,Stuck
+A*,Unknown,Rajpur Road,true,136,3947.00,Arrived
+A*,Node_61,Node_122,false,48584,0.00,Stuck
+A*,Node_126,Paltan Bazaar,false,48583,572.00,Stuck
+A*,Node_30,Node_76,false,48581,473.00,Stuck
+A*,Node_9,Node_115,false,48580,0.00,Stuck
+A*,Node_17,Node_2,false,48575,459.00,Stuck
+A*,Node_5,Node_19,false,48564,0.00,Stuck
+A*,Node_99,Node_85,false,48559,327.00,Stuck
+A*,Node_9,Node_125,false,48556,521.00,Stuck
+A*,Node_37,Node_97,false,48550,0.00,Stuck
+A*,Paltan Bazaar,Node_139,false,48535,0.00,Stuck
+A*,Node_10,Node_48,false,48533,0.00,Stuck
+A*,Node_81,Node_25,false,48531,534.00,Stuck
+A*,Node_88,Node_62,false,48522,0.00,Stuck
+A*,Node_5,Node_95,false,48519,2061.00,Stuck
+A*,Node_59,Node_48,false,48516,560.00,Stuck
+A*,Node_2,Node_38,false,48516,0.00,Stuck
+A*,Node_106,Node_42,false,48504,971.00,Stuck
+A*,Node_63,Node_134,false,48499,733.00,Stuck
+A*,Node_118,Node_137,false,48495,1202.00,Stuck
+A*,Node_139,Node_62,false,48487,2821.00,Stuck
+A*,Node_53,Node_87,false,48483,522.00,Stuck
+A*,Node_94,Node_108,false,48479,0.00,Stuck
+A*,Node_135,Node_58,false,48478,566.00,Stuck
+A*,Node_97,Node_60,false,48468,0.00,Stuck
+A*,Node_61,Node_33,false,48460,0.00,Stuck
+A*,Node_66,Node_7,false,48459,423.00,Stuck
+A*,Node_29,Node_39,false,48453,2016.00,Stuck
+A*,Node_112,Node_64,false,48452,340.00,Stuck
+A*,Node_115,Node_47,false,48450,0.00,Stuck
+A*,Node_53,Node_39,false,48449,0.00,Stuck
+A*,Prem Nagar,Node_91,false,48447,1727.00,Stuck
+A*,Unknown,Node_48,false,287,4237.00,Arrived
+A*,Node_126,Paltan Bazaar,false,48433,572.00,Stuck
+A*,Node_105,Node_1,false,48428,0.00,Stuck
+A*,Node_94,Node_106,false,48426,749.00,Stuck
+A*,Unknown,Node_69,false,226,3350.00,Arrived
+A*,Node_142,Node_118,false,48423,0.00,Stuck
+A*,Node_72,Node_96,false,48422,3323.00,Stuck
+A*,Node_121,Node_109,false,48421,0.00,Stuck
+A*,Node_90,Node_78,false,48406,2000.00,Stuck
+A*,Node_9,Node_92,false,48403,452.00,Stuck
+A*,Node_124,Node_111,false,48399,374.00,Stuck
+A*,Node_29,Node_85,false,48389,1238.00,Stuck
+A*,Node_104,Node_53,false,48385,0.00,Stuck
+A*,Node_33,Node_94,false,48374,390.00,Stuck
+A*,Node_9,Node_119,false,48367,0.00,Stuck
+A*,Node_124,Node_70,false,48365,459.00,Stuck
+A*,Node_29,Node_124,false,48357,0.00,Stuck
+A*,Node_126,Node_62,false,48353,0.00,Stuck
+A*,Node_132,Node_112,false,48351,0.00,Stuck
+A*,Node_63,Node_51,false,48346,571.00,Stuck
+A*,Node_88,Node_50,false,48343,2889.00,Stuck
+A*,Node_63,Node_86,false,48341,733.00,Stuck
+A*,Node_39,Node_63,false,48339,2582.00,Stuck
+A*,Pacific Mall,Node_99,false,48329,327.00,Stuck
+A*,Node_6,Node_80,false,48325,0.00,Stuck
+A*,Node_18,Node_58,false,48325,0.00,Stuck
+A*,Node_120,Node_132,false,48317,5248.00,Stuck
+A*,Node_45,Node_94,false,48310,413.00,Stuck
+A*,Node_18,Pacific Mall,false,48309,0.00,Stuck
+A*,Node_129,Node_28,false,48303,0.00,Stuck
+A*,Node_66,Node_136,false,48301,0.00,Stuck
+A*,Node_94,Clock Tower,false,48295,2532.00,Stuck
+A*,Node_118,Node_58,false,48294,0.00,Stuck
+A*,Node_133,Node_88,false,48293,0.00,Stuck
+A*,Unknown,Node_133,false,353,5225.00,Arrived
+A*,Node_15,Node_135,false,48290,0.00,Stuck
+A*,Node_133,Node_2,false,48280,0.00,Stuck
+A*,Unknown,Node_4,true,179,5180.00,Arrived
+A*,Node_93,Node_34,false,48267,864.00,Stuck
+A*,Unknown,Node_62,false,39,571.00,Arrived
+A*,Unknown,Node_88,false,195,2889.00,Arrived
+A*,Node_47,Node_125,false,48252,0.00,Stuck
+A*,Node_16,Node_29,false,48248,1071.00,Stuck
+A*,Node_124,Node_52,false,48248,0.00,Stuck
+A*,Node_93,Node_45,false,48242,0.00,Stuck
+A*,Node_9,Node_95,false,48241,1659.00,Stuck
+A*,Node_139,Node_89,false,48240,381.00,Stuck
+A*,Node_18,Node_55,false,48238,0.00,Stuck
+A*,Node_124,Node_65,false,48232,0.00,Stuck
+A*,Unknown,Rajpur Road,false,36,533.00,Arrived
+A*,Node_103,Node_107,false,48218,0.00,Stuck
+A*,Node_34,Node_96,false,48201,708.00,Stuck
+A*,Node_21,Node_8,false,48201,0.00,Stuck
+A*,Node_22,Node_111,false,48197,0.00,Stuck
+A*,Node_121,Node_73,false,48189,0.00,Stuck
+A*,Node_76,Node_103,false,48177,0.00,Stuck
+A*,Node_122,Node_76,false,48173,0.00,Stuck
+A*,Node_129,Node_18,false,48170,0.00,Stuck
+A*,Node_69,Node_82,false,48165,1369.00,Stuck
+A*,Node_60,Node_110,false,48163,0.00,Stuck
+A*,Node_11,Node_50,false,48159,0.00,Stuck
+A*,Node_49,Node_109,false,48158,506.00,Stuck
+A*,Node_65,Graphic Era Univ,false,48157,0.00,Stuck
+A*,Node_74,Node_86,false,48150,513.00,Stuck
+A*,Node_96,Node_58,false,48150,0.00,Stuck
+A*,Node_139,Node_89,false,48147,0.00,Stuck
+A*,Node_93,Node_3,false,48137,0.00,Stuck
+A*,Node_54,Node_42,false,48131,938.00,Stuck
+A*,Node_142,Node_120,false,48129,482.00,Stuck
+A*,Node_4,Node_87,false,48125,2255.00,Stuck
+A*,Node_78,Node_30,false,48103,0.00,Stuck
+A*,Node_93,Node_59,false,48095,1635.00,Stuck
+A*,Node_135,Node_116,false,48084,1303.00,Stuck
+A*,Node_103,Node_121,false,48081,0.00,Stuck
+A*,Node_17,Prem Nagar,false,48079,0.00,Stuck
+A*,Unknown,Node_124,false,294,4356.00,Arrived
+A*,Node_116,Node_139,false,48078,0.00,Stuck
+A*,Node_53,Node_117,false,48065,0.00,Stuck
+A*,Unknown,Node_114,true,107,3111.00,Arrived
+A*,Unknown,Graphic Era Univ,true,138,3983.00,Arrived
+A*,Node_33,Node_101,false,48045,0.00,Stuck
+A*,Node_107,Node_22,false,48044,0.00,Stuck
+A*,Node_70,Node_24,false,48043,0.00,Stuck
+A*,Node_32,Node_20,false,48042,2034.00,Stuck
+A*,Node_117,Node_31,false,48039,0.00,Stuck
+A*,Clement Town,Node_108,false,48038,0.00,Stuck
+A*,Node_3,Node_13,false,48012,3224.00,Stuck
+A*,Node_39,Node_1,false,48006,0.00,Stuck
+Dijkstra,Node_128,Node_9,false,49999,0.00,Stuck
+Dijkstra,Node_117,Node_40,false,49984,0.00,Stuck
+Dijkstra,Node_7,Node_54,false,49984,509.00,Stuck
+Dijkstra,Node_20,Node_8,false,49982,0.00,Stuck
+Dijkstra,Node_115,Node_40,false,49981,791.00,Stuck
+Dijkstra,Node_46,Node_13,false,49976,555.00,Stuck
+Dijkstra,Node_51,Node_86,false,49974,2575.00,Stuck
+Dijkstra,Node_66,Node_78,false,49972,0.00,Stuck
+Dijkstra,Prem Nagar,Node_21,false,49968,0.00,Stuck
+Dijkstra,Node_52,Node_66,false,49959,691.00,Stuck
+Dijkstra,Node_45,Node_82,false,49950,413.00,Stuck
+Dijkstra,Node_118,Node_90,false,49939,0.00,Stuck
+Dijkstra,Node_76,Node_140,false,49930,0.00,Stuck
+Dijkstra,Node_132,Node_17,false,49925,0.00,Stuck
+Dijkstra,Node_24,Node_105,false,49924,0.00,Stuck
+Dijkstra,Node_42,Node_32,false,49911,0.00,Stuck
+Dijkstra,Node_34,Node_96,false,49899,318.00,Stuck
+Dijkstra,Node_128,Node_104,false,49893,793.00,Stuck
+Dijkstra,Node_115,Node_94,false,49891,479.00,Stuck
+Dijkstra,Node_139,Node_86,false,49891,2821.00,Stuck
+Dijkstra,Node_66,Node_16,false,49888,1369.00,Stuck
+Dijkstra,Pacific Mall,Node_125,false,49881,327.00,Stuck
+Dijkstra,Node_16,Paltan Bazaar,false,49880,0.00,Stuck
+Dijkstra,Node_49,Node_102,false,49879,0.00,Stuck
+Dijkstra,Node_126,Node_66,false,49873,0.00,Stuck
+Dijkstra,Node_77,Node_46,false,49868,0.00,Stuck
+Dijkstra,Unknown,Node_135,true,207,6010.00,Arrived
+Dijkstra,Node_53,Node_14,false,49850,1460.00,Stuck
+Dijkstra,Prem Nagar,Node_118,false,49848,327.00,Stuck
+Dijkstra,Node_62,Node_135,false,49833,0.00,Stuck
+Dijkstra,Node_74,Node_97,false,49820,3439.00,Stuck
+Dijkstra,Node_69,Node_118,false,49818,1369.00,Stuck
+Dijkstra,Node_132,Node_62,false,49816,0.00,Stuck
+Dijkstra,Node_75,Node_40,false,49815,451.00,Stuck
+Dijkstra,Graphic Era Univ,Node_101,false,49814,434.00,Stuck
+Dijkstra,Node_82,Node_88,false,49814,713.00,Stuck
+Dijkstra,Node_115,Node_4,false,49802,791.00,Stuck
+Dijkstra,Node_93,Node_48,false,49784,864.00,Stuck
+Dijkstra,Node_74,Node_110,false,49780,451.00,Stuck
+Dijkstra,Node_81,Node_16,false,49765,534.00,Stuck
+Dijkstra,Unknown,Node_10,false,35,521.00,Arrived
+Dijkstra,Node_80,Node_144,false,49752,0.00,Stuck
+Dijkstra,Node_99,Node_86,false,49750,327.00,Stuck
+Dijkstra,Node_115,Node_36,false,49746,479.00,Stuck
+Dijkstra,Node_21,Node_11,false,49746,602.00,Stuck
+Dijkstra,Node_47,Node_136,false,49730,0.00,Stuck
+Dijkstra,Node_49,Node_136,false,49723,0.00,Stuck
+Dijkstra,Node_29,Node_98,false,49720,2649.00,Stuck
+Dijkstra,Node_141,Node_5,false,49714,0.00,Stuck
+Dijkstra,Node_105,Node_43,false,49705,0.00,Stuck
+Dijkstra,Node_30,Prem Nagar,false,49701,2461.00,Stuck
+Dijkstra,Node_117,Node_31,false,49683,715.00,Stuck
+Dijkstra,Unknown,Node_30,true,15,434.00,Arrived
+Dijkstra,Node_49,Node_110,false,49677,0.00,Stuck
+Dijkstra,Pacific Mall,Node_99,false,49668,0.00,Stuck
+Dijkstra,Prem Nagar,Node_72,false,49665,1727.00,Stuck
+Dijkstra,Node_25,Node_122,false,49662,0.00,Stuck
+Dijkstra,Node_114,Node_32,false,49648,0.00,Stuck
+Dijkstra,Node_87,Node_126,false,49644,0.00,Stuck
+Dijkstra,Unknown,Node_41,false,50,740.00,Arrived
+Dijkstra,Node_135,Node_106,false,49642,1303.00,Stuck
+Dijkstra,Clock Tower,Node_82,false,49641,0.00,Stuck
+Dijkstra,Node_135,Node_57,false,49634,0.00,Stuck
+Dijkstra,Unknown,Node_110,false,126,1858.00,Arrived
+Dijkstra,Node_66,Node_37,false,49632,423.00,Stuck
+Dijkstra,Clock Tower,Node_29,false,49629,0.00,Stuck
+Dijkstra,Graphic Era Univ,Node_65,false,49627,434.00,Stuck
+Dijkstra,Node_18,Node_67,false,49619,0.00,Stuck
+Dijkstra,Node_3,Node_121,false,49619,0.00,Stuck
+Dijkstra,Clock Tower,Node_47,false,49615,0.00,Stuck
+Dijkstra,Node_50,Node_4,false,49614,506.00,Stuck
+Dijkstra,Unknown,Node_132,false,96,1414.00,Arrived
+Dijkstra,Node_86,Node_32,false,49613,521.00,Stuck
+Dijkstra,Pacific Mall,Node_104,false,49601,327.00,Stuck
+Dijkstra,Unknown,Node_34,true,269,7849.00,Arrived
+Dijkstra,Node_89,Node_53,false,49600,0.00,Stuck
+Dijkstra,Graphic Era Univ,Node_54,false,49593,0.00,Stuck
+Dijkstra,Node_65,Node_85,false,49585,2526.00,Stuck
+Dijkstra,Node_30,Node_66,false,49580,0.00,Stuck
+Dijkstra,Node_106,Node_135,false,49569,0.00,Stuck
+Dijkstra,Node_126,Node_24,false,49568,0.00,Stuck
+Dijkstra,Node_12,Node_137,false,49567,0.00,Stuck
+Dijkstra,Node_87,Node_29,false,49558,0.00,Stuck
+Dijkstra,Node_69,Node_142,false,49549,946.00,Stuck
+Dijkstra,Node_33,Node_104,false,49547,0.00,Stuck
+Dijkstra,Node_82,Node_128,false,49546,713.00,Stuck
+Dijkstra,Node_52,Node_144,false,49535,0.00,Stuck
+Dijkstra,Node_3,Node_13,false,49534,2772.00,Stuck
+Dijkstra,Unknown,Node_144,false,442,6539.00,Arrived
+Dijkstra,Node_103,Node_30,false,49527,0.00,Stuck
+Dijkstra,Node_76,Node_118,false,49526,0.00,Stuck
+Dijkstra,Node_88,Node_52,false,49514,889.00,Stuck
+Dijkstra,Node_81,ISBT Hub,false,49513,0.00,Stuck
+Dijkstra,Paltan Bazaar,Node_8,false,49509,0.00,Stuck
+Dijkstra,Node_70,Node_59,false,49505,0.00,Stuck
+Dijkstra,Node_20,Node_111,false,49488,0.00,Stuck
+Dijkstra,Node_124,Node_4,false,49483,0.00,Stuck
+Dijkstra,Unknown,Node_25,true,285,8253.00,Arrived
+Dijkstra,Node_66,Node_7,false,49473,1248.00,Stuck
+Dijkstra,Node_19,Node_82,false,49471,0.00,Stuck
+Dijkstra,Node_86,Node_17,false,49468,0.00,Stuck
+Dijkstra,Node_75,Node_43,false,49466,451.00,Stuck
+Dijkstra,Node_37,Node_99,false,49458,0.00,Stuck
+Dijkstra,Node_30,Node_64,false,49458,1251.00,Stuck
+Dijkstra,Node_117,Node_72,false,49456,715.00,Stuck
+Dijkstra,Node_81,Node_106,false,49454,0.00,Stuck
+Dijkstra,Unknown,Node_10,false,194,2870.00,Arrived
+Dijkstra,Prem Nagar,Node_137,false,49446,0.00,Stuck
+Dijkstra,Unknown,Node_2,true,229,6604.00,Arrived
+Dijkstra,Node_5,Node_66,false,49431,358.00,Stuck
+Dijkstra,Node_135,Node_17,false,49430,566.00,Stuck
+Dijkstra,Node_118,Node_80,false,49429,0.00,Stuck
+Dijkstra,Node_138,Node_72,false,49423,0.00,Stuck
+Dijkstra,Node_12,Node_72,false,49420,0.00,Stuck
+Dijkstra,Node_38,Node_73,false,49413,0.00,Stuck
+Dijkstra,Node_57,Node_141,false,49395,0.00,Stuck
+Dijkstra,Node_23,Node_126,false,49390,0.00,Stuck
+Dijkstra,Unknown,Node_142,true,136,3932.00,Arrived
+Dijkstra,Node_113,Node_29,false,49381,442.00,Stuck
+Dijkstra,Node_15,Node_91,false,49367,0.00,Stuck
+Dijkstra,Node_57,Node_126,false,49364,0.00,Stuck
+Dijkstra,Node_17,Node_86,false,49362,459.00,Stuck
+Dijkstra,Unknown,Node_3,false,59,875.00,Arrived
+Dijkstra,Node_48,Node_83,false,49346,0.00,Stuck
+Dijkstra,Node_65,Node_113,false,49343,0.00,Stuck
+Dijkstra,Node_49,Node_140,false,49340,0.00,Stuck
+Dijkstra,Node_137,Node_45,false,49339,0.00,Stuck
+Dijkstra,Node_57,Node_75,false,49336,1334.00,Stuck
+Dijkstra,Unknown,Node_7,false,233,3449.00,Arrived
+Dijkstra,Node_88,Node_49,false,49326,357.00,Stuck
+Dijkstra,Node_16,Node_122,false,49317,0.00,Stuck
+Dijkstra,Unknown,Node_83,true,118,3420.00,Arrived
+Dijkstra,Node_94,Node_142,false,49316,749.00,Stuck
+Dijkstra,Node_69,Node_47,false,49310,3350.00,Stuck
+Dijkstra,Node_83,Node_6,false,49305,0.00,Stuck
+Dijkstra,Node_115,Node_10,false,49298,1793.00,Stuck
+Dijkstra,Node_25,Node_37,false,49297,0.00,Stuck
+Dijkstra,Node_84,Node_107,false,49293,0.00,Stuck
+Dijkstra,Unknown,Node_59,false,27,392.00,Arrived
+Dijkstra,Node_29,Node_138,false,49279,0.00,Stuck
+Dijkstra,Node_54,Node_42,false,49267,633.00,Stuck
+Dijkstra,Node_15,Node_120,false,49264,481.00,Stuck
+Dijkstra,Node_33,Node_113,false,49264,633.00,Stuck
+Dijkstra,Unknown,Node_25,false,259,3830.00,Arrived
+Dijkstra,Node_29,Node_63,false,49261,2334.00,Stuck
+Dijkstra,Node_9,Node_104,false,49257,452.00,Stuck
+Dijkstra,Node_5,Node_80,false,49252,875.00,Stuck
+Dijkstra,Node_105,Node_118,false,49248,0.00,Stuck
+Dijkstra,Node_137,Node_115,false,49234,0.00,Stuck
+Dijkstra,Node_98,Node_41,false,49230,0.00,Stuck
+Dijkstra,Node_38,Node_135,false,49223,0.00,Stuck
+Dijkstra,Node_66,Node_54,false,49216,0.00,Stuck
+Dijkstra,Node_2,Node_135,false,49213,430.00,Stuck
+Dijkstra,Node_69,Node_12,false,49209,0.00,Stuck
+Dijkstra,Node_33,Node_7,false,49205,318.00,Stuck
+Dijkstra,Node_33,Node_113,false,49204,318.00,Stuck
+Dijkstra,Node_135,Node_17,false,49195,566.00,Stuck
+Dijkstra,Node_17,Node_41,false,49189,459.00,Stuck
+Dijkstra,Clock Tower,Node_136,false,49187,782.00,Stuck
+Dijkstra,Node_143,Node_130,false,49179,651.00,Stuck
+Dijkstra,Node_23,Node_96,false,49178,0.00,Stuck
+Dijkstra,Node_135,Node_54,false,49177,566.00,Stuck
+Dijkstra,Node_19,Node_32,false,49175,0.00,Stuck
+Dijkstra,Node_86,Node_65,false,49169,521.00,Stuck
+Dijkstra,Node_76,Node_42,false,49167,0.00,Stuck
+Dijkstra,Node_96,Node_11,false,49163,0.00,Stuck
+Dijkstra,Rajpur Road,Node_134,false,49162,533.00,Stuck
+Dijkstra,Node_15,Node_113,false,49161,481.00,Stuck
+Dijkstra,Unknown,Node_105,true,109,3199.00,Arrived
+Dijkstra,Clement Town,Node_23,false,49149,4463.00,Stuck
+Dijkstra,Node_140,Node_117,false,49145,2027.00,Stuck
+Dijkstra,Node_124,Node_91,false,49144,0.00,Stuck
+Dijkstra,Node_21,Node_127,false,49143,0.00,Stuck
+Dijkstra,Node_115,Node_8,false,49124,0.00,Stuck
+Dijkstra,Node_103,Node_126,false,49113,0.00,Stuck
+Dijkstra,Node_110,Node_121,false,49092,544.00,Stuck
+Dijkstra,Node_83,Node_9,false,49087,0.00,Stuck
+Dijkstra,Unknown,Node_72,true,143,4121.00,Arrived
+Dijkstra,Node_142,Node_120,false,49084,1126.00,Stuck
+Dijkstra,Node_74,Node_137,false,49077,513.00,Stuck
+Dijkstra,Node_41,Node_120,false,49054,0.00,Stuck
+Dijkstra,Node_115,Node_103,false,49052,2337.00,Stuck
+Dijkstra,Prem Nagar,Node_129,false,49046,989.00,Stuck
+Dijkstra,Node_101,Node_110,false,49043,503.00,Stuck
+Dijkstra,Node_63,Node_75,false,49038,733.00,Stuck
+Dijkstra,Clock Tower,Node_82,false,49018,0.00,Stuck
+Dijkstra,Node_5,Node_103,false,49018,358.00,Stuck
+Dijkstra,Node_5,Node_33,false,49013,0.00,Stuck
+Dijkstra,Rajpur Road,Node_130,false,49011,547.00,Stuck
+Dijkstra,Node_66,Node_56,false,49007,0.00,Stuck
+Dijkstra,Node_39,Node_25,false,49003,1847.00,Stuck
+Dijkstra,Unknown,Node_110,false,259,3843.00,Arrived
+Dijkstra,Node_60,Node_112,false,48994,0.00,Stuck
+Dijkstra,Node_6,Node_129,false,48994,0.00,Stuck
+Dijkstra,Node_3,Node_13,false,48994,1565.00,Stuck
+Dijkstra,Node_7,Node_67,false,48991,0.00,Stuck
+Dijkstra,Node_33,Node_124,false,48989,0.00,Stuck
+Dijkstra,Unknown,Node_136,true,185,5417.00,Arrived
+Dijkstra,Node_16,Node_60,false,48979,0.00,Stuck
+Dijkstra,Node_9,Node_74,false,48979,521.00,Stuck
+Dijkstra,Node_126,Node_50,false,48976,0.00,Stuck
+Dijkstra,Node_56,Node_80,false,48967,0.00,Stuck
+Dijkstra,Node_99,Node_15,false,48950,1085.00,Stuck
+Dijkstra,Node_106,Node_130,false,48941,0.00,Stuck
+Dijkstra,Node_124,Node_53,false,48940,924.00,Stuck
+Dijkstra,Node_24,Node_101,false,48940,0.00,Stuck
+Dijkstra,Node_76,Node_60,false,48939,1366.00,Stuck
+Dijkstra,Node_21,Node_7,false,48934,1822.00,Stuck
+Dijkstra,Node_102,Node_51,false,48932,1331.00,Stuck
+Dijkstra,Node_88,Node_38,false,48931,2140.00,Stuck
+Dijkstra,Node_113,Node_65,false,48923,442.00,Stuck
+Dijkstra,Pacific Mall,Node_83,false,48921,4440.00,Stuck
+Dijkstra,Node_139,Node_52,false,48907,381.00,Stuck
+Dijkstra,Node_124,Node_63,false,48905,2992.00,Stuck
+Dijkstra,Node_141,Pacific Mall,false,48900,0.00,Stuck
+Dijkstra,Node_116,Node_125,false,48891,715.00,Stuck
+Dijkstra,Node_139,Node_22,false,48889,0.00,Stuck
+Dijkstra,Node_46,Node_117,false,48884,0.00,Stuck
+Dijkstra,Node_33,Node_111,false,48882,633.00,Stuck
+Dijkstra,Unknown,Node_51,false,96,1420.00,Arrived
+Dijkstra,Node_122,Node_109,false,48870,465.00,Stuck
+Dijkstra,Node_106,Node_74,false,48869,971.00,Stuck
+Dijkstra,Unknown,Node_138,true,153,4434.00,Arrived
+Dijkstra,Node_45,Node_114,false,48847,0.00,Stuck
+Dijkstra,Node_41,Node_96,false,48847,740.00,Stuck
+Dijkstra,Node_26,Node_50,false,48841,2059.00,Stuck
+Dijkstra,Node_135,Node_70,false,48836,1303.00,Stuck
+Dijkstra,Node_73,Node_37,false,48827,513.00,Stuck
+Dijkstra,Node_91,Node_103,false,48826,480.00,Stuck
+Dijkstra,Node_63,ISBT Hub,false,48825,0.00,Stuck
+Dijkstra,Unknown,Node_114,false,176,2605.00,Arrived
+Dijkstra,Pacific Mall,Node_59,false,48818,0.00,Stuck
+Dijkstra,Node_82,Node_138,false,48809,1250.00,Stuck
+Dijkstra,Node_9,Node_69,false,48799,0.00,Stuck
+Dijkstra,Node_93,Node_57,false,48798,864.00,Stuck
+Dijkstra,Node_139,Node_62,false,48795,2821.00,Stuck
+Dijkstra,Node_49,Node_127,false,48794,0.00,Stuck
+Dijkstra,Unknown,Pacific Mall,true,101,2945.00,Arrived
+Dijkstra,Node_41,Node_16,false,48784,1107.00,Stuck
+Dijkstra,Node_140,Node_128,false,48778,1126.00,Stuck
+Dijkstra,Node_98,Node_134,false,48777,989.00,Stuck
+Dijkstra,Node_130,Node_142,false,48768,0.00,Stuck
+Dijkstra,Node_19,Node_130,false,48744,0.00,Stuck
+Dijkstra,Node_91,Node_43,false,48742,0.00,Stuck
+Dijkstra,Node_30,Node_18,false,48739,0.00,Stuck
+Dijkstra,Node_69,Node_43,false,48734,1090.00,Stuck
+Dijkstra,Node_65,Node_112,false,48728,960.00,Stuck
+Dijkstra,Unknown,Node_7,false,233,3449.00,Arrived
+Dijkstra,Node_15,Node_3,false,48720,1158.00,Stuck
+Dijkstra,Node_57,Node_88,false,48713,942.00,Stuck
+Dijkstra,Pacific Mall,ISBT Hub,false,48711,0.00,Stuck
+Dijkstra,Rajpur Road,Node_46,false,48711,0.00,Stuck
+Dijkstra,Node_138,Node_36,false,48707,0.00,Stuck
+Dijkstra,Node_55,Node_139,false,48705,0.00,Stuck
+Dijkstra,Node_77,ISBT Hub,false,48703,0.00,Stuck
+Dijkstra,Node_126,Node_22,false,48700,0.00,Stuck
+Dijkstra,Node_106,Node_134,false,48685,0.00,Stuck
+Dijkstra,Unknown,Node_41,true,164,4720.00,Arrived
+Dijkstra,Node_66,Node_124,false,48675,875.00,Stuck
+Dijkstra,Node_99,Graphic Era Univ,false,48673,327.00,Stuck
+Dijkstra,Node_29,Node_39,false,48672,2649.00,Stuck
+Dijkstra,Node_18,Node_42,false,48672,459.00,Stuck
+Dijkstra,Prem Nagar,Node_11,false,48671,327.00,Stuck
+Dijkstra,Node_106,Node_13,false,48669,0.00,Stuck
+Dijkstra,Node_12,Node_116,false,48664,0.00,Stuck
+Dijkstra,Node_29,Node_43,false,48654,0.00,Stuck
+Dijkstra,Node_29,Node_118,false,48648,408.00,Stuck
+Dijkstra,Node_139,Node_98,false,48632,381.00,Stuck
+Dijkstra,Node_76,Node_60,false,48630,853.00,Stuck
+Dijkstra,Node_132,Node_118,false,48624,0.00,Stuck
+Dijkstra,Node_45,Node_116,false,48624,413.00,Stuck
+Dijkstra,Node_120,Node_23,false,48622,0.00,Stuck
+Dijkstra,Node_99,Node_26,false,48621,1085.00,Stuck
+Dijkstra,Prem Nagar,Node_112,false,48617,1727.00,Stuck
+Dijkstra,Unknown,Node_101,true,145,4251.00,Arrived
+Dijkstra,Node_18,Node_126,false,48610,0.00,Stuck
+Dijkstra,Node_75,Node_4,false,48608,0.00,Stuck
+Dijkstra,Node_15,Node_80,false,48606,481.00,Stuck
+Dijkstra,Node_141,Node_11,false,48604,0.00,Stuck
+Dijkstra,Node_21,Node_129,false,48596,0.00,Stuck
+Dijkstra,Unknown,Rajpur Road,true,136,3947.00,Arrived
+Dijkstra,Node_61,Node_122,false,48584,0.00,Stuck
+Dijkstra,Node_126,Paltan Bazaar,false,48583,572.00,Stuck
+Dijkstra,Node_30,Node_76,false,48581,473.00,Stuck
+Dijkstra,Node_9,Node_115,false,48580,0.00,Stuck
+Dijkstra,Node_17,Node_2,false,48575,459.00,Stuck
+Dijkstra,Node_5,Node_19,false,48564,0.00,Stuck
+Dijkstra,Node_99,Node_85,false,48559,327.00,Stuck
+Dijkstra,Node_9,Node_125,false,48556,521.00,Stuck
+Dijkstra,Node_37,Node_97,false,48550,0.00,Stuck
+Dijkstra,Paltan Bazaar,Node_139,false,48535,0.00,Stuck
+Dijkstra,Node_10,Node_48,false,48533,0.00,Stuck
+Dijkstra,Node_81,Node_25,false,48531,534.00,Stuck
+Dijkstra,Node_88,Node_62,false,48522,0.00,Stuck
+Dijkstra,Node_5,Node_95,false,48519,2061.00,Stuck
+Dijkstra,Node_59,Node_48,false,48516,560.00,Stuck
+Dijkstra,Node_2,Node_38,false,48516,0.00,Stuck
+Dijkstra,Node_106,Node_42,false,48504,971.00,Stuck
+Dijkstra,Node_63,Node_134,false,48499,733.00,Stuck
+Dijkstra,Node_118,Node_137,false,48495,1202.00,Stuck
+Dijkstra,Node_139,Node_62,false,48487,2821.00,Stuck
+Dijkstra,Node_53,Node_87,false,48483,522.00,Stuck
+Dijkstra,Node_94,Node_108,false,48479,0.00,Stuck
+Dijkstra,Node_135,Node_58,false,48478,566.00,Stuck
+Dijkstra,Node_97,Node_60,false,48468,0.00,Stuck
+Dijkstra,Node_61,Node_33,false,48460,0.00,Stuck
+Dijkstra,Node_66,Node_7,false,48459,423.00,Stuck
+Dijkstra,Node_29,Node_39,false,48453,2016.00,Stuck
+Dijkstra,Node_112,Node_64,false,48452,340.00,Stuck
+Dijkstra,Node_115,Node_47,false,48450,0.00,Stuck
+Dijkstra,Node_53,Node_39,false,48449,0.00,Stuck
+Dijkstra,Prem Nagar,Node_91,false,48447,1727.00,Stuck
+Dijkstra,Unknown,Node_48,false,287,4237.00,Arrived
+Dijkstra,Node_126,Paltan Bazaar,false,48433,572.00,Stuck
+Dijkstra,Node_105,Node_1,false,48428,0.00,Stuck
+Dijkstra,Node_94,Node_106,false,48426,749.00,Stuck
+Dijkstra,Unknown,Node_69,false,226,3350.00,Arrived
+Dijkstra,Node_142,Node_118,false,48423,0.00,Stuck
+Dijkstra,Node_72,Node_96,false,48422,3323.00,Stuck
+Dijkstra,Node_121,Node_109,false,48421,0.00,Stuck
+Dijkstra,Node_90,Node_78,false,48406,2000.00,Stuck
+Dijkstra,Node_9,Node_92,false,48403,452.00,Stuck
+Dijkstra,Node_124,Node_111,false,48399,374.00,Stuck
+Dijkstra,Node_29,Node_85,false,48389,1238.00,Stuck
+Dijkstra,Node_104,Node_53,false,48385,0.00,Stuck
+Dijkstra,Node_33,Node_94,false,48374,390.00,Stuck
+Dijkstra,Node_9,Node_119,false,48367,0.00,Stuck
+Dijkstra,Node_124,Node_70,false,48365,459.00,Stuck
+Dijkstra,Node_29,Node_124,false,48357,0.00,Stuck
+Dijkstra,Node_126,Node_62,false,48353,0.00,Stuck
+Dijkstra,Node_132,Node_112,false,48351,0.00,Stuck
+Dijkstra,Node_63,Node_51,false,48346,571.00,Stuck
+Dijkstra,Node_88,Node_50,false,48343,2889.00,Stuck
+Dijkstra,Node_63,Node_86,false,48341,733.00,Stuck
+Dijkstra,Node_39,Node_63,false,48339,2582.00,Stuck
+Dijkstra,Pacific Mall,Node_99,false,48329,327.00,Stuck
+Dijkstra,Node_6,Node_80,false,48325,0.00,Stuck
+Dijkstra,Node_18,Node_58,false,48325,0.00,Stuck
+Dijkstra,Node_120,Node_132,false,48317,5248.00,Stuck
+Dijkstra,Node_45,Node_94,false,48310,413.00,Stuck
+Dijkstra,Node_18,Pacific Mall,false,48309,0.00,Stuck
+Dijkstra,Node_129,Node_28,false,48303,0.00,Stuck
+Dijkstra,Node_66,Node_136,false,48301,0.00,Stuck
+Dijkstra,Node_94,Clock Tower,false,48295,2532.00,Stuck
+Dijkstra,Node_118,Node_58,false,48294,0.00,Stuck
+Dijkstra,Node_133,Node_88,false,48293,0.00,Stuck
+Dijkstra,Unknown,Node_133,false,353,5225.00,Arrived
+Dijkstra,Node_15,Node_135,false,48290,0.00,Stuck
+Dijkstra,Node_133,Node_2,false,48280,0.00,Stuck
+Dijkstra,Unknown,Node_4,true,179,5180.00,Arrived
+Dijkstra,Node_93,Node_34,false,48267,864.00,Stuck
+Dijkstra,Unknown,Node_62,false,39,571.00,Arrived
+Dijkstra,Unknown,Node_88,false,195,2889.00,Arrived
+Dijkstra,Node_47,Node_125,false,48252,0.00,Stuck
+Dijkstra,Node_16,Node_29,false,48248,1071.00,Stuck
+Dijkstra,Node_124,Node_52,false,48248,0.00,Stuck
+Dijkstra,Node_93,Node_45,false,48242,0.00,Stuck
+Dijkstra,Node_9,Node_95,false,48241,1659.00,Stuck
+Dijkstra,Node_139,Node_89,false,48240,381.00,Stuck
+Dijkstra,Node_18,Node_55,false,48238,0.00,Stuck
+Dijkstra,Node_124,Node_65,false,48232,0.00,Stuck
+Dijkstra,Unknown,Rajpur Road,false,36,533.00,Arrived
+Dijkstra,Node_103,Node_107,false,48218,0.00,Stuck
+Dijkstra,Node_34,Node_96,false,48201,708.00,Stuck
+Dijkstra,Node_21,Node_8,false,48201,0.00,Stuck
+Dijkstra,Node_22,Node_111,false,48197,0.00,Stuck
+Dijkstra,Node_121,Node_73,false,48189,0.00,Stuck
+Dijkstra,Node_76,Node_103,false,48177,0.00,Stuck
+Dijkstra,Node_122,Node_76,false,48173,0.00,Stuck
+Dijkstra,Node_129,Node_18,false,48170,0.00,Stuck
+Dijkstra,Node_69,Node_82,false,48165,1369.00,Stuck
+Dijkstra,Node_60,Node_110,false,48163,0.00,Stuck
+Dijkstra,Node_11,Node_50,false,48159,0.00,Stuck
+Dijkstra,Node_49,Node_109,false,48158,506.00,Stuck
+Dijkstra,Node_65,Graphic Era Univ,false,48157,0.00,Stuck
+Dijkstra,Node_74,Node_86,false,48150,513.00,Stuck
+Dijkstra,Node_96,Node_58,false,48150,0.00,Stuck
+Dijkstra,Node_139,Node_89,false,48147,0.00,Stuck
+Dijkstra,Node_93,Node_3,false,48137,0.00,Stuck
+Dijkstra,Node_54,Node_42,false,48131,938.00,Stuck
+Dijkstra,Node_142,Node_120,false,48129,482.00,Stuck
+Dijkstra,Node_4,Node_87,false,48125,2255.00,Stuck
+Dijkstra,Node_78,Node_30,false,48103,0.00,Stuck
+Dijkstra,Node_93,Node_59,false,48095,1635.00,Stuck
+Dijkstra,Node_135,Node_116,false,48084,1303.00,Stuck
+Dijkstra,Node_103,Node_121,false,48081,0.00,Stuck
+Dijkstra,Node_17,Prem Nagar,false,48079,0.00,Stuck
+Dijkstra,Unknown,Node_124,false,294,4356.00,Arrived
+Dijkstra,Node_116,Node_139,false,48078,0.00,Stuck
+Dijkstra,Node_53,Node_117,false,48065,0.00,Stuck
+Dijkstra,Unknown,Node_114,true,107,3111.00,Arrived
+Dijkstra,Unknown,Graphic Era Univ,true,138,3983.00,Arrived
+Dijkstra,Node_33,Node_101,false,48045,0.00,Stuck
+Dijkstra,Node_107,Node_22,false,48044,0.00,Stuck
+Dijkstra,Node_70,Node_24,false,48043,0.00,Stuck
+Dijkstra,Node_32,Node_20,false,48042,2034.00,Stuck
+Dijkstra,Node_117,Node_31,false,48039,0.00,Stuck
+Dijkstra,Clement Town,Node_108,false,48038,0.00,Stuck
+Dijkstra,Node_3,Node_13,false,48012,3224.00,Stuck
+Dijkstra,Node_39,Node_1,false,48006,0.00,Stuck
+Greedy,Node_128,Node_9,false,49999,0.00,Stuck
+Greedy,Node_117,Node_40,false,49984,0.00,Stuck
+Greedy,Node_8,Node_54,false,49984,0.00,Stuck
+Greedy,Node_20,Node_8,false,49982,0.00,Stuck
+Greedy,Node_116,Node_40,false,49981,0.00,Stuck
+Greedy,Node_39,Node_13,false,49976,4211.00,Stuck
+Greedy,Node_52,Node_86,false,49974,1884.00,Stuck
+Greedy,Node_66,Node_78,false,49972,0.00,Stuck
+Greedy,Prem Nagar,Node_21,false,49968,0.00,Stuck
+Greedy,Node_54,Node_66,false,49959,1942.00,Stuck
+Greedy,Paltan Bazaar,Node_82,false,49950,0.00,Stuck
+Greedy,Node_116,Node_90,false,49939,1462.00,Stuck
+Greedy,Node_76,Node_140,false,49930,0.00,Stuck
+Greedy,Node_132,Node_17,false,49925,0.00,Stuck
+Greedy,Node_24,Node_105,false,49924,0.00,Stuck
+Greedy,Node_43,Node_32,false,49911,367.00,Stuck
+Greedy,Node_33,Node_96,false,49899,0.00,Stuck
+Greedy,Node_129,Node_104,false,49893,0.00,Stuck
+Greedy,Node_116,Node_94,false,49891,1270.00,Stuck
+Greedy,Node_138,Node_86,false,49891,3490.00,Stuck
+Greedy,Node_68,Node_16,false,49888,494.00,Stuck
+Greedy,Node_69,Node_125,false,49881,1417.00,Stuck
+Greedy,Node_19,Paltan Bazaar,false,49880,1900.00,Stuck
+Greedy,Node_51,Node_102,false,49879,1047.00,Stuck
+Greedy,Node_126,Node_66,false,49873,0.00,Stuck
+Greedy,Rajpur Road,Node_46,false,49868,1335.00,Stuck
+Greedy,Unknown,Node_135,true,217,6344.00,Arrived
+Greedy,Node_53,Node_14,false,49850,1460.00,Stuck
+Greedy,Node_106,Node_118,false,49848,4510.00,Stuck
+Greedy,Node_62,Node_135,false,49833,0.00,Stuck
+Greedy,Node_74,Node_97,false,49820,3439.00,Stuck
+Greedy,Node_67,Node_118,false,49818,423.00,Stuck
+Greedy,Node_127,Node_62,false,49816,3454.00,Stuck
+Greedy,Node_74,Node_40,false,49815,0.00,Stuck
+Greedy,Node_26,Node_101,false,49814,0.00,Stuck
+Greedy,Node_76,Node_88,false,49814,4627.00,Stuck
+Greedy,Node_116,Node_4,false,49802,0.00,Stuck
+Greedy,Node_92,Node_48,false,49784,480.00,Stuck
+Greedy,Node_75,Node_110,false,49780,0.00,Stuck
+Greedy,Node_82,Node_16,false,49765,0.00,Stuck
+Greedy,Unknown,Node_10,false,35,521.00,Arrived
+Greedy,Node_80,Node_144,false,49752,0.00,Stuck
+Greedy,Node_99,Node_86,false,49750,327.00,Stuck
+Greedy,Node_114,Node_36,false,49746,0.00,Stuck
+Greedy,Node_22,Node_11,false,49746,1215.00,Stuck
+Greedy,Node_47,Node_136,false,49730,0.00,Stuck
+Greedy,Node_49,Node_136,false,49723,0.00,Stuck
+Greedy,Node_31,Node_98,false,49720,1411.00,Stuck
+Greedy,Node_141,Node_5,false,49714,0.00,Stuck
+Greedy,Node_105,Node_43,false,49705,0.00,Stuck
+Greedy,Node_33,Prem Nagar,false,49701,1210.00,Stuck
+Greedy,Node_116,Node_31,false,49683,0.00,Stuck
+Greedy,Unknown,Node_30,true,15,434.00,Arrived
+Greedy,Node_49,Node_110,false,49677,0.00,Stuck
+Greedy,Node_65,Node_99,false,49668,2996.00,Stuck
+Greedy,Node_105,Node_72,false,49665,5117.00,Stuck
+Greedy,Node_25,Node_122,false,49662,0.00,Stuck
+Greedy,Node_114,Node_32,false,49648,0.00,Stuck
+Greedy,Node_88,Node_126,false,49644,642.00,Stuck
+Greedy,Unknown,Node_41,false,50,740.00,Arrived
+Greedy,Node_139,Node_106,false,49642,3718.00,Stuck
+Greedy,Clock Tower,Node_82,false,49641,0.00,Stuck
+Greedy,Node_135,Node_57,false,49634,0.00,Stuck
+Greedy,Unknown,Node_110,false,126,1858.00,Arrived
+Greedy,Node_63,Node_37,false,49632,2404.00,Stuck
+Greedy,Clock Tower,Node_29,false,49629,0.00,Stuck
+Greedy,Graphic Era Univ,Node_65,false,49627,434.00,Stuck
+Greedy,Node_18,Node_67,false,49619,0.00,Stuck
+Greedy,Node_3,Node_121,false,49619,0.00,Stuck
+Greedy,Clock Tower,Node_47,false,49615,0.00,Stuck
+Greedy,Node_49,Node_4,false,49614,0.00,Stuck
+Greedy,Unknown,Node_132,false,96,1414.00,Arrived
+Greedy,Node_87,Node_32,false,49613,1131.00,Stuck
+Greedy,Node_70,Node_104,false,49601,797.00,Stuck
+Greedy,Unknown,Node_34,true,297,8650.00,Arrived
+Greedy,Node_89,Node_53,false,49600,0.00,Stuck
+Greedy,Node_29,Node_54,false,49593,860.00,Stuck
+Greedy,Node_62,Node_85,false,49585,4541.00,Stuck
+Greedy,Node_30,Node_66,false,49580,0.00,Stuck
+Greedy,Node_101,Node_135,false,49569,3425.00,Stuck
+Greedy,Node_126,Node_24,false,49568,0.00,Stuck
+Greedy,Node_12,Node_137,false,49567,0.00,Stuck
+Greedy,Node_87,Node_29,false,49558,0.00,Stuck
+Greedy,Node_67,Node_142,false,49549,0.00,Stuck
+Greedy,Node_33,Node_104,false,49547,0.00,Stuck
+Greedy,Node_83,Node_128,false,49546,0.00,Stuck
+Greedy,Node_54,Node_144,false,49535,1251.00,Stuck
+Greedy,Node_1,Node_13,false,49534,3958.00,Stuck
+Greedy,Unknown,Node_144,false,442,6539.00,Arrived
+Greedy,Node_103,Node_30,false,49527,0.00,Stuck
+Greedy,Node_80,Node_118,false,49526,2586.00,Stuck
+Greedy,Node_90,Node_52,false,49514,0.00,Stuck
+Greedy,Node_78,ISBT Hub,false,49513,1874.00,Stuck
+Greedy,Paltan Bazaar,Node_8,false,49509,0.00,Stuck
+Greedy,Node_70,Node_59,false,49505,0.00,Stuck
+Greedy,Node_20,Node_111,false,49488,0.00,Stuck
+Greedy,Node_124,Node_4,false,49483,0.00,Stuck
+Greedy,Unknown,Node_25,true,383,11186.00,Arrived
+Greedy,Node_64,Node_7,false,49473,0.00,Stuck
+Greedy,Node_19,Node_82,false,49471,0.00,Stuck
+Greedy,Node_86,Node_17,false,49468,0.00,Stuck
+Greedy,Node_76,Node_43,false,49466,853.00,Stuck
+Greedy,Node_37,Node_99,false,49458,0.00,Stuck
+Greedy,Node_30,Node_64,false,49458,1251.00,Stuck
+Greedy,Node_116,Node_72,false,49456,0.00,Stuck
+Greedy,Node_81,Node_106,false,49454,0.00,Stuck
+Greedy,Unknown,Node_10,false,194,2870.00,Arrived
+Greedy,Prem Nagar,Node_137,false,49446,0.00,Stuck
+Greedy,Unknown,Node_2,true,267,7796.00,Arrived
+Greedy,Node_4,Node_66,false,49431,0.00,Stuck
+Greedy,Node_134,Node_17,false,49430,0.00,Stuck
+Greedy,Node_118,Node_80,false,49429,0.00,Stuck
+Greedy,Node_138,Node_72,false,49423,0.00,Stuck
+Greedy,Node_12,Node_72,false,49420,0.00,Stuck
+Greedy,Node_38,Node_73,false,49413,0.00,Stuck
+Greedy,Node_57,Node_141,false,49395,0.00,Stuck
+Greedy,Node_23,Node_126,false,49390,0.00,Stuck
+Greedy,Unknown,Node_142,true,180,5280.00,Arrived
+Greedy,Node_114,Node_29,false,49381,0.00,Stuck
+Greedy,Node_15,Node_91,false,49367,0.00,Stuck
+Greedy,Node_57,Node_126,false,49364,0.00,Stuck
+Greedy,Node_18,Node_86,false,49362,0.00,Stuck
+Greedy,Unknown,Node_3,false,59,875.00,Arrived
+Greedy,Node_48,Node_83,false,49346,0.00,Stuck
+Greedy,Node_65,Node_113,false,49343,0.00,Stuck
+Greedy,Node_50,Node_140,false,49340,506.00,Stuck
+Greedy,Node_137,Node_45,false,49339,0.00,Stuck
+Greedy,Node_52,Node_75,false,49336,4315.00,Stuck
+Greedy,Unknown,Node_7,false,233,3449.00,Arrived
+Greedy,Node_88,Node_49,false,49326,357.00,Stuck
+Greedy,Node_16,Node_122,false,49317,0.00,Stuck
+Greedy,Unknown,Node_83,true,135,3961.00,Arrived
+Greedy,Node_92,Node_142,false,49316,0.00,Stuck
+Greedy,Node_69,Node_47,false,49310,3350.00,Stuck
+Greedy,Node_83,Node_6,false,49305,0.00,Stuck
+Greedy,Node_111,Node_10,false,49298,0.00,Stuck
+Greedy,Node_25,Node_37,false,49297,0.00,Stuck
+Greedy,Node_84,Node_107,false,49293,0.00,Stuck
+Greedy,Unknown,Node_59,false,27,392.00,Arrived
+Greedy,Node_29,Node_138,false,49279,0.00,Stuck
+Greedy,Node_55,Node_42,false,49267,0.00,Stuck
+Greedy,Node_17,Node_120,false,49264,1830.00,Stuck
+Greedy,Clement Town,Node_113,false,49264,0.00,Stuck
+Greedy,Unknown,Node_25,false,259,3830.00,Arrived
+Greedy,Node_29,Node_63,false,49261,2334.00,Stuck
+Greedy,Node_8,Node_104,false,49257,0.00,Stuck
+Greedy,Node_3,Node_80,false,49252,0.00,Stuck
+Greedy,Node_106,Node_118,false,49248,793.00,Stuck
+Greedy,Node_137,Node_115,false,49234,0.00,Stuck
+Greedy,Node_98,Node_41,false,49230,0.00,Stuck
+Greedy,Node_38,Node_135,false,49223,0.00,Stuck
+Greedy,Node_66,Node_54,false,49216,0.00,Stuck
+Greedy,Node_1,Node_135,false,49213,0.00,Stuck
+Greedy,Node_69,Node_12,false,49209,0.00,Stuck
+Greedy,Node_33,Node_7,false,49205,318.00,Stuck
+Greedy,Node_34,Node_113,false,49204,0.00,Stuck
+Greedy,Node_134,Node_17,false,49195,0.00,Stuck
+Greedy,Node_18,Node_41,false,49189,0.00,Stuck
+Greedy,Node_124,Node_136,false,49187,5138.00,Stuck
+Greedy,Node_143,Node_130,false,49179,651.00,Stuck
+Greedy,Node_23,Node_96,false,49178,0.00,Stuck
+Greedy,Node_134,Node_54,false,49177,0.00,Stuck
+Greedy,Node_20,Node_32,false,49175,738.00,Stuck
+Greedy,Node_87,Node_65,false,49169,1131.00,Stuck
+Greedy,Node_76,Node_42,false,49167,0.00,Stuck
+Greedy,Node_96,Node_11,false,49163,0.00,Stuck
+Greedy,Node_78,Node_134,false,49162,1080.00,Stuck
+Greedy,Node_14,Node_113,false,49161,0.00,Stuck
+Greedy,Unknown,Node_105,true,116,3402.00,Arrived
+Greedy,Node_34,Node_23,false,49149,4148.00,Stuck
+Greedy,Node_139,Node_117,false,49145,1646.00,Stuck
+Greedy,Node_124,Node_91,false,49144,0.00,Stuck
+Greedy,Node_21,Node_127,false,49143,0.00,Stuck
+Greedy,Node_115,Node_8,false,49124,0.00,Stuck
+Greedy,Node_103,Node_126,false,49113,0.00,Stuck
+Greedy,Node_109,Node_121,false,49092,1291.00,Stuck
+Greedy,Node_83,Node_9,false,49087,0.00,Stuck
+Greedy,Unknown,Node_72,true,171,4964.00,Arrived
+Greedy,Node_142,Node_120,false,49084,1126.00,Stuck
+Greedy,Node_73,Node_137,false,49077,0.00,Stuck
+Greedy,Node_43,Node_120,false,49054,1107.00,Stuck
+Greedy,Node_114,Node_103,false,49052,1858.00,Stuck
+Greedy,Node_104,Node_129,false,49046,3581.00,Stuck
+Greedy,Node_98,Node_110,false,49043,2250.00,Stuck
+Greedy,Node_63,Node_75,false,49038,733.00,Stuck
+Greedy,Clock Tower,Node_82,false,49018,0.00,Stuck
+Greedy,Node_4,Node_103,false,49018,0.00,Stuck
+Greedy,Node_8,Node_33,false,49013,1897.00,Stuck
+Greedy,Rajpur Road,Node_130,false,49011,547.00,Stuck
+Greedy,Node_67,Node_56,false,49007,423.00,Stuck
+Greedy,Node_38,Node_25,false,49003,2569.00,Stuck
+Greedy,Unknown,Node_110,false,259,3843.00,Arrived
+Greedy,Node_56,Node_112,false,48994,2126.00,Stuck
+Greedy,Node_6,Node_129,false,48994,0.00,Stuck
+Greedy,Node_1,Node_13,false,48994,2751.00,Stuck
+Greedy,Node_7,Node_67,false,48991,0.00,Stuck
+Greedy,Node_33,Node_124,false,48989,0.00,Stuck
+Greedy,Unknown,Node_136,true,229,6675.00,Arrived
+Greedy,Node_22,Node_60,false,48979,3853.00,Stuck
+Greedy,Node_7,Node_74,false,48979,1482.00,Stuck
+Greedy,Node_126,Node_50,false,48976,0.00,Stuck
+Greedy,Node_56,Node_80,false,48967,0.00,Stuck
+Greedy,Node_101,Node_15,false,48950,0.00,Stuck
+Greedy,Node_106,Node_130,false,48941,0.00,Stuck
+Greedy,Node_122,Node_53,false,48940,0.00,Stuck
+Greedy,Node_23,Node_101,false,48940,745.00,Stuck
+Greedy,Node_82,Node_60,false,48939,5280.00,Stuck
+Greedy,Node_20,Node_7,false,48934,2424.00,Stuck
+Greedy,Node_103,Node_51,false,48932,755.00,Stuck
+Greedy,Node_90,Node_38,false,48931,1251.00,Stuck
+Greedy,Node_114,Node_65,false,48923,0.00,Stuck
+Greedy,Pacific Mall,Node_83,false,48921,4440.00,Stuck
+Greedy,Node_140,Node_52,false,48907,0.00,Stuck
+Greedy,Node_128,Node_63,false,48905,793.00,Stuck
+Greedy,Node_141,Pacific Mall,false,48900,0.00,Stuck
+Greedy,Node_113,Node_125,false,48891,2427.00,Stuck
+Greedy,Node_139,Node_22,false,48889,0.00,Stuck
+Greedy,Node_46,Node_117,false,48884,0.00,Stuck
+Greedy,Node_33,Node_111,false,48882,633.00,Stuck
+Greedy,Unknown,Node_51,false,96,1420.00,Arrived
+Greedy,Node_122,Node_109,false,48870,465.00,Stuck
+Greedy,Prem Nagar,Node_74,false,48869,5154.00,Stuck
+Greedy,Unknown,Node_138,true,163,4707.00,Arrived
+Greedy,Node_45,Node_114,false,48847,0.00,Stuck
+Greedy,Node_45,Node_96,false,48847,2995.00,Stuck
+Greedy,Graphic Era Univ,Node_50,false,48841,1625.00,Stuck
+Greedy,Node_136,Node_70,false,48836,2072.00,Stuck
+Greedy,Node_74,Node_37,false,48827,0.00,Stuck
+Greedy,Node_91,Node_103,false,48826,480.00,Stuck
+Greedy,Node_63,ISBT Hub,false,48825,0.00,Stuck
+Greedy,Unknown,Node_114,false,176,2605.00,Arrived
+Greedy,Pacific Mall,Node_59,false,48818,0.00,Stuck
+Greedy,Node_82,Node_138,false,48809,1250.00,Stuck
+Greedy,Node_9,Node_69,false,48799,0.00,Stuck
+Greedy,Node_91,Node_57,false,48798,0.00,Stuck
+Greedy,Node_140,Node_62,false,48795,2440.00,Stuck
+Greedy,Node_50,Node_127,false,48794,506.00,Stuck
+Greedy,Unknown,Pacific Mall,true,106,3134.00,Arrived
+Greedy,Node_42,Node_16,false,48784,367.00,Stuck
+Greedy,Node_141,Node_128,false,48778,482.00,Stuck
+Greedy,Prem Nagar,Node_134,false,48777,0.00,Stuck
+Greedy,Node_130,Node_142,false,48768,0.00,Stuck
+Greedy,Node_19,Node_130,false,48744,0.00,Stuck
+Greedy,Node_91,Node_43,false,48742,0.00,Stuck
+Greedy,Node_30,Node_18,false,48739,0.00,Stuck
+Greedy,Node_69,Node_43,false,48734,1090.00,Stuck
+Greedy,Node_67,Node_112,false,48728,0.00,Stuck
+Greedy,Unknown,Node_7,false,233,3449.00,Arrived
+Greedy,Node_14,Node_3,false,48720,677.00,Stuck
+Greedy,Node_54,Node_88,false,48713,2672.00,Stuck
+Greedy,Node_67,ISBT Hub,false,48711,2036.00,Stuck
+Greedy,Rajpur Road,Node_46,false,48711,0.00,Stuck
+Greedy,Node_138,Node_36,false,48707,0.00,Stuck
+Greedy,Node_55,Node_139,false,48705,0.00,Stuck
+Greedy,Node_77,ISBT Hub,false,48703,0.00,Stuck
+Greedy,Node_126,Node_22,false,48700,0.00,Stuck
+Greedy,Prem Nagar,Node_134,false,48685,4183.00,Stuck
+Greedy,Unknown,Node_41,true,212,6105.00,Arrived
+Greedy,Node_68,Node_124,false,48675,0.00,Stuck
+Greedy,Prem Nagar,Graphic Era Univ,false,48673,0.00,Stuck
+Greedy,Graphic Era Univ,Node_39,false,48672,3509.00,Stuck
+Greedy,Node_17,Node_42,false,48672,0.00,Stuck
+Greedy,Node_99,Node_11,false,48671,0.00,Stuck
+Greedy,Node_104,Node_13,false,48669,1591.00,Stuck
+Greedy,Node_12,Node_116,false,48664,0.00,Stuck
+Greedy,Node_31,Node_43,false,48654,1238.00,Stuck
+Greedy,Node_28,Node_118,false,48648,0.00,Stuck
+Greedy,Node_137,Node_98,false,48632,1715.00,Stuck
+Greedy,Node_82,Node_60,false,48630,4767.00,Stuck
+Greedy,Clock Tower,Node_118,false,48624,782.00,Stuck
+Greedy,Paltan Bazaar,Node_116,false,48624,0.00,Stuck
+Greedy,Node_120,Node_23,false,48622,0.00,Stuck
+Greedy,Node_101,Node_26,false,48621,0.00,Stuck
+Greedy,Prem Nagar,Node_112,false,48617,1727.00,Stuck
+Greedy,Unknown,Node_101,true,155,4569.00,Arrived
+Greedy,Node_18,Node_126,false,48610,0.00,Stuck
+Greedy,Node_75,Node_4,false,48608,0.00,Stuck
+Greedy,Node_16,Node_80,false,48606,1071.00,Stuck
+Greedy,Node_141,Node_11,false,48604,0.00,Stuck
+Greedy,Node_21,Node_129,false,48596,0.00,Stuck
+Greedy,Unknown,Rajpur Road,true,136,3953.00,Arrived
+Greedy,Node_61,Node_122,false,48584,0.00,Stuck
+Greedy,Node_125,Paltan Bazaar,false,48583,0.00,Stuck
+Greedy,Node_31,Node_76,false,48581,0.00,Stuck
+Greedy,Node_9,Node_115,false,48580,0.00,Stuck
+Greedy,Node_15,Node_2,false,48575,1808.00,Stuck
+Greedy,Node_7,Node_19,false,48564,1388.00,Stuck
+Greedy,Node_98,Node_85,false,48559,989.00,Stuck
+Greedy,Node_10,Node_125,false,48556,0.00,Stuck
+Greedy,Node_37,Node_97,false,48550,0.00,Stuck
+Greedy,Paltan Bazaar,Node_139,false,48535,0.00,Stuck
+Greedy,Node_10,Node_48,false,48533,0.00,Stuck
+Greedy,Node_77,Node_25,false,48531,3196.00,Stuck
+Greedy,Node_88,Node_62,false,48522,0.00,Stuck
+Greedy,Node_5,Node_95,false,48519,2061.00,Stuck
+Greedy,Node_59,Node_48,false,48516,560.00,Stuck
+Greedy,Node_2,Node_38,false,48516,0.00,Stuck
+Greedy,Node_107,Node_42,false,48504,609.00,Stuck
+Greedy,Node_64,Node_134,false,48499,0.00,Stuck
+Greedy,Node_114,Node_137,false,48495,3934.00,Stuck
+Greedy,Node_140,Node_62,false,48487,2440.00,Stuck
+Greedy,Node_53,Node_87,false,48483,522.00,Stuck
+Greedy,Node_96,Node_108,false,48479,1497.00,Stuck
+Greedy,Node_135,Node_58,false,48478,566.00,Stuck
+Greedy,Node_104,Node_60,false,48468,4319.00,Stuck
+Greedy,Node_66,Node_33,false,48460,3133.00,Stuck
+Greedy,Node_67,Node_7,false,48459,0.00,Stuck
+Greedy,Node_28,Node_39,false,48453,2424.00,Stuck
+Greedy,Node_113,Node_64,false,48452,0.00,Stuck
+Greedy,Node_115,Node_47,false,48450,0.00,Stuck
+Greedy,Node_52,Node_39,false,48449,729.00,Stuck
+Greedy,Node_102,Node_91,false,48447,2988.00,Stuck
+Greedy,Unknown,Node_48,false,287,4237.00,Arrived
+Greedy,Node_125,Paltan Bazaar,false,48433,0.00,Stuck
+Greedy,Node_105,Node_1,false,48428,0.00,Stuck
+Greedy,Node_94,Node_106,false,48426,749.00,Stuck
+Greedy,Unknown,Node_69,false,226,3350.00,Arrived
+Greedy,Node_142,Node_118,false,48423,0.00,Stuck
+Greedy,Pacific Mall,Node_96,false,48422,2996.00,Stuck
+Greedy,Node_121,Node_109,false,48421,0.00,Stuck
+Greedy,Node_91,Node_78,false,48406,1229.00,Stuck
+Greedy,Node_8,Node_92,false,48403,0.00,Stuck
+Greedy,Node_124,Node_111,false,48399,374.00,Stuck
+Greedy,Node_31,Node_85,false,48389,0.00,Stuck
+Greedy,Node_104,Node_53,false,48385,0.00,Stuck
+Greedy,Node_32,Node_94,false,48374,0.00,Stuck
+Greedy,Node_9,Node_119,false,48367,0.00,Stuck
+Greedy,Node_125,Node_70,false,48365,833.00,Stuck
+Greedy,Node_29,Node_124,false,48357,0.00,Stuck
+Greedy,Node_126,Node_62,false,48353,0.00,Stuck
+Greedy,Node_125,Node_112,false,48351,4764.00,Stuck
+Greedy,Node_62,Node_51,false,48346,0.00,Stuck
+Greedy,Node_89,Node_50,false,48343,2532.00,Stuck
+Greedy,Node_63,Node_86,false,48341,733.00,Stuck
+Greedy,Node_40,Node_63,false,48339,2242.00,Stuck
+Greedy,Node_65,Node_99,false,48329,3323.00,Stuck
+Greedy,Node_6,Node_80,false,48325,0.00,Stuck
+Greedy,Node_20,Node_58,false,48325,1420.00,Stuck
+Greedy,Node_120,Node_132,false,48317,5248.00,Stuck
+Greedy,Paltan Bazaar,Node_94,false,48310,0.00,Stuck
+Greedy,Node_18,Pacific Mall,false,48309,0.00,Stuck
+Greedy,Node_129,Node_28,false,48303,0.00,Stuck
+Greedy,Node_66,Node_136,false,48301,0.00,Stuck
+Greedy,Node_93,Clock Tower,false,48295,2167.00,Stuck
+Greedy,Node_118,Node_58,false,48294,0.00,Stuck
+Greedy,Node_133,Node_88,false,48293,0.00,Stuck
+Greedy,Unknown,Node_133,false,353,5225.00,Arrived
+Greedy,Node_15,Node_135,false,48290,0.00,Stuck
+Greedy,Node_133,Node_2,false,48280,0.00,Stuck
+Greedy,Unknown,Node_4,true,215,6267.00,Arrived
+Greedy,Node_91,Node_34,false,48267,0.00,Stuck
+Greedy,Unknown,Node_62,false,39,571.00,Arrived
+Greedy,Unknown,Node_88,false,195,2889.00,Arrived
+Greedy,Node_47,Node_125,false,48252,0.00,Stuck
+Greedy,Node_17,Node_29,false,48248,1830.00,Stuck
+Greedy,Node_124,Node_52,false,48248,0.00,Stuck
+Greedy,Node_93,Node_45,false,48242,0.00,Stuck
+Greedy,Node_6,Node_95,false,48241,0.00,Stuck
+Greedy,Node_140,Node_89,false,48240,0.00,Stuck
+Greedy,Node_18,Node_55,false,48238,0.00,Stuck
+Greedy,Node_124,Node_65,false,48232,0.00,Stuck
+Greedy,Unknown,Rajpur Road,false,36,533.00,Arrived
+Greedy,Unknown,Node_107,false,183,2708.00,Arrived
+Greedy,Node_32,Node_96,false,48201,0.00,Stuck
+Greedy,Node_21,Node_8,false,48201,0.00,Stuck
+Greedy,Node_22,Node_111,false,48197,0.00,Stuck
+Greedy,Node_121,Node_73,false,48189,0.00,Stuck
+Greedy,Node_78,Node_103,false,48177,1506.00,Stuck
+Greedy,Node_122,Node_76,false,48173,0.00,Stuck
+Greedy,Node_129,Node_18,false,48170,0.00,Stuck
+Greedy,Node_70,Node_82,false,48165,1989.00,Stuck
+Greedy,Node_54,Node_110,false,48163,3064.00,Stuck
+Greedy,Node_5,Node_50,false,48159,3454.00,Stuck
+Greedy,Node_50,Node_109,false,48158,0.00,Stuck
+Greedy,Node_65,Graphic Era Univ,false,48157,0.00,Stuck
+Greedy,Node_74,Node_86,false,48150,513.00,Stuck
+Greedy,Node_96,Node_58,false,48150,0.00,Stuck
+Greedy,Node_139,Node_89,false,48147,0.00,Stuck
+Greedy,Node_93,Node_3,false,48137,0.00,Stuck
+Greedy,Node_55,Node_42,false,48131,305.00,Stuck
+Greedy,Node_142,Node_120,false,48129,482.00,Stuck
+Greedy,Node_8,Node_87,false,48125,0.00,Stuck
+Greedy,Node_78,Node_30,false,48103,0.00,Stuck
+Greedy,Node_92,Node_59,false,48095,1251.00,Stuck
+Greedy,Node_138,Node_116,false,48084,3049.00,Stuck
+Greedy,Node_98,Node_121,false,48081,2826.00,Stuck
+Greedy,Node_17,Prem Nagar,false,48079,0.00,Stuck
+Greedy,Unknown,Node_124,false,294,4356.00,Arrived
+Greedy,Node_116,Node_139,false,48078,0.00,Stuck
+Greedy,Node_53,Node_117,false,48065,0.00,Stuck
+Greedy,Unknown,Node_114,true,116,3380.00,Arrived
+Greedy,Unknown,Graphic Era Univ,true,152,4392.00,Arrived
+Greedy,Node_33,Node_101,false,48045,0.00,Stuck
+Greedy,Node_107,Node_22,false,48044,0.00,Stuck
+Greedy,Node_70,Node_24,false,48043,0.00,Stuck
+Greedy,Node_31,Node_20,false,48042,1646.00,Stuck
+Greedy,Node_117,Node_31,false,48039,0.00,Stuck
+Greedy,Clement Town,Node_108,false,48038,0.00,Stuck
+Greedy,Node_1,Node_13,false,48012,4410.00,Stuck
+Greedy,Node_39,Node_1,false,48006,0.00,Stuck

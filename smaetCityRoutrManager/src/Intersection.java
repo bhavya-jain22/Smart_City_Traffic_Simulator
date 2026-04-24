@@ -6,6 +6,9 @@ public class Intersection {
     private String name;
     private int x, y;
     private List<Road> connectedRoads;
+    
+    // Traffic light state
+    public boolean isHorizontalGreen = true;
 
     public Intersection(int id, String name, int x, int y) {
         this.id = id;

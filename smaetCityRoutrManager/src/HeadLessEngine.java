@@ -18,12 +18,12 @@ public class HeadLessEngine {
         System.out.println("INITIATING RUSH HOUR TRAFFIC...");
         
         // Spawn multiple vehicles with overlapping routes to force traffic!
-        activeVehicles.add(new Vehicle(cityGraph.get(1), cityGraph.get(8), aStar)); // GEU to Clock Tower
+        activeVehicles.add(new Vehicle(cityGraph.get(1), cityGraph.get(8), aStar, false)); // GEU to Clock Tower
         activeVehicles.add(new Taxi(cityGraph.get(2), cityGraph.get(6), aStar));    // Clement Town to Shimla Bypass
-        activeVehicles.add(new Vehicle(cityGraph.get(3), cityGraph.get(7), aStar)); // Transport Nagar to Vasant Vihar
-        activeVehicles.add(new Vehicle(cityGraph.get(5), cityGraph.get(8), aStar)); // Prem Nagar to Clock Tower
+        activeVehicles.add(new Vehicle(cityGraph.get(3), cityGraph.get(7), aStar, false)); // Transport Nagar to Vasant Vihar
+        activeVehicles.add(new Vehicle(cityGraph.get(5), cityGraph.get(8), aStar, false)); // Prem Nagar to Clock Tower
         activeVehicles.add(new Taxi(cityGraph.get(1), cityGraph.get(6), aStar));    // GEU to Shimla Bypass
-        activeVehicles.add(new Vehicle(cityGraph.get(2), cityGraph.get(8), aStar)); // Clement Town to Clock Tower
+        activeVehicles.add(new Vehicle(cityGraph.get(2), cityGraph.get(8), aStar, false)); // Clement Town to Clock Tower
         System.out.println("Spawned Regular Vehicle (Route: 1 -> 8)");
         System.out.println("Spawned Premium Taxi (Route: 2 -> 11)");
 

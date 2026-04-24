@@ -47,6 +47,10 @@ public class Road {
         return isUnderConstruction;
     }
 
+    public void setUnderConstruction(boolean underConstruction) {
+        this.isUnderConstruction = underConstruction;
+    }
+
     public int getPotholeCount() {
         return potholeCount;
     }
