@@ -51,6 +51,13 @@ public class Road {
         this.isUnderConstruction = underConstruction;
     }
 
+    public int getCapacity() { return capacity; }
+
+    /** Temporarily reduce capacity to force congestion in demos */
+    public void setCapacity(int cap) {
+        this.capacity = Math.max(1, cap);
+    }
+
     public int getPotholeCount() {
         return potholeCount;
     }

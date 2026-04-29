@@ -19,6 +19,11 @@ public class Vehicle {
     public boolean hasRerouted = false;
     public boolean isWaitingOrSlow = false;
     public boolean isAmbulance = false;
+    // Reroute flash: set when a road-block forces this vehicle to reroute
+    public boolean justRerouted = false;
+    public int rerouteFlashTimer = 0;
+    // Bottleneck demo: set when spawned by the Force Bottleneck operation
+    public boolean isBottleneckCar = false;
 
     public Vehicle(Intersection start, Intersection target, RoutingStrategy routingBrain, boolean isAmbulance) {
         this.currentLocation = start;
