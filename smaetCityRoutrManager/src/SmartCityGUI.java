@@ -89,7 +89,7 @@ public class SmartCityGUI extends JFrame {
         JLabel algoLabel = new JLabel("Routing:");
         algoLabel.setForeground(TEXT_LIGHT);
         algoLabel.setFont(MODERN_FONT);
-        algoSelector = new JComboBox<>(new String[]{"A* (A-Star)", "Dijkstra", "Greedy"});
+        algoSelector = new JComboBox<>(new String[]{"A* (A-Star)", "Dijkstra", "Bellman-Ford"});
         algoSelector.setFont(new Font("Segoe UI", Font.PLAIN, 13));
 
         JLabel weatherLabel = new JLabel("Weather:");
@@ -510,7 +510,7 @@ public class SmartCityGUI extends JFrame {
     private RoutingStrategy getSelectedStrategy() {
         String selectedAlgo = (String) algoSelector.getSelectedItem();
         if (selectedAlgo.equals("Dijkstra")) return new DijkstraRouting();
-        if (selectedAlgo.equals("Greedy")) return new GreedyRouting();
+        if (selectedAlgo.equals("Bellman-Ford")) return new BellmanFordRouting();
         return new AStarRouting();
     }
 
@@ -548,7 +548,7 @@ public class SmartCityGUI extends JFrame {
                 List<BenchmarkResult> results = new ArrayList<>();
                 results.add(BenchmarkEngine.runBenchmark("A*", new AStarRouting(), cityGraph, spawnRecords));
                 results.add(BenchmarkEngine.runBenchmark("Dijkstra", new DijkstraRouting(), cityGraph, spawnRecords));
-                results.add(BenchmarkEngine.runBenchmark("Greedy", new GreedyRouting(), cityGraph, spawnRecords));
+                results.add(BenchmarkEngine.runBenchmark("Bellman-Ford", new BellmanFordRouting(), cityGraph, spawnRecords));
                 return results;
             }
 
